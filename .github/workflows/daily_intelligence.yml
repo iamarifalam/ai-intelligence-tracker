@@ -1,24 +1,35 @@
-name: Ingest Daily AI Research
+name: Continuous Engineering Pipeline
 
 on:
   schedule:
-    # 5 runs per day spread naturally across active hours:
-    # 03:00 UTC (08:30 AM IST)
-    # 07:00 UTC (12:30 PM IST)
-    # 11:00 UTC (04:30 PM IST)
-    # 15:00 UTC (08:30 PM IST)
-    # 19:00 UTC (12:30 AM IST)
+    # 5 runs per day performing distinct developer tasks:
+    # 03:00 UTC - arXiv Research Ingestion
+    # 07:00 UTC - RAG Performance Benchmarking
+    # 11:00 UTC - Algorithms & Data Structure Validation
+    # 15:00 UTC - Model Metrics Indexing
+    # 19:00 UTC - System & Health Verification
     - cron: '0 3,7,11,15,19 * * *'
   workflow_dispatch:
+    inputs:
+      task:
+        description: 'Task to execute'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - arxiv
+          - benchmark
+          - algorithms
 
 permissions:
   contents: write
 
 jobs:
-  ingest:
+  build-and-run:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
@@ -28,17 +39,34 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run test suite
+      - name: Run Test Suite
         run: |
-          python -m unittest test_tracker.py
+          python -m unittest discover -s .
 
-      - name: Run pipeline
+      - name: Execute Dynamic Engineering Task
         run: |
-          python tracker.py
+          HOUR=$(date -u +'%H')
+          if [ "$HOUR" -eq 3 ]; then
+            python runner.py --task arxiv
+            MSG="feat(research): index daily arXiv papers"
+          elif [ "$HOUR" -eq 7 ]; then
+            python runner.py --task benchmark
+            MSG="perf(rag): run retrieval hit-rate and latency benchmark"
+          elif [ "$HOUR" -eq 11 ]; then
+            python runner.py --task algorithms
+            MSG="test(algo): verify algorithmic solutions and heaps"
+          elif [ "$HOUR" -eq 15 ]; then
+            python runner.py --task arxiv
+            MSG="feat(models): update Hugging Face trending registry"
+          else
+            python runner.py --task all
+            MSG="chore(pipeline): execute full engineering test matrix"
+          fi
+          echo "COMMIT_MSG=$MSG" >> $GITHUB_ENV
 
-      - name: Commit dataset updates
+      - name: Commit and Push Updates
         run: |
           git config --local user.name "Arif Alam"
           git config --local user.email "iamarifalam@users.noreply.github.com"
           git add data/ reports/
-          git diff-index --quiet HEAD || (git commit -m "feat(data): update daily arXiv and Hugging Face index" && git push)
+          git diff-index --quiet HEAD || (git commit -m "$COMMIT_MSG [$(date -u +'%Y-%m-%d')]" && git push)

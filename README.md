@@ -1,18 +1,18 @@
-# ai-intelligence-tracker
+# ai-engineering-workspace
 
-Automated pipeline for collecting, parsing, and storing daily machine learning research papers (arXiv cs.AI, cs.CL, cs.LG) and trending model metadata from Hugging Face.
+A continuous engineering toolkit and benchmarking suite covering RAG evaluation, algorithmic challenges, and machine learning research tracking.
 
-## Architecture
+## Components
 
-- `tracker.py`: Main ingestion script that queries APIs, parses payloads, and writes formatted outputs.
-- `test_tracker.py`: Integration and unit tests covering response parsing and schema validation.
-- `data/daily/`: Daily structured JSON datasets.
-- `reports/`: Markdown digest summaries.
+- **RAG Benchmarking (`benchmarks/`)**: Evaluates retrieval latency, hit-rate, and precision across chunk configurations.
+- **Algorithms (`challenges/`)**: Implementations and unit test suites for data structures and algorithmic patterns.
+- **Research Ingestion (`tracker.py`)**: Data pipeline tracking arXiv machine learning categories and Hugging Face model metadata.
+- **Orchestration (`runner.py`)**: Unified execution harness for running individual or matrix workloads.
 
 ## Getting Started
 
 ### Prerequisites
-- Python 3.10 or higher
+- Python 3.10+
 
 ### Installation
 ```bash
@@ -20,45 +20,20 @@ git clone https://github.com/iamarifalam/ai-intelligence-tracker.git
 cd ai-intelligence-tracker
 ```
 
-### Running Locally
+### Running Tasks
 ```bash
-python3 tracker.py
+# Run all components
+python runner.py --task all
+
+# Run individual benchmarks
+python runner.py --task benchmark
+python runner.py --task algorithms
+python runner.py --task arxiv
 ```
 
 ### Running Tests
 ```bash
-python3 -m unittest test_tracker.py
-```
-
-## Data Schema
-
-Each daily run outputs a JSON file in `data/daily/` with the following structure:
-
-```json
-{
-  "date": "YYYY-MM-DD",
-  "generated_at": "ISO-8601 timestamp",
-  "papers_count": 5,
-  "models_count": 5,
-  "papers": [
-    {
-      "title": "string",
-      "summary": "string",
-      "published": "ISO-8601 string",
-      "url": "string",
-      "authors": ["string"]
-    }
-  ],
-  "models": [
-    {
-      "id": "string",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "string",
-      "url": "string"
-    }
-  ]
-}
+python -m unittest discover -s .
 ```
 
 ## License
