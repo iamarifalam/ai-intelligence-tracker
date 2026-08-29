@@ -2,7 +2,7 @@ name: Daily AI Research & Model Intelligence
 
 on:
   schedule:
-    - cron: '0 4,16 * * *' # Runs at 04:00 and 16:00 UTC every day
+    - cron: '0 4,16 * * *'
   workflow_dispatch:
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit Intelligence Digest & Datasets
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "Arif Alam"
+          git config --local user.email "iamarifalam@users.noreply.github.com"
           git add data/ reports/
-          git diff-index --quiet HEAD || (git commit -m "feat(intel): sync daily arXiv papers & HuggingFace models [$(date -u +'%Y-%m-%d')]" && git push)
+          git diff-index --quiet HEAD || (git commit -m "feat: sync daily research papers & benchmark models [$(date -u +'%Y-%m-%d')]" && git push)
