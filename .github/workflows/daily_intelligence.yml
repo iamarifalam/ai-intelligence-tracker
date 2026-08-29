@@ -2,7 +2,13 @@ name: Ingest Daily AI Research
 
 on:
   schedule:
-    - cron: '0 4,16 * * *'
+    # 5 runs per day spread naturally across active hours:
+    # 03:00 UTC (08:30 AM IST)
+    # 07:00 UTC (12:30 PM IST)
+    # 11:00 UTC (04:30 PM IST)
+    # 15:00 UTC (08:30 PM IST)
+    # 19:00 UTC (12:30 AM IST)
+    - cron: '0 3,7,11,15,19 * * *'
   workflow_dispatch:
 
 permissions:
