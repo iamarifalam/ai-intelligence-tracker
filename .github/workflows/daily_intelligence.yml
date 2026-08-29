@@ -1,0 +1,38 @@
+name: Daily AI Research & Model Intelligence
+
+on:
+  schedule:
+    - cron: '0 4,16 * * *' # Runs at 04:00 and 16:00 UTC every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  track-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Test Suite
+        run: |
+          python -m unittest test_tracker.py
+
+      - name: Run Intelligence Engine
+        run: |
+          python tracker.py
+
+      - name: Commit Intelligence Digest & Datasets
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ reports/
+          git diff-index --quiet HEAD || (git commit -m "feat(intel): sync daily arXiv papers & HuggingFace models [$(date -u +'%Y-%m-%d')]" && git push)
