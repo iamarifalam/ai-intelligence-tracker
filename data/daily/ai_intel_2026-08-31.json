@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T09:22:49.973429+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs",
+      "summary": "We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a general computational implementation in which the solution on each edge of the grap...",
+      "published": "2026-08-28T17:59:47Z",
+      "url": "http://arxiv.org/abs/2608.28589v1",
+      "authors": [
+        "Vaibhav Mehandiratta",
+        "Saket Ramchandra"
+      ]
+    },
+    {
+      "title": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+      "summary": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so sma...",
+      "published": "2026-08-28T17:53:48Z",
+      "url": "http://arxiv.org/abs/2608.28578v1",
+      "authors": [
+        "Nan Wang",
+        "Mohit Yadav",
+        "Jonathan Wulff"
+      ]
+    },
+    {
+      "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+      "summary": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tas...",
+      "published": "2026-08-28T17:52:33Z",
+      "url": "http://arxiv.org/abs/2608.28576v1",
+      "authors": [
+        "Chengpiao Huang",
+        "Kaizheng Wang"
+      ]
+    },
+    {
+      "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
+      "summary": "We study the mixing time of weighted Dikin walks for sampling from exponential distributions on polytopes and truncated positive-semidefinite (PSD) cones. Our first result gives a general total-variation mixing bound under strong self-concordance, $\\bar\u03bd$-symmetry, and mixed-trac...",
+      "published": "2026-08-28T17:43:58Z",
+      "url": "http://arxiv.org/abs/2608.28566v1",
+      "authors": [
+        "Yuansi Chen",
+        "Yunbum Kook"
+      ]
+    },
+    {
+      "title": "Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy",
+      "summary": "We study kernel ridge regression under anisotropic Gaussian data, where the input covariance decays as a power law with exponent $\u03b1\\geq 0$ for polynomial inner-product kernels. We derive asymptotically sharp expressions for the kernel spectrum and the generalization error in the ...",
+      "published": "2026-08-28T17:41:53Z",
+      "url": "http://arxiv.org/abs/2608.28564v1",
+      "authors": [
+        "Lorenzo Rizzi",
+        "Arie Wortsman Zurich",
+        "Bruno Loureiro"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "likes": 4434,
+      "downloads": 121976,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+    },
+    {
+      "id": "zai-org/GLM-5.3-Flash",
+      "likes": 1757,
+      "downloads": 346516,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
+    },
+    {
+      "id": "zai-org/GLM-5.3",
+      "likes": 1375,
+      "downloads": 50116,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 13396,
+      "downloads": 4511348,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "likes": 613,
+      "downloads": 328195,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
+    }
+  ]
+}
