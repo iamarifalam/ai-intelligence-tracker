@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T17:54:55.796570+00:00",
+  "generated_at": "2026-08-31T23:06:43.548632+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -60,35 +60,35 @@
   "models": [
     {
       "id": "Qwen/Qwen3.8-Flash-Next",
-      "likes": 4498,
+      "likes": 4513,
       "downloads": 158598,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
     },
     {
       "id": "zai-org/GLM-5.3-Flash",
-      "likes": 1792,
+      "likes": 1807,
       "downloads": 379271,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
     },
     {
       "id": "zai-org/GLM-5.3",
-      "likes": 1399,
+      "likes": 1412,
       "downloads": 66195,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/zai-org/GLM-5.3"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 13452,
+      "likes": 13468,
       "downloads": 4720763,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "likes": 629,
+      "likes": 634,
       "downloads": 373029,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
