@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T08:20:28.627084+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Context-Aware Interleaved Batching for WhisperX",
+      "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conversely, standard Whisper retains context sequentially but suffers from slow infer...",
+      "published": "2026-08-31T17:59:46Z",
+      "url": "http://arxiv.org/abs/2608.31170v1",
+      "authors": [
+        "Carlos Bain",
+        "Max Bain"
+      ]
+    },
+    {
+      "title": "Constant Individual Regret in General Games",
+      "summary": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for every finite $N$-player normal-form game under full-information feedback. We int...",
+      "published": "2026-08-31T17:59:16Z",
+      "url": "http://arxiv.org/abs/2608.31166v1",
+      "authors": [
+        "Mingyang Liu",
+        "Gabriele Farina",
+        "Asuman Ozdaglar"
+      ]
+    },
+    {
+      "title": "SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-c...",
+      "published": "2026-08-31T17:59:16Z",
+      "url": "http://arxiv.org/abs/2608.31167v1",
+      "authors": [
+        "Weiqi Wang",
+        "Zhi Li",
+        "Yudong Lei"
+      ]
+    },
+    {
+      "title": "Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+      "summary": "Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $\u03a6$ with $P_\u03a6$ parameter slots, we write $\\boldsymbol\u03b8_f=\\mathcal{G}(\\boldsymbol\u03be_f)$, where $\\mathcal{G}\\colon\\mathbb{R}^M\\to\\ma...",
+      "published": "2026-08-31T17:55:51Z",
+      "url": "http://arxiv.org/abs/2608.31157v1",
+      "authors": [
+        "Shijun Zhang"
+      ]
+    },
+    {
+      "title": "Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, supply-chain risk, and capability expectations. No validated methodology exists for...",
+      "published": "2026-08-31T17:48:24Z",
+      "url": "http://arxiv.org/abs/2608.31142v1",
+      "authors": [
+        "Yisen Xi"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "likes": 4556,
+      "downloads": 158598,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+    },
+    {
+      "id": "zai-org/GLM-5.3-Flash",
+      "likes": 1832,
+      "downloads": 379271,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
+    },
+    {
+      "id": "zai-org/GLM-5.3",
+      "likes": 1430,
+      "downloads": 66195,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 13501,
+      "downloads": 4720763,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "likes": 645,
+      "downloads": 373029,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
+    }
+  ]
+}
