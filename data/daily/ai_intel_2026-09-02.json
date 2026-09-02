@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T14:58:33.724509+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation",
+      "summary": "LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remains poorly understood. We investigate this procedure mechanistically through an e...",
+      "published": "2026-09-01T17:59:49Z",
+      "url": "http://arxiv.org/abs/2609.01604v1",
+      "authors": [
+        "Himil Vasava",
+        "Ming Jiang"
+      ]
+    },
+    {
+      "title": "Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation",
+      "summary": "Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are...",
+      "published": "2026-09-01T17:59:46Z",
+      "url": "http://arxiv.org/abs/2609.01603v1",
+      "authors": [
+        "Kefeng Duan",
+        "Dewu Zheng",
+        "Yanlin Wang"
+      ]
+    },
+    {
+      "title": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+      "summary": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retr...",
+      "published": "2026-09-01T17:59:39Z",
+      "url": "http://arxiv.org/abs/2609.01601v1",
+      "authors": [
+        "Kefeng Duan",
+        "Dewu Zheng",
+        "Yanlin Wang"
+      ]
+    },
+    {
+      "title": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+      "summary": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this life...",
+      "published": "2026-09-01T17:59:13Z",
+      "url": "http://arxiv.org/abs/2609.01600v1",
+      "authors": [
+        "Damien Sileo",
+        "Dimitri Kachler"
+      ]
+    },
+    {
+      "title": "The Rise of Verbal Reinforcement Learning",
+      "summary": "Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and modern language models. We call this paradigm Verbal Reinforcement Learning (VRL) and...",
+      "published": "2026-09-01T17:58:18Z",
+      "url": "http://arxiv.org/abs/2609.01597v1",
+      "authors": [
+        "Kshitij Tayal",
+        "Arun Sharma",
+        "Genta Indra Winata"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "zai-org/GLM-5.3-Flash",
+      "likes": 1935,
+      "downloads": 441348,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
+    },
+    {
+      "id": "zai-org/GLM-5.3",
+      "likes": 1493,
+      "downloads": 94403,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3"
+    },
+    {
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "likes": 4704,
+      "downloads": 207941,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 13654,
+      "downloads": 4960483,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "likes": 710,
+      "downloads": 431339,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF"
+    }
+  ]
+}
