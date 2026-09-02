@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-02)
 
-Generated at: `2026-09-02 14:58:34 UTC`
+Generated at: `2026-09-02 18:33:10 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-02 14:58:34 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `zai-org/GLM-5.3-Flash` | `image-text-to-text` | 1935 | 441348 | [Link](https://huggingface.co/zai-org/GLM-5.3-Flash) |
-| `zai-org/GLM-5.3` | `text-generation` | 1493 | 94403 | [Link](https://huggingface.co/zai-org/GLM-5.3) |
-| `Qwen/Qwen3.8-Flash-Next` | `image-text-to-text` | 4704 | 207941 | [Link](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 13654 | 4960483 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `unsloth/Qwen3.8-Flash-Next-GGUF` | `image-text-to-text` | 710 | 431339 | [Link](https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF) |
+| `zai-org/GLM-5.3` | `text-generation` | 1506 | 94403 | [Link](https://huggingface.co/zai-org/GLM-5.3) |
+| `zai-org/GLM-5.3-Flash` | `image-text-to-text` | 1945 | 441348 | [Link](https://huggingface.co/zai-org/GLM-5.3-Flash) |
+| `Qwen/Qwen3.8-Flash-Next` | `image-text-to-text` | 4717 | 207941 | [Link](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 13670 | 4960483 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `deepseek-ai/DeepSeek-V4-Flash-Vision-Exp` | `image-text-to-text` | 492 | 17893 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
