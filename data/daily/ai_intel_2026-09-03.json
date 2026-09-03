@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T14:52:51.126614+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
+      "summary": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common m...",
+      "published": "2026-09-02T17:59:46Z",
+      "url": "http://arxiv.org/abs/2609.02887v1",
+      "authors": [
+        "Dulhan Jayalath",
+        "Benjamin Ballyk",
+        "Oiwi Parker Jones"
+      ]
+    },
+    {
+      "title": "Discriminative World Models for Web Agents",
+      "summary": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state predictio...",
+      "published": "2026-09-02T17:59:40Z",
+      "url": "http://arxiv.org/abs/2609.02885v1",
+      "authors": [
+        "Kelvin Li",
+        "Dhruv Pendharkar",
+        "Anish Pahilajani"
+      ]
+    },
+    {
+      "title": "Graph Machine: Towards Better Pretraining via Edges",
+      "summary": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting t...",
+      "published": "2026-09-02T17:56:41Z",
+      "url": "http://arxiv.org/abs/2609.02881v1",
+      "authors": [
+        "Lintai Hou"
+      ]
+    },
+    {
+      "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
+      "summary": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a ...",
+      "published": "2026-09-02T17:56:10Z",
+      "url": "http://arxiv.org/abs/2609.02876v1",
+      "authors": [
+        "Alessio Spurio Mancini"
+      ]
+    },
+    {
+      "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
+      "summary": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision f...",
+      "published": "2026-09-02T17:44:25Z",
+      "url": "http://arxiv.org/abs/2609.02861v1",
+      "authors": [
+        "Cagri Temel"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "zai-org/GLM-5.3",
+      "likes": 1573,
+      "downloads": 151021,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/zai-org/GLM-5.3"
+    },
+    {
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "likes": 4777,
+      "downloads": 263287,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+    },
+    {
+      "id": "zai-org/GLM-5.3-Flash",
+      "likes": 1998,
+      "downloads": 517902,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 13784,
+      "downloads": 5254882,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "likes": 527,
+      "downloads": 54571,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
+    }
+  ]
+}
