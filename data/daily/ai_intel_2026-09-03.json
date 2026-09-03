@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T14:52:51.126614+00:00",
+  "generated_at": "2026-09-03T18:21:49.879739+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -57,35 +57,35 @@
   "models": [
     {
       "id": "zai-org/GLM-5.3",
-      "likes": 1573,
+      "likes": 1589,
       "downloads": 151021,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/zai-org/GLM-5.3"
     },
     {
       "id": "Qwen/Qwen3.8-Flash-Next",
-      "likes": 4777,
+      "likes": 4788,
       "downloads": 263287,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
     },
     {
       "id": "zai-org/GLM-5.3-Flash",
-      "likes": 1998,
+      "likes": 2006,
       "downloads": 517902,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/zai-org/GLM-5.3-Flash"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 13784,
+      "likes": 13794,
       "downloads": 5254882,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "likes": 527,
+      "likes": 534,
       "downloads": 54571,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
