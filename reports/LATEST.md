@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-05)
 
-Generated at: `2026-09-05 17:10:17 UTC`
+Generated at: `2026-09-05 20:56:58 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-05 17:10:17 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4-Flash-Vision-Exp` | `image-text-to-text` | 657 | 184542 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14011 | 6024467 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `Qwen/Qwen3.8-Flash-Next` | `image-text-to-text` | 4905 | 401327 | [Link](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
-| `XHToken/Spark-X2.5-4B` | `text-generation` | 520 | 4755 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
-| `zai-org/GLM-5.3-Flash` | `image-text-to-text` | 2074 | 727610 | [Link](https://huggingface.co/zai-org/GLM-5.3-Flash) |
+| `deepseek-ai/DeepSeek-V4-Flash-Vision-Exp` | `image-text-to-text` | 672 | 184542 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14031 | 6024467 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `Qwen/Qwen3.8-Flash-Next` | `image-text-to-text` | 4912 | 401327 | [Link](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) |
+| `XHToken/Spark-X2.5-4B` | `text-generation` | 534 | 4755 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
+| `google/timesfm-3.0-pytorch` | `time-series-forecasting` | 453 | 123025 | [Link](https://huggingface.co/google/timesfm-3.0-pytorch) |
