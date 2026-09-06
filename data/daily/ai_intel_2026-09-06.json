@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T13:57:02.287782+00:00",
+  "generated_at": "2026-09-06T17:30:50.401217+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -62,38 +62,38 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "likes": 710,
+      "likes": 723,
       "downloads": 209191,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 14079,
+      "likes": 14102,
       "downloads": 6190807,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "XHToken/Spark-X2.5-4B",
-      "likes": 577,
+      "likes": 584,
       "downloads": 5477,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
     },
     {
-      "id": "Qwen/Qwen3.8-Flash-Next",
-      "likes": 4934,
-      "downloads": 432966,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
-    },
-    {
       "id": "google/timesfm-3.0-pytorch",
-      "likes": 481,
+      "likes": 489,
       "downloads": 144455,
       "pipeline_tag": "time-series-forecasting",
       "url": "https://huggingface.co/google/timesfm-3.0-pytorch"
+    },
+    {
+      "id": "Qwen/Qwen3.8-Flash-Next",
+      "likes": 4938,
+      "downloads": 432966,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
     }
   ]
 }
