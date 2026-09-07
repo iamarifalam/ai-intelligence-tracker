@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-07)
 
-Generated at: `2026-09-07 16:17:26 UTC`
+Generated at: `2026-09-07 21:54:55 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-07 16:17:26 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `XHToken/Spark-X2.5-4B` | `text-generation` | 675 | 7216 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14214 | 6416358 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `google/timesfm-3.0-pytorch` | `time-series-forecasting` | 558 | 271713 | [Link](https://huggingface.co/google/timesfm-3.0-pytorch) |
-| `deepseek-ai/DeepSeek-V4-Flash-Vision-Exp` | `image-text-to-text` | 785 | 251611 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |
-| `ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF` | `image-text-to-text` | 506 | 403292 | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
+| `XHToken/Spark-X2.5-4B` | `text-generation` | 711 | 7216 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14250 | 6416358 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `google/timesfm-3.0-pytorch` | `time-series-forecasting` | 570 | 271713 | [Link](https://huggingface.co/google/timesfm-3.0-pytorch) |
+| `ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF` | `image-text-to-text` | 542 | 403292 | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
+| `deepseek-ai/DeepSeek-V4-Flash-Vision-Exp` | `image-text-to-text` | 793 | 251611 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp) |

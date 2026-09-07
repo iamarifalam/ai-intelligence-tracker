@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T16:17:26.019798+00:00",
+  "generated_at": "2026-09-07T21:54:54.867237+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,38 +61,38 @@
   "models": [
     {
       "id": "XHToken/Spark-X2.5-4B",
-      "likes": 675,
+      "likes": 711,
       "downloads": 7216,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 14214,
+      "likes": 14250,
       "downloads": 6416358,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "google/timesfm-3.0-pytorch",
-      "likes": 558,
+      "likes": 570,
       "downloads": 271713,
       "pipeline_tag": "time-series-forecasting",
       "url": "https://huggingface.co/google/timesfm-3.0-pytorch"
     },
     {
-      "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-      "likes": 785,
-      "downloads": 251611,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "likes": 506,
+      "likes": 542,
       "downloads": 403292,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "likes": 793,
+      "downloads": 251611,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
     }
   ]
 }
