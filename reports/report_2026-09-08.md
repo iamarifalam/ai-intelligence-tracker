@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-08)
 
-Generated at: `2026-09-08 18:20:59 UTC`
+Generated at: `2026-09-08 21:35:58 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-08 18:20:59 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `XHToken/Spark-X2.5-4B` | `text-generation` | 827 | 10661 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14368 | 6712160 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF` | `image-text-to-text` | 640 | 479597 | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
-| `openbmb/MiniCPM5-2B` | `text-generation` | 603 | 2879 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
-| `google/timesfm-3.0-pytorch` | `time-series-forecasting` | 620 | 444052 | [Link](https://huggingface.co/google/timesfm-3.0-pytorch) |
+| `XHToken/Spark-X2.5-4B` | `text-generation` | 840 | 10661 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14382 | 6712160 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `openbmb/MiniCPM5-2B` | `text-generation` | 635 | 2879 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
+| `ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF` | `image-text-to-text` | 647 | 479597 | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
+| `google/timesfm-3.0-pytorch` | `time-series-forecasting` | 628 | 444052 | [Link](https://huggingface.co/google/timesfm-3.0-pytorch) |
