@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T14:55:10.429332+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+      "summary": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and...",
+      "published": "2026-09-04T17:59:00Z",
+      "url": "http://arxiv.org/abs/2609.05415v1",
+      "authors": [
+        "Linzhan Mou",
+        "Jiahui Lei",
+        "Zhiyang Dou"
+      ]
+    },
+    {
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "summary": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable record. We introduce WearableQA, a benchmark comprising 4,084 1...",
+      "published": "2026-09-04T17:52:37Z",
+      "url": "http://arxiv.org/abs/2609.05405v1",
+      "authors": [
+        "Ji Soo Lee",
+        "Xilun Chen",
+        "Pierce Chuang"
+      ]
+    },
+    {
+      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+      "summary": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting t...",
+      "published": "2026-09-04T17:51:48Z",
+      "url": "http://arxiv.org/abs/2609.05404v1",
+      "authors": [
+        "Sihwa Park"
+      ]
+    },
+    {
+      "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+      "summary": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solu...",
+      "published": "2026-09-04T17:50:10Z",
+      "url": "http://arxiv.org/abs/2609.05403v1",
+      "authors": [
+        "Quoc H. Nguyen",
+        "Ali Lafzi",
+        "Abhijeet Phatak"
+      ]
+    },
+    {
+      "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+      "summary": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often vi...",
+      "published": "2026-09-04T17:47:58Z",
+      "url": "http://arxiv.org/abs/2609.05401v1",
+      "authors": [
+        "Wonje Jeung",
+        "Sangyeon Yoon",
+        "Hyesoo Hong"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "XHToken/Spark-X2.5-4B",
+      "likes": 813,
+      "downloads": 10661,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 14347,
+      "downloads": 6712160,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "likes": 623,
+      "downloads": 479597,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 575,
+      "downloads": 2879,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+    },
+    {
+      "id": "google/timesfm-3.0-pytorch",
+      "likes": 613,
+      "downloads": 444052,
+      "pipeline_tag": "time-series-forecasting",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch"
+    }
+  ]
+}
