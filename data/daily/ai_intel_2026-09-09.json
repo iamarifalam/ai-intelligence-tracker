@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T15:01:09.352593+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+      "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, includin...",
+      "published": "2026-09-08T17:59:55Z",
+      "url": "http://arxiv.org/abs/2609.09158v1",
+      "authors": [
+        "Anqi Li",
+        "Yuxin Chen",
+        "Zhaobo Li"
+      ]
+    },
+    {
+      "title": "Learning Length-Extrapolatable Recurrent Models",
+      "summary": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token los...",
+      "published": "2026-09-08T17:59:53Z",
+      "url": "http://arxiv.org/abs/2609.09157v1",
+      "authors": [
+        "Hanwen Jiang"
+      ]
+    },
+    {
+      "title": "ReCite: Agentic Reasoning for Faithful Citation",
+      "summary": "Accurate citations are the foundation of academic writing, tracing intellectual origins and substantiating core claims. However, manually navigating the growing volume of scientific literature is increasingly difficult, prompting reliance on automatic citation recommendation. Whi...",
+      "published": "2026-09-08T17:59:50Z",
+      "url": "http://arxiv.org/abs/2609.09156v1",
+      "authors": [
+        "Yuyang Huang",
+        "Bobo Li",
+        "Jiajia Song"
+      ]
+    },
+    {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order,...",
+      "published": "2026-09-08T17:59:41Z",
+      "url": "http://arxiv.org/abs/2609.09153v1",
+      "authors": [
+        "Yuxing Lu",
+        "Yicheng Chen",
+        "Shanchan Wu"
+      ]
+    },
+    {
+      "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
+      "summary": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $\u03a9\\left(n^{-p_{\\mathrm{sil}}-O(\\sqrt{\\log\\log n/\\log n})}\\right)$ non-anytime lower bound. In...",
+      "published": "2026-09-08T17:59:38Z",
+      "url": "http://arxiv.org/abs/2609.09152v1",
+      "authors": [
+        "Yuhan Ye",
+        "Kaizhao Liu"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "XHToken/Spark-X2.5-4B",
+      "likes": 975,
+      "downloads": 10661,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 840,
+      "downloads": 2879,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 14474,
+      "downloads": 6712160,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "likes": 703,
+      "downloads": 479597,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
+    },
+    {
+      "id": "google/timesfm-3.0-pytorch",
+      "likes": 679,
+      "downloads": 444052,
+      "pipeline_tag": "time-series-forecasting",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch"
+    }
+  ]
+}
