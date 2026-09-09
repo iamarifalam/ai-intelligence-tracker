@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T15:01:09.352593+00:00",
+  "generated_at": "2026-09-09T21:30:32.004733+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -60,38 +60,38 @@
   "models": [
     {
       "id": "XHToken/Spark-X2.5-4B",
-      "likes": 975,
+      "likes": 997,
       "downloads": 10661,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
     },
     {
       "id": "openbmb/MiniCPM5-2B",
-      "likes": 840,
+      "likes": 886,
       "downloads": 2879,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
     },
     {
-      "id": "Qwen/Qwen3.8-27B",
-      "likes": 14474,
-      "downloads": 6712160,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "likes": 703,
+      "likes": 730,
       "downloads": 479597,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
     },
     {
-      "id": "google/timesfm-3.0-pytorch",
-      "likes": 679,
-      "downloads": 444052,
-      "pipeline_tag": "time-series-forecasting",
-      "url": "https://huggingface.co/google/timesfm-3.0-pytorch"
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 14511,
+      "downloads": 6712160,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 3259,
+      "downloads": 1644796,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
     }
   ]
 }
