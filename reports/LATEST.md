@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-10)
 
-Generated at: `2026-09-10 14:51:24 UTC`
+Generated at: `2026-09-10 18:08:56 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-10 14:51:24 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 1013 | 6 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
-| `openbmb/MiniCPM5-2B` | `text-generation` | 1055 | 42289 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
-| `XHToken/Spark-X2.5-4B` | `text-generation` | 1041 | 15930 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
-| `ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF` | `image-text-to-text` | 769 | 614850 | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14589 | 7322476 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 1174 | 6 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
+| `openbmb/MiniCPM5-2B` | `text-generation` | 1081 | 42289 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
+| `XHToken/Spark-X2.5-4B` | `text-generation` | 1050 | 15930 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14619 | 7322476 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF` | `image-text-to-text` | 777 | 614850 | [Link](https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF) |
