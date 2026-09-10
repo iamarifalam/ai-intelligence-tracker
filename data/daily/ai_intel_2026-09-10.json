@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T14:51:24.151331+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+      "summary": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing research-method specifications, defined by whether they prov...",
+      "published": "2026-09-09T17:59:04Z",
+      "url": "http://arxiv.org/abs/2609.10539v1",
+      "authors": [
+        "Yiling Ma",
+        "Yilun Zhao",
+        "Sihong Wu"
+      ]
+    },
+    {
+      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+      "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is ...",
+      "published": "2026-09-09T17:58:15Z",
+      "url": "http://arxiv.org/abs/2609.10534v1",
+      "authors": [
+        "Phil Assheton"
+      ]
+    },
+    {
+      "title": "A positive resolution of the gap-entropy conjecture",
+      "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $\u0394_i=\u03bc_*-\u03bc_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}\u0394_...",
+      "published": "2026-09-09T17:57:11Z",
+      "url": "http://arxiv.org/abs/2609.10529v1",
+      "authors": [
+        "P. M. Aronow",
+        "Nathan Kallus",
+        "Patrick Lopatto"
+      ]
+    },
+    {
+      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+      "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned...",
+      "published": "2026-09-09T17:54:30Z",
+      "url": "http://arxiv.org/abs/2609.10525v1",
+      "authors": [
+        "Xiaoyu Li",
+        "Andi Han",
+        "Jiaojiao Jiang"
+      ]
+    },
+    {
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface link...",
+      "published": "2026-09-09T17:53:38Z",
+      "url": "http://arxiv.org/abs/2609.10522v1",
+      "authors": [
+        "Yanzhe Chen",
+        "Zechen Bai",
+        "Zhijun Cao"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "likes": 1013,
+      "downloads": 6,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 1055,
+      "downloads": 42289,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+    },
+    {
+      "id": "XHToken/Spark-X2.5-4B",
+      "likes": 1041,
+      "downloads": 15930,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "likes": 769,
+      "downloads": 614850,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 14589,
+      "downloads": 7322476,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+  ]
+}
