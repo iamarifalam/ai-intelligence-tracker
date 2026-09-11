@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T14:50:37.708839+00:00",
+  "generated_at": "2026-09-11T18:11:31.998273+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,35 +61,35 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 1685,
+      "likes": 1735,
       "downloads": 75774,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "openbmb/MiniCPM5-2B",
-      "likes": 1166,
+      "likes": 1180,
       "downloads": 67550,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
     },
     {
       "id": "XHToken/Spark-X2.5-4B",
-      "likes": 1089,
+      "likes": 1094,
       "downloads": 17712,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 14721,
+      "likes": 14739,
       "downloads": 7563763,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "nex-agi/Nex-N2.5-mini",
-      "likes": 680,
+      "likes": 685,
       "downloads": 3121,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini"

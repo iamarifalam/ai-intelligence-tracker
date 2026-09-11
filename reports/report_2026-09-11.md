@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-11)
 
-Generated at: `2026-09-11 14:50:38 UTC`
+Generated at: `2026-09-11 18:11:32 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-11 14:50:38 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 1685 | 75774 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
-| `openbmb/MiniCPM5-2B` | `text-generation` | 1166 | 67550 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
-| `XHToken/Spark-X2.5-4B` | `text-generation` | 1089 | 17712 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14721 | 7563763 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `nex-agi/Nex-N2.5-mini` | `text-generation` | 680 | 3121 | [Link](https://huggingface.co/nex-agi/Nex-N2.5-mini) |
+| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 1735 | 75774 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
+| `openbmb/MiniCPM5-2B` | `text-generation` | 1180 | 67550 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
+| `XHToken/Spark-X2.5-4B` | `text-generation` | 1094 | 17712 | [Link](https://huggingface.co/XHToken/Spark-X2.5-4B) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 14739 | 7563763 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `nex-agi/Nex-N2.5-mini` | `text-generation` | 685 | 3121 | [Link](https://huggingface.co/nex-agi/Nex-N2.5-mini) |
