@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T13:53:47.852518+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+      "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic...",
+      "published": "2026-09-10T17:58:14Z",
+      "url": "http://arxiv.org/abs/2609.11923v1",
+      "authors": [
+        "Boning Li",
+        "Longbo Huang"
+      ]
+    },
+    {
+      "title": "General Quantification of Covariate and Concept Shifts",
+      "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. ...",
+      "published": "2026-09-10T17:57:52Z",
+      "url": "http://arxiv.org/abs/2609.11918v1",
+      "authors": [
+        "Hongbo Chen",
+        "Li Charlie Xia"
+      ]
+    },
+    {
+      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant...",
+      "published": "2026-09-10T17:57:33Z",
+      "url": "http://arxiv.org/abs/2609.11917v1",
+      "authors": [
+        "Atindra Jha",
+        "Margaret Li",
+        "Jure Leskovec"
+      ]
+    },
+    {
+      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+      "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species identification. We test whether models in this...",
+      "published": "2026-09-10T17:57:32Z",
+      "url": "http://arxiv.org/abs/2609.11916v1",
+      "authors": [
+        "William Zhou",
+        "Mayukha Siripuram",
+        "Xiao Yan"
+      ]
+    },
+    {
+      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+      "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engi...",
+      "published": "2026-09-10T17:57:28Z",
+      "url": "http://arxiv.org/abs/2609.11915v1",
+      "authors": [
+        "Masahiro Kato",
+        "Daiki Honma",
+        "Taka Kato"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "likes": 1913,
+      "downloads": 140636,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 1229,
+      "downloads": 102334,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+    },
+    {
+      "id": "nex-agi/Nex-N2.5-mini",
+      "likes": 708,
+      "downloads": 3581,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini"
+    },
+    {
+      "id": "XHToken/Spark-X2.5-4B",
+      "likes": 1129,
+      "downloads": 19733,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 14812,
+      "downloads": 7726687,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+  ]
+}
