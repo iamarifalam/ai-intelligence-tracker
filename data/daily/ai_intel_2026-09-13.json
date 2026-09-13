@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T08:02:11.618470+00:00",
+  "papers_count": 0,
+  "models_count": 5,
+  "papers": [],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "likes": 2063,
+      "downloads": 140636,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 1278,
+      "downloads": 102334,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+    },
+    {
+      "id": "nex-agi/Nex-N2.5-mini",
+      "likes": 748,
+      "downloads": 3581,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini"
+    },
+    {
+      "id": "Edge0/Edge0-35B-A3B-preview",
+      "likes": 609,
+      "downloads": 1596,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 14890,
+      "downloads": 7726687,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+  ]
+}
