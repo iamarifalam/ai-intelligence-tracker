@@ -1,41 +1,97 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T16:47:41.280115+00:00",
-  "papers_count": 0,
+  "generated_at": "2026-09-14T22:16:25.118167+00:00",
+  "papers_count": 5,
   "models_count": 5,
-  "papers": [],
+  "papers": [
+    {
+      "title": "Type Diversity Enables Transformers to Generalise Compositionally",
+      "summary": "Compositional generalisation has been divided into lexical and structural generalisation. Previous work has found that structural generalisation is harder than lexical for Transformers. We propose that this difference is not inherent to Transformers, but due to the high diversity...",
+      "published": "2026-09-11T17:59:07Z",
+      "url": "http://arxiv.org/abs/2609.13144v1",
+      "authors": [
+        "Anssi Moisio",
+        "Mathias Creutz",
+        "Mikko Kurimo"
+      ]
+    },
+    {
+      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+      "summary": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing trainable methods usually use a lightweight selector to score context units, fol...",
+      "published": "2026-09-11T17:58:06Z",
+      "url": "http://arxiv.org/abs/2609.13141v1",
+      "authors": [
+        "Zhiwei Li",
+        "Lei Zhu",
+        "Hao Gu"
+      ]
+    },
+    {
+      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+      "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems make dense attention-centric disaggregated serving decisions, we s...",
+      "published": "2026-09-11T17:55:45Z",
+      "url": "http://arxiv.org/abs/2609.13134v1",
+      "authors": [
+        "Arya Tschand",
+        "Yaosheng Fu",
+        "Vikram Sharma Mailthody"
+      ]
+    },
+    {
+      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+      "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory...",
+      "published": "2026-09-11T17:51:47Z",
+      "url": "http://arxiv.org/abs/2609.13125v1",
+      "authors": [
+        "Seif ElDein Mostafa",
+        "Yahia Ahmed",
+        "Farah Datwish"
+      ]
+    },
+    {
+      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
+      "summary": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm and style, and the dense information required for music compositi...",
+      "published": "2026-09-11T17:46:15Z",
+      "url": "http://arxiv.org/abs/2609.13118v1",
+      "authors": [
+        "Jinting Wang",
+        "Chenxing Li",
+        "Dong Yu"
+      ]
+    }
+  ],
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 2393,
+      "likes": 2438,
       "downloads": 288414,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "Edge0/Edge0-35B-A3B-preview",
-      "likes": 1685,
+      "likes": 1913,
       "downloads": 8109,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
     },
     {
       "id": "openbmb/MiniCPM5-2B",
-      "likes": 1380,
+      "likes": 1390,
       "downloads": 206774,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
     },
     {
       "id": "nex-agi/Nex-N2.5-mini",
-      "likes": 777,
+      "likes": 778,
       "downloads": 4543,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 15102,
+      "likes": 15131,
       "downloads": 7703400,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
