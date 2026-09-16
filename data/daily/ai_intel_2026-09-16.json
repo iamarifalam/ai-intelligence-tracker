@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T15:20:10.654862+00:00",
+  "generated_at": "2026-09-16T21:54:18.522220+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,38 +61,38 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 2800,
+      "likes": 2845,
       "downloads": 366459,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "Edge0/Edge0-35B-A3B-preview",
-      "likes": 3021,
+      "likes": 3035,
       "downloads": 27759,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
     },
     {
-      "id": "openbmb/MiniCPM5-2B",
-      "likes": 1493,
-      "downloads": 324322,
-      "pipeline_tag": "text-generation",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
-    },
-    {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 15346,
+      "likes": 15387,
       "downloads": 7667556,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "m-a-p/YuE2-3B",
-      "likes": 607,
+      "likes": 624,
       "downloads": 9391,
       "pipeline_tag": "text-to-audio",
       "url": "https://huggingface.co/m-a-p/YuE2-3B"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 1502,
+      "downloads": 324322,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
     }
   ]
 }
