@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-16)
 
-Generated at: `2026-09-16 08:18:59 UTC`
+Generated at: `2026-09-16 15:20:10 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-16 08:18:59 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 2754 | 325712 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
-| `Edge0/Edge0-35B-A3B-preview` | `text-generation` | 2971 | 17853 | [Link](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) |
-| `openbmb/MiniCPM5-2B` | `text-generation` | 1480 | 271754 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 15312 | 7702543 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `nex-agi/Nex-N2.5-mini` | `text-generation` | 813 | 5202 | [Link](https://huggingface.co/nex-agi/Nex-N2.5-mini) |
+| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 2800 | 366459 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
+| `Edge0/Edge0-35B-A3B-preview` | `text-generation` | 3021 | 27759 | [Link](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) |
+| `openbmb/MiniCPM5-2B` | `text-generation` | 1493 | 324322 | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 15346 | 7667556 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `m-a-p/YuE2-3B` | `text-to-audio` | 607 | 9391 | [Link](https://huggingface.co/m-a-p/YuE2-3B) |

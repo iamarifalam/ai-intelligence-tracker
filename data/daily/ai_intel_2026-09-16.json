@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T08:18:59.193705+00:00",
+  "generated_at": "2026-09-16T15:20:10.654862+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,38 +61,38 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 2754,
-      "downloads": 325712,
+      "likes": 2800,
+      "downloads": 366459,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "Edge0/Edge0-35B-A3B-preview",
-      "likes": 2971,
-      "downloads": 17853,
+      "likes": 3021,
+      "downloads": 27759,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
     },
     {
       "id": "openbmb/MiniCPM5-2B",
-      "likes": 1480,
-      "downloads": 271754,
+      "likes": 1493,
+      "downloads": 324322,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 15312,
-      "downloads": 7702543,
+      "likes": 15346,
+      "downloads": 7667556,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
-      "id": "nex-agi/Nex-N2.5-mini",
-      "likes": 813,
-      "downloads": 5202,
-      "pipeline_tag": "text-generation",
-      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini"
+      "id": "m-a-p/YuE2-3B",
+      "likes": 607,
+      "downloads": 9391,
+      "pipeline_tag": "text-to-audio",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B"
     }
   ]
 }
