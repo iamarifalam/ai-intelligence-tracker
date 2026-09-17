@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T08:25:07.903043+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+      "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down prunin...",
+      "published": "2026-09-16T17:59:45Z",
+      "url": "http://arxiv.org/abs/2609.19145v1",
+      "authors": [
+        "Ahmetcan Yavuz",
+        "Clara Meister",
+        "Tiago Pimentel"
+      ]
+    },
+    {
+      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+      "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with sma...",
+      "published": "2026-09-16T17:59:35Z",
+      "url": "http://arxiv.org/abs/2609.19144v1",
+      "authors": [
+        "Peter Chen",
+        "Xi Chen",
+        "Wotao Yin"
+      ]
+    },
+    {
+      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "summary": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Exi...",
+      "published": "2026-09-16T17:59:30Z",
+      "url": "http://arxiv.org/abs/2609.19143v1",
+      "authors": [
+        "Sara Pieri",
+        "Evangelos Kazakos",
+        "Shizhe Chen"
+      ]
+    },
+    {
+      "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+      "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appropriate contact forces are esse...",
+      "published": "2026-09-16T17:56:44Z",
+      "url": "http://arxiv.org/abs/2609.19137v1",
+      "authors": [
+        "Guanhua Ji",
+        "Tianyu Li",
+        "Dayoon Suh"
+      ]
+    },
+    {
+      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, ...",
+      "published": "2026-09-16T17:56:12Z",
+      "url": "http://arxiv.org/abs/2609.19135v1",
+      "authors": [
+        "Pranaya Jajoo"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "Edge0/Edge0-35B-A3B-preview",
+      "likes": 3209,
+      "downloads": 27759,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "likes": 2909,
+      "downloads": 366459,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 15455,
+      "downloads": 7667556,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "m-a-p/YuE2-3B",
+      "likes": 679,
+      "downloads": 9391,
+      "pipeline_tag": "text-to-audio",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B"
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B",
+      "likes": 1526,
+      "downloads": 324322,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+    }
+  ]
+}
