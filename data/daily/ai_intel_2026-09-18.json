@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T18:05:37.928958+00:00",
+  "generated_at": "2026-09-18T21:26:22.309671+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -62,35 +62,35 @@
   "models": [
     {
       "id": "Edge0/Edge0-35B-A3B-preview",
-      "likes": 3384,
+      "likes": 3390,
       "downloads": 52519,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 3137,
+      "likes": 3161,
       "downloads": 429865,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "likes": 821,
+      "likes": 878,
       "downloads": 405609,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 15634,
+      "likes": 15641,
       "downloads": 7358662,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "m-a-p/YuE2-3B",
-      "likes": 785,
+      "likes": 793,
       "downloads": 13668,
       "pipeline_tag": "text-to-audio",
       "url": "https://huggingface.co/m-a-p/YuE2-3B"

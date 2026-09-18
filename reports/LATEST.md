@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-18)
 
-Generated at: `2026-09-18 18:05:38 UTC`
+Generated at: `2026-09-18 21:26:22 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-18 18:05:38 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `Edge0/Edge0-35B-A3B-preview` | `text-generation` | 3384 | 52519 | [Link](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) |
-| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 3137 | 429865 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
-| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 821 | 405609 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 15634 | 7358662 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `m-a-p/YuE2-3B` | `text-to-audio` | 785 | 13668 | [Link](https://huggingface.co/m-a-p/YuE2-3B) |
+| `Edge0/Edge0-35B-A3B-preview` | `text-generation` | 3390 | 52519 | [Link](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) |
+| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 3161 | 429865 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
+| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 878 | 405609 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 15641 | 7358662 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `m-a-p/YuE2-3B` | `text-to-audio` | 793 | 13668 | [Link](https://huggingface.co/m-a-p/YuE2-3B) |
