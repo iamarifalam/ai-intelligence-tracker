@@ -1,44 +1,99 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T14:11:29.723587+00:00",
-  "papers_count": 0,
+  "generated_at": "2026-09-19T17:48:07.543165+00:00",
+  "papers_count": 5,
   "models_count": 5,
-  "papers": [],
+  "papers": [
+    {
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. W...",
+      "published": "2026-09-17T17:59:58Z",
+      "url": "http://arxiv.org/abs/2609.20822v1",
+      "authors": [
+        "Bingxin Xu",
+        "Yuzhang Shang",
+        "Zhen Dong"
+      ]
+    },
+    {
+      "title": "Embedding Models Measure in Peculiar Ways",
+      "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement ...",
+      "published": "2026-09-17T17:59:54Z",
+      "url": "http://arxiv.org/abs/2609.20821v1",
+      "authors": [
+        "Juri Opitz",
+        "Andrianos Michail"
+      ]
+    },
+    {
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical informa...",
+      "published": "2026-09-17T17:59:53Z",
+      "url": "http://arxiv.org/abs/2609.20820v1",
+      "authors": [
+        "Nitish Dashora",
+        "Douglas Chen",
+        "Idan Shenfeld"
+      ]
+    },
+    {
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape pr...",
+      "published": "2026-09-17T17:59:40Z",
+      "url": "http://arxiv.org/abs/2609.20817v1",
+      "authors": [
+        "Kevin Qu",
+        "Tao Sun",
+        "Massimiliano Viola"
+      ]
+    },
+    {
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or ...",
+      "published": "2026-09-17T17:59:30Z",
+      "url": "http://arxiv.org/abs/2609.20816v1",
+      "authors": [
+        "Ji Xie",
+        "Dewei Zhou",
+        "Xinyu Huang"
+      ]
+    }
+  ],
   "models": [
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "likes": 1090,
+      "likes": 1138,
       "downloads": 1516960,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 3259,
+      "likes": 3272,
       "downloads": 482270,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 15710,
+      "likes": 15735,
       "downloads": 7365368,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
-      "id": "m-a-p/YuE2-3B",
-      "likes": 848,
-      "downloads": 15446,
-      "pipeline_tag": "text-to-audio",
-      "url": "https://huggingface.co/m-a-p/YuE2-3B"
-    },
-    {
       "id": "XingChen-AGI/Xing4.0-29B-A4B",
-      "likes": 596,
+      "likes": 614,
       "downloads": 7278,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
+    },
+    {
+      "id": "m-a-p/YuE2-3B",
+      "likes": 860,
+      "downloads": 15446,
+      "pipeline_tag": "text-to-audio",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B"
     }
   ]
 }
