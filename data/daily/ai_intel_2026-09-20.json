@@ -1,44 +1,44 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T17:59:28.981252+00:00",
+  "generated_at": "2026-09-20T21:10:46.778734+00:00",
   "papers_count": 0,
   "models_count": 5,
   "papers": [],
   "models": [
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "likes": 1432,
+      "likes": 1463,
       "downloads": 1908396,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
     },
     {
       "id": "convaiinnovations/laya",
-      "likes": 937,
+      "likes": 1017,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-      "likes": 3405,
+      "likes": 3418,
       "downloads": 496684,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "id": "XingChen-AGI/Xing4.0-29B-A4B",
-      "likes": 831,
+      "likes": 857,
       "downloads": 12617,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
     },
     {
-      "id": "Qwen/Qwen3.8-27B",
-      "likes": 15845,
-      "downloads": 7331932,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+      "id": "Qwen/Qwen-Image-2.1",
+      "likes": 648,
+      "downloads": 183,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
     }
   ]
 }
