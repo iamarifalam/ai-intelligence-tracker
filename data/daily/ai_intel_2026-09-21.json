@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T08:37:09.522622+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+      "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates ...",
+      "published": "2026-09-18T17:59:56Z",
+      "url": "http://arxiv.org/abs/2609.22086v1",
+      "authors": [
+        "Hongyang Du",
+        "Lan Yan",
+        "Christian Flores"
+      ]
+    },
+    {
+      "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+      "summary": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention....",
+      "published": "2026-09-18T17:59:10Z",
+      "url": "http://arxiv.org/abs/2609.22081v1",
+      "authors": [
+        "Aho Yapi",
+        "Pierre Latouche",
+        "Arnaud Guillin"
+      ]
+    },
+    {
+      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+      "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of...",
+      "published": "2026-09-18T17:55:17Z",
+      "url": "http://arxiv.org/abs/2609.22068v1",
+      "authors": [
+        "Bowen Ye",
+        "Lei Li",
+        "Shicheng Li"
+      ]
+    },
+    {
+      "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+      "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its...",
+      "published": "2026-09-18T17:55:09Z",
+      "url": "http://arxiv.org/abs/2609.22067v1",
+      "authors": [
+        "Renkai Ma",
+        "Ruyuan Wan",
+        "Xuan Lu"
+      ]
+    },
+    {
+      "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+      "summary": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations transferable across diverse downstream tas...",
+      "published": "2026-09-18T17:54:32Z",
+      "url": "http://arxiv.org/abs/2609.22064v1",
+      "authors": [
+        "Alexandre Andre",
+        "Shivashriganesh P. Mahato",
+        "Vinam Arora"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "likes": 1593,
+      "downloads": 1908396,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
+    },
+    {
+      "id": "convaiinnovations/laya",
+      "likes": 1336,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1",
+      "likes": 1054,
+      "downloads": 183,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
+    },
+    {
+      "id": "XingChen-AGI/Xing4.0-29B-A4B",
+      "likes": 965,
+      "downloads": 12617,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "likes": 3461,
+      "downloads": 496684,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+    }
+  ]
+}
