@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-21)
 
-Generated at: `2026-09-21 08:37:09 UTC`
+Generated at: `2026-09-21 16:48:06 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-21 08:37:09 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 1593 | 1908396 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
-| `convaiinnovations/laya` | `text-classification` | 1336 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
-| `Qwen/Qwen-Image-2.1` | `text-to-image` | 1054 | 183 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
-| `XingChen-AGI/Xing4.0-29B-A4B` | `text-generation` | 965 | 12617 | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
-| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 3461 | 496684 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
+| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 1685 | 2227879 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
+| `convaiinnovations/laya` | `text-classification` | 1572 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `Qwen/Qwen-Image-2.1` | `text-to-image` | 1299 | 6523 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
+| `XingChen-AGI/Xing4.0-29B-A4B` | `text-generation` | 1054 | 18394 | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
+| `deepseek-ai/DeepSeek-V4.1-Flash` | `image-text-to-text` | 3501 | 512120 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
