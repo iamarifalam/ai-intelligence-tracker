@@ -1,100 +1,44 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T15:25:48.873216+00:00",
-  "papers_count": 5,
+  "generated_at": "2026-09-22T21:47:55.916713+00:00",
+  "papers_count": 0,
   "models_count": 5,
-  "papers": [
-    {
-      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
-      "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range...",
-      "published": "2026-09-21T17:59:33Z",
-      "url": "http://arxiv.org/abs/2609.25001v1",
-      "authors": [
-        "Yiran Wang",
-        "Xingyilang Yin",
-        "Junfu Pu"
-      ]
-    },
-    {
-      "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
-      "summary": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their variation can reflect downstream randomness rather than differences between the curre...",
-      "published": "2026-09-21T17:57:20Z",
-      "url": "http://arxiv.org/abs/2609.24985v1",
-      "authors": [
-        "Zixiang Chen",
-        "Wenting Zhao",
-        "Zhepeng Cen"
-      ]
-    },
-    {
-      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. T...",
-      "published": "2026-09-21T17:57:06Z",
-      "url": "http://arxiv.org/abs/2609.24984v1",
-      "authors": [
-        "Wangbo Yu",
-        "Kunhao Liu",
-        "Wenbo Hu"
-      ]
-    },
-    {
-      "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
-      "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model response, the annotator locates the first inappropriate token and either picks a subs...",
-      "published": "2026-09-21T17:56:53Z",
-      "url": "http://arxiv.org/abs/2609.24983v1",
-      "authors": [
-        "Lei Yang",
-        "Mengyin Liu",
-        "Jia Wang"
-      ]
-    },
-    {
-      "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
-      "summary": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and thus model quality, making any realizable quality gains highly impactful. At the...",
-      "published": "2026-09-21T17:55:48Z",
-      "url": "http://arxiv.org/abs/2609.24979v1",
-      "authors": [
-        "Sean Augenstein",
-        "Li Ding",
-        "Jihwan Lee"
-      ]
-    }
-  ],
+  "papers": [],
   "models": [
     {
       "id": "convaiinnovations/laya",
-      "likes": 2307,
+      "likes": 2495,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "likes": 1835,
+      "likes": 1872,
       "downloads": 2569604,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
     },
     {
       "id": "Qwen/Qwen-Image-2.1",
-      "likes": 1691,
+      "likes": 1782,
       "downloads": 16242,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
     },
     {
       "id": "XingChen-AGI/Xing4.0-29B-A4B",
-      "likes": 1281,
+      "likes": 1361,
       "downloads": 30627,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-GGUF",
-      "likes": 952,
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 1067,
       "downloads": 182313,
       "pipeline_tag": "text-to-image",
-      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF"
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     }
   ]
 }
