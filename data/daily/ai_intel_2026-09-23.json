@@ -1,41 +1,97 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T15:18:45.946647+00:00",
-  "papers_count": 0,
+  "generated_at": "2026-09-23T22:05:00.249304+00:00",
+  "papers_count": 5,
   "models_count": 5,
-  "papers": [],
+  "papers": [
+    {
+      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+      "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Ke...",
+      "published": "2026-09-22T17:59:57Z",
+      "url": "http://arxiv.org/abs/2609.26796v1",
+      "authors": [
+        "Quan Nguyen-Tri",
+        "Mukul Ranjan",
+        "Zhiqiang Shen"
+      ]
+    },
+    {
+      "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+      "summary": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observabl...",
+      "published": "2026-09-22T17:56:46Z",
+      "url": "http://arxiv.org/abs/2609.26783v1",
+      "authors": [
+        "Xiaoxing Ren",
+        "Thomas Parisini",
+        "Andreas A. Malikopoulos"
+      ]
+    },
+    {
+      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+      "summary": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-agent harnesses is often constrained by a central orchestrator's capacity to alloc...",
+      "published": "2026-09-22T17:56:25Z",
+      "url": "http://arxiv.org/abs/2609.26781v1",
+      "authors": [
+        "Zhihao Zhan",
+        "Ting Song",
+        "Li Dong"
+      ]
+    },
+    {
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "summary": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is shared by the group, and...",
+      "published": "2026-09-22T17:56:12Z",
+      "url": "http://arxiv.org/abs/2609.26780v1",
+      "authors": [
+        "Haobo Zheng",
+        "Tan Tang",
+        "Yan Chen"
+      ]
+    },
+    {
+      "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+      "summary": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique that reduces cost by up to 50% under a bounded context while mai...",
+      "published": "2026-09-22T17:55:59Z",
+      "url": "http://arxiv.org/abs/2609.26779v1",
+      "authors": [
+        "Trang Nguyen",
+        "Eulrang Cho",
+        "Bingqing Chen"
+      ]
+    }
+  ],
   "models": [
     {
       "id": "convaiinnovations/laya",
-      "likes": 2955,
+      "likes": 3069,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "Qwen/Qwen-Image-2.1",
-      "likes": 1960,
+      "likes": 2011,
       "downloads": 28407,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "likes": 1926,
+      "likes": 1947,
       "downloads": 2815979,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
     },
     {
       "id": "XingChen-AGI/Xing4.0-29B-A4B",
-      "likes": 1452,
+      "likes": 1554,
       "downloads": 39009,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 1359,
+      "likes": 1423,
       "downloads": 350678,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
