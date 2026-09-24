@@ -1,40 +1,17 @@
 # Daily Research Summary (2026-09-24)
 
-Generated at: `2026-09-24 15:43:01 UTC`
+Generated at: `2026-09-24 21:59:49 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [On the Diffusibility of High-Dimensional Latents](http://arxiv.org/abs/2609.28473v1)
-- Authors: Chao Feng, Zhiyang Xu, Bowei Chen
-- Published: `2026-09-23T17:59:56Z`
-- Summary: Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these enc...
-
-### 2. [Contrastive Learning for Authorship Verification](http://arxiv.org/abs/2609.28471v1)
-- Authors: Peter Kirby
-- Published: `2026-09-23T17:59:08Z`
-- Summary: Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation a...
-
-### 3. [StudentBench: AI and human tutoring yield equivalent GRE learning gains](http://arxiv.org/abs/2609.28470v1)
-- Authors: Curtis Northcutt, Inaara Hasmani, Kevin Feng
-- Published: `2026-09-23T17:57:45Z`
-- Summary: Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-sc...
-
-### 4. [Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction](http://arxiv.org/abs/2609.28467v1)
-- Authors: Zilin Fang, Zishuo Wang, Gim Hee Lee
-- Published: `2026-09-23T17:55:48Z`
-- Summary: Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an importa...
-
-### 5. [Even Sharper Bounds for Transductive Learning and Its Applications](http://arxiv.org/abs/2609.28459v1)
-- Authors: Yingzhen Yang
-- Published: `2026-09-23T17:52:50Z`
-- Summary: We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical proc...
+No new papers retrieved in this cycle.
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `convaiinnovations/laya` | `text-classification` | 3318 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
-| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2150 | 37618 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
-| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 1995 | 2991233 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
-| `XingChen-AGI/Xing4.0-29B-A4B` | `text-generation` | 1642 | 41923 | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 1576 | 575697 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `convaiinnovations/laya` | `text-classification` | 3380 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2181 | 37618 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
+| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 2032 | 2991233 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 1618 | 575697 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `XingChen-AGI/Xing4.0-29B-A4B` | `text-generation` | 1646 | 41923 | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
