@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-09-24)
 
-Generated at: `2026-09-24 08:10:42 UTC`
+Generated at: `2026-09-24 15:43:01 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-09-24 08:10:42 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `convaiinnovations/laya` | `text-classification` | 3220 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
-| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2092 | 28407 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
-| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 1972 | 2815979 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
-| `XingChen-AGI/Xing4.0-29B-A4B` | `text-generation` | 1639 | 39009 | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 1507 | 350678 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `convaiinnovations/laya` | `text-classification` | 3318 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2150 | 37618 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
+| `prism-ml/Ternary-Bonsai-2-27B-gguf` | `text-generation` | 1995 | 2991233 | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf) |
+| `XingChen-AGI/Xing4.0-29B-A4B` | `text-generation` | 1642 | 41923 | [Link](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 1576 | 575697 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
