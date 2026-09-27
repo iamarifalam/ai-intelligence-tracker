@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T08:58:12.680589+00:00",
+  "papers_count": 0,
+  "models_count": 5,
+  "papers": [],
+  "models": [
+    {
+      "id": "convaiinnovations/laya",
+      "likes": 3956,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1",
+      "likes": 2424,
+      "downloads": 48361,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 1983,
+      "downloads": 876673,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+    },
+    {
+      "id": "XingChen-AGI/Xing4.0-29B-A4B",
+      "likes": 1751,
+      "downloads": 43947,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"
+    },
+    {
+      "id": "Edge0/Audio8-ASR-Infinite",
+      "likes": 853,
+      "downloads": 7859,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
+    }
+  ]
+}
