@@ -1,17 +1,40 @@
 # Daily Research Summary (2026-09-29)
 
-Generated at: `2026-09-29 16:48:32 UTC`
+Generated at: `2026-09-29 22:50:49 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-No new papers retrieved in this cycle.
+### 1. [FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](http://arxiv.org/abs/2609.35770v1)
+- Authors: Srinjay Sarkar, Prakhar Kaushik, Soumava Paul
+- Published: `2026-09-28T17:59:58Z`
+- Summary: Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intr...
+
+### 2. [Telescopic Language Models](http://arxiv.org/abs/2609.35769v1)
+- Authors: Zhilin Guo, Boqiao Zhang, Hakan Aktas
+- Published: `2026-09-28T17:59:53Z`
+- Summary: One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix ...
+
+### 3. [PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](http://arxiv.org/abs/2609.35768v1)
+- Authors: Zimo Wang, Junkun Yuan, Angtian Wang
+- Published: `2026-09-28T17:59:52Z`
+- Summary: Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting prog...
+
+### 4. [Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](http://arxiv.org/abs/2609.35767v1)
+- Authors: Yijia Fan, Ziqi Huang, Zhongang Cai
+- Published: `2026-09-28T17:59:36Z`
+- Summary: Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflectio...
+
+### 5. [Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](http://arxiv.org/abs/2609.35765v1)
+- Authors: András Kovács, Alexander Conroy, Daniel Hershcovich
+- Published: `2026-09-28T17:59:27Z`
+- Summary: Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation. We investigate this problem through biblical intertextuality in Karen Blix...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `convaiinnovations/laya` | `text-classification` | 4470 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
-| `Edge0/Audio8-ASR-Infinite` | `automatic-speech-recognition` | 1476 | 23674 | [Link](https://huggingface.co/Edge0/Audio8-ASR-Infinite) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 2384 | 1152523 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
-| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2643 | 64362 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
-| `XingChen-AGI/TeleOCR` | `image-text-to-text` | 859 | 30354 | [Link](https://huggingface.co/XingChen-AGI/TeleOCR) |
+| `convaiinnovations/laya` | `text-classification` | 4502 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `Edge0/Audio8-ASR-Infinite` | `automatic-speech-recognition` | 1484 | 23674 | [Link](https://huggingface.co/Edge0/Audio8-ASR-Infinite) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 2427 | 1152523 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `XingChen-AGI/TeleOCR` | `image-text-to-text` | 866 | 30354 | [Link](https://huggingface.co/XingChen-AGI/TeleOCR) |
+| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2655 | 64362 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |

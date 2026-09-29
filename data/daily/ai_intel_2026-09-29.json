@@ -1,44 +1,100 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T16:48:21.311334+00:00",
-  "papers_count": 0,
+  "generated_at": "2026-09-29T22:50:49.714969+00:00",
+  "papers_count": 5,
   "models_count": 5,
-  "papers": [],
+  "papers": [
+    {
+      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intr...",
+      "published": "2026-09-28T17:59:58Z",
+      "url": "http://arxiv.org/abs/2609.35770v1",
+      "authors": [
+        "Srinjay Sarkar",
+        "Prakhar Kaushik",
+        "Soumava Paul"
+      ]
+    },
+    {
+      "title": "Telescopic Language Models",
+      "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix ...",
+      "published": "2026-09-28T17:59:53Z",
+      "url": "http://arxiv.org/abs/2609.35769v1",
+      "authors": [
+        "Zhilin Guo",
+        "Boqiao Zhang",
+        "Hakan Aktas"
+      ]
+    },
+    {
+      "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting prog...",
+      "published": "2026-09-28T17:59:52Z",
+      "url": "http://arxiv.org/abs/2609.35768v1",
+      "authors": [
+        "Zimo Wang",
+        "Junkun Yuan",
+        "Angtian Wang"
+      ]
+    },
+    {
+      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflectio...",
+      "published": "2026-09-28T17:59:36Z",
+      "url": "http://arxiv.org/abs/2609.35767v1",
+      "authors": [
+        "Yijia Fan",
+        "Ziqi Huang",
+        "Zhongang Cai"
+      ]
+    },
+    {
+      "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+      "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and translation. We investigate this problem through biblical intertextuality in Karen Blix...",
+      "published": "2026-09-28T17:59:27Z",
+      "url": "http://arxiv.org/abs/2609.35765v1",
+      "authors": [
+        "Andr\u00e1s Kov\u00e1cs",
+        "Alexander Conroy",
+        "Daniel Hershcovich"
+      ]
+    }
+  ],
   "models": [
     {
       "id": "convaiinnovations/laya",
-      "likes": 4470,
+      "likes": 4502,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "Edge0/Audio8-ASR-Infinite",
-      "likes": 1476,
+      "likes": 1484,
       "downloads": 23674,
       "pipeline_tag": "automatic-speech-recognition",
       "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 2384,
+      "likes": 2427,
       "downloads": 1152523,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     },
     {
-      "id": "Qwen/Qwen-Image-2.1",
-      "likes": 2643,
-      "downloads": 64362,
-      "pipeline_tag": "text-to-image",
-      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
-    },
-    {
       "id": "XingChen-AGI/TeleOCR",
-      "likes": 859,
+      "likes": 866,
       "downloads": 30354,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/XingChen-AGI/TeleOCR"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1",
+      "likes": 2655,
+      "downloads": 64362,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
     }
   ]
 }
