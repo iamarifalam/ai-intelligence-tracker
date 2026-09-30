@@ -1,6 +1,6 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T16:40:42.886809+00:00",
+  "generated_at": "2026-09-30T22:49:18.590363+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -62,36 +62,36 @@
   ],
   "models": [
     {
-      "id": "convaiinnovations/laya",
-      "likes": 4618,
-      "downloads": 0,
-      "pipeline_tag": "text-classification",
-      "url": "https://huggingface.co/convaiinnovations/laya"
-    },
-    {
       "id": "Edge0/Audio8-ASR-Infinite",
-      "likes": 1647,
+      "likes": 1821,
       "downloads": 26749,
       "pipeline_tag": "automatic-speech-recognition",
       "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
     },
     {
+      "id": "convaiinnovations/laya",
+      "likes": 4678,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    },
+    {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 2509,
+      "likes": 2564,
       "downloads": 1232685,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     },
     {
       "id": "XingChen-AGI/TeleOCR",
-      "likes": 1001,
+      "likes": 1090,
       "downloads": 30383,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/XingChen-AGI/TeleOCR"
     },
     {
       "id": "Qwen/Qwen-Image-2.1",
-      "likes": 2702,
+      "likes": 2720,
       "downloads": 70687,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
