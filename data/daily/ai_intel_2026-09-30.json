@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T09:21:40.715972+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction...",
+      "published": "2026-09-29T17:59:55Z",
+      "url": "http://arxiv.org/abs/2609.38178v1",
+      "authors": [
+        "Zihang Rui",
+        "Renhao Wang",
+        "Haoxu Huang"
+      ]
+    },
+    {
+      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "summary": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across viewpoints into a coherent 3D understanding. A g...",
+      "published": "2026-09-29T17:59:52Z",
+      "url": "http://arxiv.org/abs/2609.38177v1",
+      "authors": [
+        "Jaewoo Jung",
+        "Hyeonseo Yu",
+        "Honggyu An"
+      ]
+    },
+    {
+      "title": "Breakdown of Local Denoising as Semantic Speciation",
+      "summary": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context windows become insufficient for generation. Motivated by evidence of their near...",
+      "published": "2026-09-29T17:59:50Z",
+      "url": "http://arxiv.org/abs/2609.38176v1",
+      "authors": [
+        "Guangkuo Liu",
+        "Mert Okyay",
+        "Yifan F. Zhang"
+      ]
+    },
+    {
+      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recurrent states to low precision often leads to severe accuracy degradation, as quan...",
+      "published": "2026-09-29T17:59:40Z",
+      "url": "http://arxiv.org/abs/2609.38169v1",
+      "authors": [
+        "Bingchen Yao",
+        "Haobo Xu",
+        "Haokun Lin"
+      ]
+    },
+    {
+      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+      "summary": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context into a fixed-size recurrent state and substantially reduce the cost of long-context...",
+      "published": "2026-09-29T17:59:34Z",
+      "url": "http://arxiv.org/abs/2609.38166v1",
+      "authors": [
+        "Yi Pan",
+        "Haocheng Xi",
+        "Kan Zhu"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "convaiinnovations/laya",
+      "likes": 4558,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    },
+    {
+      "id": "Edge0/Audio8-ASR-Infinite",
+      "likes": 1559,
+      "downloads": 23674,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 2477,
+      "downloads": 1152523,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+    },
+    {
+      "id": "XingChen-AGI/TeleOCR",
+      "likes": 929,
+      "downloads": 30354,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1",
+      "likes": 2681,
+      "downloads": 64362,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
+    }
+  ]
+}
