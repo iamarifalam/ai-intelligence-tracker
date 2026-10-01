@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T09:48:27.972866+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can score above 90% accuracy while being clini...",
+      "published": "2026-09-30T17:59:56Z",
+      "url": "http://arxiv.org/abs/2609.40361v1",
+      "authors": [
+        "Tian Xia",
+        "Minghao Liu",
+        "Yiqing Liang"
+      ]
+    },
+    {
+      "title": "Semifactual Credit-Augmented Policy Optimization",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that ...",
+      "published": "2026-09-30T17:59:56Z",
+      "url": "http://arxiv.org/abs/2609.40360v1",
+      "authors": [
+        "Junshu Pan",
+        "Zhizhang Fu",
+        "Shulin Huang"
+      ]
+    },
+    {
+      "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time series of brain activity from subjects perceiving continuous speech are segmented...",
+      "published": "2026-09-30T17:59:52Z",
+      "url": "http://arxiv.org/abs/2609.40359v1",
+      "authors": [
+        "Dulhan Jayalath",
+        "Oiwi Parker Jones"
+      ]
+    },
+    {
+      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "summary": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video scene text editing replaces text on scene surfaces, such as storefront signs, w...",
+      "published": "2026-09-30T17:59:33Z",
+      "url": "http://arxiv.org/abs/2609.40356v1",
+      "authors": [
+        "Xinghao Chen",
+        "Xiangbo Gao",
+        "Jiongze Yu"
+      ]
+    },
+    {
+      "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+      "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard ima...",
+      "published": "2026-09-30T17:59:03Z",
+      "url": "http://arxiv.org/abs/2609.40347v1",
+      "authors": [
+        "Owais Iqbal",
+        "Sudipta Sarkar",
+        "Shyam Marjit"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "Edge0/Audio8-ASR-Infinite",
+      "likes": 1982,
+      "downloads": 27228,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
+    },
+    {
+      "id": "convaiinnovations/laya",
+      "likes": 4726,
+      "downloads": 0,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    },
+    {
+      "id": "XingChen-AGI/TeleOCR",
+      "likes": 1125,
+      "downloads": 31584,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 2618,
+      "downloads": 1303476,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+    },
+    {
+      "id": "Contrastive-LM/CLM-v0.1-8B",
+      "likes": 582,
+      "downloads": 2720,
+      "pipeline_tag": "text-ranking",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
+    }
+  ]
+}
