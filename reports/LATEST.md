@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-01)
 
-Generated at: `2026-10-01 09:48:28 UTC`
+Generated at: `2026-10-01 17:16:37 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-01 09:48:28 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `Edge0/Audio8-ASR-Infinite` | `automatic-speech-recognition` | 1982 | 27228 | [Link](https://huggingface.co/Edge0/Audio8-ASR-Infinite) |
-| `convaiinnovations/laya` | `text-classification` | 4726 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
-| `XingChen-AGI/TeleOCR` | `image-text-to-text` | 1125 | 31584 | [Link](https://huggingface.co/XingChen-AGI/TeleOCR) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 2618 | 1303476 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
-| `Contrastive-LM/CLM-v0.1-8B` | `text-ranking` | 582 | 2720 | [Link](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) |
+| `convaiinnovations/laya` | `text-classification` | 4769 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `XingChen-AGI/TeleOCR` | `image-text-to-text` | 1150 | 31584 | [Link](https://huggingface.co/XingChen-AGI/TeleOCR) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 2650 | 1303476 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `Contrastive-LM/CLM-v0.1-8B` | `text-ranking` | 592 | 2720 | [Link](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) |
+| `Qwen/Qwen-Image-2.1` | `text-to-image` | 2752 | 76938 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1) |
