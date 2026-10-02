@@ -1,100 +1,44 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T16:30:22.630796+00:00",
-  "papers_count": 5,
+  "generated_at": "2026-10-02T22:49:29.561341+00:00",
+  "papers_count": 0,
   "models_count": 5,
-  "papers": [
-    {
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-in...",
-      "published": "2026-10-01T17:59:58Z",
-      "url": "http://arxiv.org/abs/2610.02207v1",
-      "authors": [
-        "Ramazan Fazylov",
-        "Stamatis Lefkimmiatis",
-        "Ivan Laptev"
-      ]
-    },
-    {
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do not directly measure LLMs' ability to gene...",
-      "published": "2026-10-01T17:59:55Z",
-      "url": "http://arxiv.org/abs/2610.02206v1",
-      "authors": [
-        "Pengfei Li",
-        "Naufal Suryanto",
-        "Sicheng Zhang"
-      ]
-    },
-    {
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go Real (RPG), a framework for autonomous improvement of robot exec...",
-      "published": "2026-10-01T17:59:50Z",
-      "url": "http://arxiv.org/abs/2610.02204v1",
-      "authors": [
-        "Yen-Jen Wang",
-        "Haozhe Jiang",
-        "Shuying Deng"
-      ]
-    },
-    {
-      "title": "Embedding Prediction Helps Image Generation",
-      "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embedding Predictive Autoregression (NEPA) trains a Transformer to p...",
-      "published": "2026-10-01T17:59:49Z",
-      "url": "http://arxiv.org/abs/2610.02203v1",
-      "authors": [
-        "Sihan Xu",
-        "Ji Xie",
-        "Zilin Wang"
-      ]
-    },
-    {
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new problem needs. To study this skill, we draw on researchers who know...",
-      "published": "2026-10-01T17:59:47Z",
-      "url": "http://arxiv.org/abs/2610.02202v1",
-      "authors": [
-        "Sohyeon Kim",
-        "Yoonho Lee",
-        "Bo Liu"
-      ]
-    }
-  ],
+  "papers": [],
   "models": [
     {
       "id": "convaiinnovations/laya",
-      "likes": 4927,
+      "likes": 4999,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 2788,
+      "likes": 2835,
       "downloads": 1376248,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     },
     {
       "id": "Cloudflare/clef",
-      "likes": 652,
+      "likes": 763,
       "downloads": 824,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Cloudflare/clef"
     },
     {
       "id": "Contrastive-LM/CLM-v0.1-8B",
-      "likes": 640,
+      "likes": 665,
       "downloads": 2951,
       "pipeline_tag": "text-ranking",
       "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
     },
     {
-      "id": "Qwen/Qwen-Image-2.1",
-      "likes": 2818,
-      "downloads": 81738,
-      "pipeline_tag": "text-to-image",
-      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
+      "id": "Lightricks/LTX-2.5",
+      "likes": 5980,
+      "downloads": 1584129,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
     }
   ]
 }
