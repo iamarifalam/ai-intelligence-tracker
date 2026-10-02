@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T09:24:45.976854+00:00",
+  "generated_at": "2026-10-02T16:30:22.630796+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "convaiinnovations/laya",
-      "likes": 4887,
+      "likes": 4927,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
-      "id": "XingChen-AGI/TeleOCR",
-      "likes": 1240,
-      "downloads": 32675,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/XingChen-AGI/TeleOCR"
-    },
-    {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 2746,
+      "likes": 2788,
       "downloads": 1376248,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     },
     {
       "id": "Cloudflare/clef",
-      "likes": 480,
-      "downloads": 18,
+      "likes": 652,
+      "downloads": 824,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Cloudflare/clef"
     },
     {
+      "id": "Contrastive-LM/CLM-v0.1-8B",
+      "likes": 640,
+      "downloads": 2951,
+      "pipeline_tag": "text-ranking",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
+    },
+    {
       "id": "Qwen/Qwen-Image-2.1",
-      "likes": 2806,
+      "likes": 2818,
       "downloads": 81738,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1"
