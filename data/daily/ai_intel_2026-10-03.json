@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T15:03:10.912387+00:00",
+  "generated_at": "2026-10-03T21:59:47.795441+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,38 +63,38 @@
   "models": [
     {
       "id": "convaiinnovations/laya",
-      "likes": 5044,
+      "likes": 5072,
       "downloads": 0,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "Cloudflare/clef",
-      "likes": 924,
+      "likes": 971,
       "downloads": 2620,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Cloudflare/clef"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 2896,
+      "likes": 2916,
       "downloads": 1455921,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     },
     {
-      "id": "Contrastive-LM/CLM-v0.1-8B",
-      "likes": 688,
-      "downloads": 3190,
-      "pipeline_tag": "text-ranking",
-      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
-    },
-    {
       "id": "Lightricks/LTX-2.5",
-      "likes": 6070,
+      "likes": 6116,
       "downloads": 1629984,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "id": "Contrastive-LM/CLM-v0.1-8B",
+      "likes": 690,
+      "downloads": 3190,
+      "pipeline_tag": "text-ranking",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B"
     }
   ]
 }
