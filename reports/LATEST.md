@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-03)
 
-Generated at: `2026-10-03 08:53:43 UTC`
+Generated at: `2026-10-03 15:03:11 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-03 08:53:43 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `convaiinnovations/laya` | `text-classification` | 5018 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
-| `Cloudflare/clef` | `image-text-to-text` | 851 | 824 | [Link](https://huggingface.co/Cloudflare/clef) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 2862 | 1376248 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
-| `Contrastive-LM/CLM-v0.1-8B` | `text-ranking` | 675 | 2951 | [Link](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 6023 | 1584129 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `convaiinnovations/laya` | `text-classification` | 5044 | 0 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `Cloudflare/clef` | `image-text-to-text` | 924 | 2620 | [Link](https://huggingface.co/Cloudflare/clef) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 2896 | 1455921 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `Contrastive-LM/CLM-v0.1-8B` | `text-ranking` | 688 | 3190 | [Link](https://huggingface.co/Contrastive-LM/CLM-v0.1-8B) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 6070 | 1629984 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
