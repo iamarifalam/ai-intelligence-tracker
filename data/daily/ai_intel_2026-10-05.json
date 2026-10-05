@@ -1,6 +1,6 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T10:03:29.813836+00:00",
+  "generated_at": "2026-10-05T19:35:37.067489+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "Cloudflare/clef",
-      "likes": 1294,
+      "likes": 1410,
       "downloads": 5416,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Cloudflare/clef"
     },
     {
       "id": "convaiinnovations/laya",
-      "likes": 5190,
+      "likes": 5222,
       "downloads": 11733,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/convaiinnovations/laya"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 3183,
+      "likes": 3237,
       "downloads": 1638838,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     },
     {
       "id": "Aleph-Alpha/Kolibri-1",
-      "likes": 492,
+      "likes": 599,
       "downloads": 2453,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 6373,
+      "likes": 6458,
       "downloads": 1645444,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
