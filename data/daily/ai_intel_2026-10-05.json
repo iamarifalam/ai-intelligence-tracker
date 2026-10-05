@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T10:03:29.813836+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor repres...",
+      "published": "2026-10-02T17:59:14Z",
+      "url": "http://arxiv.org/abs/2610.03717v1",
+      "authors": [
+        "Keerthi Kaashyap",
+        "Dennis Anthony",
+        "Akshay Krishnan"
+      ]
+    },
+    {
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations into compact representations of scene struct...",
+      "published": "2026-10-02T17:58:49Z",
+      "url": "http://arxiv.org/abs/2610.03715v1",
+      "authors": [
+        "Ruihong Shen",
+        "\u017diga Kova\u010di\u010d",
+        "Peter Kulits"
+      ]
+    },
+    {
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World models do not satisfy this condition. Their prediction target ...",
+      "published": "2026-10-02T17:58:14Z",
+      "url": "http://arxiv.org/abs/2610.03713v1",
+      "authors": [
+        "Nishit Anand",
+        "Ramani Duraiswami",
+        "Dinesh Manocha"
+      ]
+    },
+    {
+      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+      "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically treat trajectory generation and dynamics understanding as separa...",
+      "published": "2026-10-02T17:58:08Z",
+      "url": "http://arxiv.org/abs/2610.03712v1",
+      "authors": [
+        "Yiming Huang",
+        "Lennart Bastian",
+        "Hanqun Cao"
+      ]
+    },
+    {
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene by swiveling two eye viewpoints to center their gaze on it. The ...",
+      "published": "2026-10-02T17:57:51Z",
+      "url": "http://arxiv.org/abs/2610.03710v1",
+      "authors": [
+        "Kush Hari",
+        "Justin Kerr",
+        "Nidhya Shivakumar"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "Cloudflare/clef",
+      "likes": 1294,
+      "downloads": 5416,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Cloudflare/clef"
+    },
+    {
+      "id": "convaiinnovations/laya",
+      "likes": 5190,
+      "downloads": 11733,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 3183,
+      "downloads": 1638838,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+    },
+    {
+      "id": "Aleph-Alpha/Kolibri-1",
+      "likes": 492,
+      "downloads": 2453,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 6373,
+      "downloads": 1645444,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+  ]
+}
