@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-06)
 
-Generated at: `2026-10-06 09:48:36 UTC`
+Generated at: `2026-10-06 17:02:58 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-06 09:48:36 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `Cloudflare/clef` | `image-text-to-text` | 1556 | 5416 | [Link](https://huggingface.co/Cloudflare/clef) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 3323 | 1638838 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
-| `autotrust/JEV-27B-VL` | `image-text-to-text` | 818 | 1278569 | [Link](https://huggingface.co/autotrust/JEV-27B-VL) |
-| `Aleph-Alpha/Kolibri-1` | `text-generation` | 661 | 2453 | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |
-| `convaiinnovations/laya` | `text-classification` | 5260 | 11733 | [Link](https://huggingface.co/convaiinnovations/laya) |
+| `Cloudflare/clef` | `image-text-to-text` | 1629 | 7255 | [Link](https://huggingface.co/Cloudflare/clef) |
+| `autotrust/JEV-27B-VL` | `image-text-to-text` | 910 | 1525286 | [Link](https://huggingface.co/autotrust/JEV-27B-VL) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 3388 | 1721760 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `Aleph-Alpha/Kolibri-1` | `text-generation` | 693 | 4138 | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |
+| `convaiinnovations/laya` | `text-classification` | 5274 | 20386 | [Link](https://huggingface.co/convaiinnovations/laya) |
