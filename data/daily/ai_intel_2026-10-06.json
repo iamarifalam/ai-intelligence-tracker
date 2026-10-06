@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T09:48:36.358394+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connecti...",
+      "published": "2026-10-05T17:59:54Z",
+      "url": "http://arxiv.org/abs/2610.06852v1",
+      "authors": [
+        "Shih-Chen Tseng",
+        "Chih-Hsuan Chen",
+        "Ryan Yang"
+      ]
+    },
+    {
+      "title": "Base Models Can Reason By Taking a Cue From Training Data",
+      "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with th...",
+      "published": "2026-10-05T17:59:52Z",
+      "url": "http://arxiv.org/abs/2610.06851v1",
+      "authors": [
+        "Sophie L. Wang",
+        "Amil Dravid",
+        "Rulin Shao"
+      ]
+    },
+    {
+      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W...",
+      "published": "2026-10-05T17:59:28Z",
+      "url": "http://arxiv.org/abs/2610.06846v1",
+      "authors": [
+        "Haojin Deng",
+        "Zhiping Lin",
+        "Yimin Yang"
+      ]
+    },
+    {
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work...",
+      "published": "2026-10-05T17:59:17Z",
+      "url": "http://arxiv.org/abs/2610.06844v1",
+      "authors": [
+        "Omer Dahary",
+        "Etai Sella",
+        "Hadar Averbuch-Elor"
+      ]
+    },
+    {
+      "title": "Recursive Video In-Context Learning for Agentic Robot",
+      "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every...",
+      "published": "2026-10-05T17:59:11Z",
+      "url": "http://arxiv.org/abs/2610.06843v1",
+      "authors": [
+        "Wenrui Bao",
+        "Xinxin Liu",
+        "Bingxin Xu"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "Cloudflare/clef",
+      "likes": 1556,
+      "downloads": 5416,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Cloudflare/clef"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 3323,
+      "downloads": 1638838,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
+    },
+    {
+      "id": "autotrust/JEV-27B-VL",
+      "likes": 818,
+      "downloads": 1278569,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL"
+    },
+    {
+      "id": "Aleph-Alpha/Kolibri-1",
+      "likes": 661,
+      "downloads": 2453,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
+    },
+    {
+      "id": "convaiinnovations/laya",
+      "likes": 5260,
+      "downloads": 11733,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/convaiinnovations/laya"
+    }
+  ]
+}
