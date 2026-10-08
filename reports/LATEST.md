@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-08)
 
-Generated at: `2026-10-08 17:44:50 UTC`
+Generated at: `2026-10-08 23:38:33 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-08 17:44:50 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `autotrust/JEV-27B-VL` | `image-text-to-text` | 2761 | 1533034 | [Link](https://huggingface.co/autotrust/JEV-27B-VL) |
-| `Cloudflare/clef` | `image-text-to-text` | 1871 | 10874 | [Link](https://huggingface.co/Cloudflare/clef) |
-| `autotrust/GEV-26B-Decide` | `text-classification` | 1744 | 903866 | [Link](https://huggingface.co/autotrust/GEV-26B-Decide) |
-| `google/embeddinggemma-2` | `feature-extraction` | 1146 | 21148 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `Aleph-Alpha/Kolibri-1` | `text-generation` | 803 | 6777 | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |
+| `autotrust/JEV-27B-VL` | `image-text-to-text` | 2856 | 1533034 | [Link](https://huggingface.co/autotrust/JEV-27B-VL) |
+| `autotrust/GEV-26B-Decide` | `text-classification` | 1811 | 903866 | [Link](https://huggingface.co/autotrust/GEV-26B-Decide) |
+| `Cloudflare/clef` | `image-text-to-text` | 1885 | 10874 | [Link](https://huggingface.co/Cloudflare/clef) |
+| `google/embeddinggemma-2` | `feature-extraction` | 1185 | 21148 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `Aleph-Alpha/Kolibri-1` | `text-generation` | 813 | 6777 | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |

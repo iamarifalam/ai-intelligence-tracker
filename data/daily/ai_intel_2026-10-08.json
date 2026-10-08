@@ -1,6 +1,6 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T17:44:50.609981+00:00",
+  "generated_at": "2026-10-08T23:38:33.049993+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -62,35 +62,35 @@
   "models": [
     {
       "id": "autotrust/JEV-27B-VL",
-      "likes": 2761,
+      "likes": 2856,
       "downloads": 1533034,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/autotrust/JEV-27B-VL"
     },
     {
-      "id": "Cloudflare/clef",
-      "likes": 1871,
-      "downloads": 10874,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/Cloudflare/clef"
-    },
-    {
       "id": "autotrust/GEV-26B-Decide",
-      "likes": 1744,
+      "likes": 1811,
       "downloads": 903866,
       "pipeline_tag": "text-classification",
       "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
     },
     {
+      "id": "Cloudflare/clef",
+      "likes": 1885,
+      "downloads": 10874,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Cloudflare/clef"
+    },
+    {
       "id": "google/embeddinggemma-2",
-      "likes": 1146,
+      "likes": 1185,
       "downloads": 21148,
       "pipeline_tag": "feature-extraction",
       "url": "https://huggingface.co/google/embeddinggemma-2"
     },
     {
       "id": "Aleph-Alpha/Kolibri-1",
-      "likes": 803,
+      "likes": 813,
       "downloads": 6777,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
