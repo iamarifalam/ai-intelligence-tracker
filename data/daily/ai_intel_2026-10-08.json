@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T10:05:24.117722+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied ass...",
+      "published": "2026-10-07T17:59:41Z",
+      "url": "http://arxiv.org/abs/2610.10538v1",
+      "authors": [
+        "Shravan Chaudhari",
+        "William Paul",
+        "Suchi Saria"
+      ]
+    },
+    {
+      "title": "Decoupling Exploration from Optimization in RLVR",
+      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas absent from its prior training data. In pra...",
+      "published": "2026-10-07T17:59:26Z",
+      "url": "http://arxiv.org/abs/2610.10536v1",
+      "authors": [
+        "Saif Punjwani",
+        "Micah Goldblum"
+      ]
+    },
+    {
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Beyond model scaling, this architecture has demonstrated the potential to decouple...",
+      "published": "2026-10-07T17:58:52Z",
+      "url": "http://arxiv.org/abs/2610.10533v1",
+      "authors": [
+        "Hongru Cai",
+        "Ran Wei",
+        "Wenjie Wang"
+      ]
+    },
+    {
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the context of causal world-action models under real-time control constraints. Our cent...",
+      "published": "2026-10-07T17:58:04Z",
+      "url": "http://arxiv.org/abs/2610.10528v1",
+      "authors": [
+        "Wei Huang",
+        "Bohan Zhang",
+        "Chenzhi Liu"
+      ]
+    },
+    {
+      "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+      "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized settings, much less is known in decentralized ones, where applying a nonlinearity...",
+      "published": "2026-10-07T17:57:58Z",
+      "url": "http://arxiv.org/abs/2610.10527v1",
+      "authors": [
+        "Aleksandar Armacki",
+        "Haoyuan Cai",
+        "Ali H. Sayed"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "autotrust/JEV-27B-VL",
+      "likes": 2436,
+      "downloads": 1533034,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL"
+    },
+    {
+      "id": "Cloudflare/clef",
+      "likes": 1857,
+      "downloads": 10874,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Cloudflare/clef"
+    },
+    {
+      "id": "autotrust/GEV-26B-Decide",
+      "likes": 1560,
+      "downloads": 903866,
+      "pipeline_tag": "text-classification",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
+    },
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 1078,
+      "downloads": 21148,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
+      "id": "Aleph-Alpha/Kolibri-1",
+      "likes": 794,
+      "downloads": 6777,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
+    }
+  ]
+}
