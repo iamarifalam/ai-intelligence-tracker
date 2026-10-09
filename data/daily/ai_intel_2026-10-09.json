@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T10:07:32.128610+00:00",
+  "generated_at": "2026-10-09T17:20:42.698719+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -59,39 +59,39 @@
   ],
   "models": [
     {
-      "id": "autotrust/JEV-27B-VL",
-      "likes": 3269,
-      "downloads": 1536533,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/autotrust/JEV-27B-VL"
-    },
-    {
-      "id": "autotrust/GEV-26B-Decide",
-      "likes": 2033,
-      "downloads": 909755,
-      "pipeline_tag": "text-classification",
-      "url": "https://huggingface.co/autotrust/GEV-26B-Decide"
-    },
-    {
       "id": "google/embeddinggemma-2",
-      "likes": 1261,
+      "likes": 1304,
       "downloads": 29185,
       "pipeline_tag": "feature-extraction",
       "url": "https://huggingface.co/google/embeddinggemma-2"
     },
     {
       "id": "Cloudflare/clef",
-      "likes": 1907,
+      "likes": 1926,
       "downloads": 12066,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Cloudflare/clef"
     },
     {
       "id": "Aleph-Alpha/Kolibri-1",
-      "likes": 823,
+      "likes": 835,
       "downloads": 8474,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "likes": 720,
+      "downloads": 29470,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "likes": 3743,
+      "downloads": 2013268,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
     }
   ]
 }
