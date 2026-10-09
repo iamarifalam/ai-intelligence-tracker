@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T17:20:42.698719+00:00",
+  "generated_at": "2026-10-09T23:02:13.398839+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -60,35 +60,35 @@
   "models": [
     {
       "id": "google/embeddinggemma-2",
-      "likes": 1304,
+      "likes": 1342,
       "downloads": 29185,
       "pipeline_tag": "feature-extraction",
       "url": "https://huggingface.co/google/embeddinggemma-2"
     },
     {
       "id": "Cloudflare/clef",
-      "likes": 1926,
+      "likes": 1942,
       "downloads": 12066,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Cloudflare/clef"
     },
     {
       "id": "Aleph-Alpha/Kolibri-1",
-      "likes": 835,
+      "likes": 842,
       "downloads": 8474,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1"
     },
     {
       "id": "jialinyyzz/humanizer",
-      "likes": 720,
+      "likes": 742,
       "downloads": 29470,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/jialinyyzz/humanizer"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "likes": 3743,
+      "likes": 3765,
       "downloads": 2013268,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF"
