@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-10)
 
-Generated at: `2026-10-10 16:06:41 UTC`
+Generated at: `2026-10-10 22:14:27 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-10 16:06:41 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `google/embeddinggemma-2` | `feature-extraction` | 1452 | 45605 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `Cloudflare/clef` | `image-text-to-text` | 1976 | 13579 | [Link](https://huggingface.co/Cloudflare/clef) |
-| `jialinyyzz/humanizer` | `text-generation` | 905 | 33664 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 3837 | 2096562 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
-| `Aleph-Alpha/Kolibri-1` | `text-generation` | 855 | 10496 | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |
+| `google/embeddinggemma-2` | `feature-extraction` | 1493 | 45605 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `Cloudflare/clef` | `image-text-to-text` | 1985 | 13579 | [Link](https://huggingface.co/Cloudflare/clef) |
+| `jialinyyzz/humanizer` | `text-generation` | 944 | 33664 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 3865 | 2096562 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
+| `Aleph-Alpha/Kolibri-1` | `text-generation` | 859 | 10496 | [Link](https://huggingface.co/Aleph-Alpha/Kolibri-1) |
