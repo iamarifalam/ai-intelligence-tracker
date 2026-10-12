@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-11)
+# Daily Research Summary (2026-10-12)
 
-Generated at: `2026-10-11 22:40:22 UTC`
+Generated at: `2026-10-12 10:17:53 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)
-- Authors: Lizhi Yang, Yiling Hou, Yao Tang
-- Published: `2026-10-08T17:59:50Z`
-- Summary: Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraint...
+### 1. [Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)
+- Authors: Alexander Hickey, Joanna Knight, James Bishop
+- Published: `2026-10-09T17:59:56Z`
+- Summary: Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowledge. We used the Wikipedia Game to test language models on an analogous informati...
 
-### 2. [On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)
-- Authors: Drew T. Nguyen, William Fithian
-- Published: `2026-10-08T17:59:50Z`
-- Summary: METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory t...
+### 2. [Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)
+- Authors: Bhanu Tokas, Rahul Nair, Rockwell Jackson
+- Published: `2026-10-09T17:56:59Z`
+- Summary: Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regressio...
 
-### 3. [A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)
-- Authors: Octi Zhang, Mateo Guaman Castro, Patrick Yin
-- Published: `2026-10-08T17:59:50Z`
-- Summary: General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such...
+### 3. [Constructive Bounds for the Topological Expressivity of Neural Networks](http://arxiv.org/abs/2610.13931v1)
+- Authors: Kosio Beshkov
+- Published: `2026-10-09T17:55:33Z`
+- Summary: The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of ...
 
-### 4. [From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12463v1)
-- Authors: Abbas Raftari
-- Published: `2026-10-08T17:59:49Z`
-- Summary: In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's ...
+### 4. [AI Models Can Provably Hide Arbitrary Capabilities](http://arxiv.org/abs/2610.13928v1)
+- Authors: Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas
+- Published: `2026-10-09T17:55:06Z`
+- Summary: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that em...
 
-### 5. [BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1)
-- Authors: Peter Kulits, Yiqing Xu, R. Kenny Jones
-- Published: `2026-10-08T17:58:56Z`
-- Summary: We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discre...
+### 5. [KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling](http://arxiv.org/abs/2610.13924v1)
+- Authors: Tianyi Wu
+- Published: `2026-10-09T17:54:16Z`
+- Summary: A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averaged divergence $\mathbb{E}_U D_{\mathrm{KL}}(p\|q_U)$ with the output-law diverge...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `google/embeddinggemma-2` | `feature-extraction` | 1685 | 98829 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `jialinyyzz/humanizer` | `text-generation` | 1070 | 37647 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `Cloudflare/clef` | `image-text-to-text` | 2025 | 14351 | [Link](https://huggingface.co/Cloudflare/clef) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` | `text-to-image` | 3973 | 2188658 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) |
-| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 535 | 4702 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
+| `google/embeddinggemma-2` | `feature-extraction` | 1824 | 115763 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `jialinyyzz/humanizer` | `text-generation` | 1204 | 46070 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `Cloudflare/clef` | `image-text-to-text` | 2055 | 15064 | [Link](https://huggingface.co/Cloudflare/clef) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-Quantized` | `text-to-image` | 4032 | 2188658 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) |
+| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 585 | 6787 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
