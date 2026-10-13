@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-13)
 
-Generated at: `2026-10-13 17:56:56 UTC`
+Generated at: `2026-10-13 23:11:32 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-13 17:56:56 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `google/embeddinggemma-2` | `feature-extraction` | 2072 | 124930 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `jialinyyzz/humanizer` | `text-generation` | 1448 | 54039 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 692 | 9665 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-Quantized` | `text-to-image` | 4186 | 2247929 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 7599 | 1724548 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2099 | 124930 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `jialinyyzz/humanizer` | `text-generation` | 1509 | 54039 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 708 | 9665 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
+| `abenzerps/Qwen-Image-2.1-Uncensored-Quantized` | `text-to-image` | 4200 | 2247929 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 7637 | 1724548 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |

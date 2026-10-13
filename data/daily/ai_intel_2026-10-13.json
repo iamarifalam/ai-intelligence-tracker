@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T17:56:56.466884+00:00",
+  "generated_at": "2026-10-13T23:11:31.823410+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -59,35 +59,35 @@
   "models": [
     {
       "id": "google/embeddinggemma-2",
-      "likes": 2072,
+      "likes": 2099,
       "downloads": 124930,
       "pipeline_tag": "feature-extraction",
       "url": "https://huggingface.co/google/embeddinggemma-2"
     },
     {
       "id": "jialinyyzz/humanizer",
-      "likes": 1448,
+      "likes": 1509,
       "downloads": 54039,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/jialinyyzz/humanizer"
     },
     {
       "id": "Qwen/Qwen-Image-2.1-Turbo",
-      "likes": 692,
+      "likes": 708,
       "downloads": 9665,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-      "likes": 4186,
+      "likes": 4200,
       "downloads": 2247929,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 7599,
+      "likes": 7637,
       "downloads": 1724548,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
