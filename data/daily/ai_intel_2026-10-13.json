@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T10:08:41.153101+00:00",
+  "generated_at": "2026-10-13T17:56:56.466884+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -59,38 +59,38 @@
   "models": [
     {
       "id": "google/embeddinggemma-2",
-      "likes": 2012,
+      "likes": 2072,
       "downloads": 124930,
       "pipeline_tag": "feature-extraction",
       "url": "https://huggingface.co/google/embeddinggemma-2"
     },
     {
       "id": "jialinyyzz/humanizer",
-      "likes": 1385,
+      "likes": 1448,
       "downloads": 54039,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/jialinyyzz/humanizer"
     },
     {
       "id": "Qwen/Qwen-Image-2.1-Turbo",
-      "likes": 672,
+      "likes": 692,
       "downloads": 9665,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-      "likes": 4151,
+      "likes": 4186,
       "downloads": 2247929,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized"
     },
     {
-      "id": "Cloudflare/clef",
-      "likes": 2113,
-      "downloads": 17173,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/Cloudflare/clef"
+      "id": "Lightricks/LTX-2.5",
+      "likes": 7599,
+      "downloads": 1724548,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
     }
   ]
 }
