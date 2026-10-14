@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T08:25:43.279853+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "ChunkAct: Action Chunking for Agentic Robotics",
+      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a st...",
+      "published": "2026-10-13T17:59:57Z",
+      "url": "http://arxiv.org/abs/2610.18874v1",
+      "authors": [
+        "Bingxin Xu",
+        "Wenrui Bao",
+        "Xinxin Liu"
+      ]
+    },
+    {
+      "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+      "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover, cross-family training meets a scaling barrier: residual am...",
+      "published": "2026-10-13T17:59:53Z",
+      "url": "http://arxiv.org/abs/2610.18871v1",
+      "authors": [
+        "Chih-Hai Su",
+        "Tsung-Wei Ke",
+        "Yu-Lun Liu"
+      ]
+    },
+    {
+      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal huma...",
+      "published": "2026-10-13T17:59:52Z",
+      "url": "http://arxiv.org/abs/2610.18869v1",
+      "authors": [
+        "Mingxuan Yan",
+        "Litian Gong",
+        "Dihong Huang"
+      ]
+    },
+    {
+      "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horiz...",
+      "published": "2026-10-13T17:59:51Z",
+      "url": "http://arxiv.org/abs/2610.18868v1",
+      "authors": [
+        "Wenbo Hu",
+        "Shraman Pramanick",
+        "Krishna Kumar Singh"
+      ]
+    },
+    {
+      "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+      "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configurations. Diffusion models are promising for this purpose, but their standard denoising...",
+      "published": "2026-10-13T17:59:33Z",
+      "url": "http://arxiv.org/abs/2610.18863v1",
+      "authors": [
+        "Dennis Grinwald",
+        "Ankur Singha",
+        "Khaled Kahouli"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 2142,
+      "downloads": 124930,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "likes": 1558,
+      "downloads": 54039,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1-Turbo",
+      "likes": 729,
+      "downloads": 9665,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "likes": 4237,
+      "downloads": 2247929,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized"
+    },
+    {
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "likes": 520,
+      "downloads": 630,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
+    }
+  ]
+}
