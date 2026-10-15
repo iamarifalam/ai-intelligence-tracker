@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T08:00:57.010960+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has ...",
+      "published": "2026-10-14T17:59:52Z",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "authors": [
+        "Huixuan Cheng",
+        "Bike Zhang",
+        "Shankar Sastry"
+      ]
+    },
+    {
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical R...",
+      "published": "2026-10-14T17:59:52Z",
+      "url": "http://arxiv.org/abs/2610.20607v1",
+      "authors": [
+        "Zhefei Gong",
+        "Hefeifei Jiang",
+        "Zehao Wang"
+      ]
+    },
+    {
+      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision throu...",
+      "published": "2026-10-14T17:59:28Z",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "authors": [
+        "Haofei Yu",
+        "Yixing Chen",
+        "Yining Zhao"
+      ]
+    },
+    {
+      "title": "Your Transformer Is Secretly Elastic",
+      "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. T...",
+      "published": "2026-10-14T17:58:08Z",
+      "url": "http://arxiv.org/abs/2610.20588v1",
+      "authors": [
+        "Walter Simoncini",
+        "Dheeraj Varghese",
+        "Gertjan J. Burghouts"
+      ]
+    },
+    {
+      "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in...",
+      "published": "2026-10-14T17:57:57Z",
+      "url": "http://arxiv.org/abs/2610.20587v1",
+      "authors": [
+        "Shubhendu Trivedi",
+        "Jacob Eisenstein",
+        "Alekh Agarwal"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 2297,
+      "downloads": 135175,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "likes": 1657,
+      "downloads": 65616,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1-Turbo",
+      "likes": 793,
+      "downloads": 12704,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
+    },
+    {
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "likes": 692,
+      "downloads": 4157,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "likes": 4327,
+      "downloads": 2315771,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized"
+    }
+  ]
+}
