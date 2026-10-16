@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-15)
+# Daily Research Summary (2026-10-16)
 
-Generated at: `2026-10-15 21:57:20 UTC`
+Generated at: `2026-10-16 15:14:10 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)
-- Authors: Huixuan Cheng, Bike Zhang, Shankar Sastry
-- Published: `2026-10-14T17:59:52Z`
-- Summary: Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has ...
+### 1. [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)
+- Authors: Zhixu Li, Keqian Tang, Litian Gong
+- Published: `2026-10-15T17:59:59Z`
+- Summary: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating t...
 
-### 2. [Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance](http://arxiv.org/abs/2610.20607v1)
-- Authors: Zhefei Gong, Hefeifei Jiang, Zehao Wang
-- Published: `2026-10-14T17:59:52Z`
-- Summary: Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical R...
+### 2. [Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)
+- Authors: Andi Gu, Alek H. Kemeny, Susanne F. Yelin
+- Published: `2026-10-15T17:59:20Z`
+- Summary: Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource ...
 
-### 3. [Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1)
-- Authors: Haofei Yu, Yixing Chen, Yining Zhao
-- Published: `2026-10-14T17:59:28Z`
-- Summary: Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision throu...
+### 3. [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)
+- Authors: Chenyuan Zhou, Yining Hong, Huang Huang
+- Published: `2026-10-15T17:59:11Z`
+- Summary: Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules...
 
-### 4. [Your Transformer Is Secretly Elastic](http://arxiv.org/abs/2610.20588v1)
-- Authors: Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts
-- Published: `2026-10-14T17:58:08Z`
-- Summary: Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. T...
+### 4. [CoDA: Co-Evolution of Data Engines and Action Policies](http://arxiv.org/abs/2610.22362v1)
+- Authors: Tianjiao Yu, Zhilin Ou, Yifan Shen
+- Published: `2026-10-15T17:59:02Z`
+- Summary: Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA,...
 
-### 5. [Price of Anarchy of First-Price Auctions in Agentic Markets](http://arxiv.org/abs/2610.20587v1)
-- Authors: Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal
-- Published: `2026-10-14T17:57:57Z`
-- Summary: An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in...
+### 5. [PathFM: Fast Generative Forecasting of Multivariate Trajectories](http://arxiv.org/abs/2610.22358v1)
+- Authors: Jiachen Yao, Xiyuan Zhang, Annan Yu
+- Published: `2026-10-15T17:58:45Z`
+- Summary: Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantit...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `google/embeddinggemma-2` | `feature-extraction` | 2393 | 144280 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `jialinyyzz/humanizer` | `text-generation` | 1725 | 75253 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 873 | 15315 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
-| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 789 | 9278 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
-| `abenzerps/Qwen-Image-2.1-Uncensored-Quantized` | `text-to-image` | 4377 | 2415278 | [Link](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2482 | 151258 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `jialinyyzz/humanizer` | `text-generation` | 1797 | 85612 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 823 | 17553 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
+| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 921 | 17421 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
+| `fishaudio/drama-3` | `text-to-speech` | 526 | 6158 | [Link](https://huggingface.co/fishaudio/drama-3) |
