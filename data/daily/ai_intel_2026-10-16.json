@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T15:14:09.996818+00:00",
+  "generated_at": "2026-10-16T21:55:39.371466+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,38 +63,38 @@
   "models": [
     {
       "id": "google/embeddinggemma-2",
-      "likes": 2482,
+      "likes": 2506,
       "downloads": 151258,
       "pipeline_tag": "feature-extraction",
       "url": "https://huggingface.co/google/embeddinggemma-2"
     },
     {
       "id": "jialinyyzz/humanizer",
-      "likes": 1797,
+      "likes": 1820,
       "downloads": 85612,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/jialinyyzz/humanizer"
     },
     {
       "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-      "likes": 823,
+      "likes": 843,
       "downloads": 17553,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
     },
     {
-      "id": "Qwen/Qwen-Image-2.1-Turbo",
-      "likes": 921,
-      "downloads": 17421,
-      "pipeline_tag": "text-to-image",
-      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
-    },
-    {
       "id": "fishaudio/drama-3",
-      "likes": 526,
+      "likes": 551,
       "downloads": 6158,
       "pipeline_tag": "text-to-speech",
       "url": "https://huggingface.co/fishaudio/drama-3"
+    },
+    {
+      "id": "Qwen/Qwen-Image-2.1-Turbo",
+      "likes": 939,
+      "downloads": 17421,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"
     }
   ]
 }

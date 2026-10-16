@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-16)
 
-Generated at: `2026-10-16 15:14:10 UTC`
+Generated at: `2026-10-16 21:55:39 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-16 15:14:10 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `google/embeddinggemma-2` | `feature-extraction` | 2482 | 151258 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `jialinyyzz/humanizer` | `text-generation` | 1797 | 85612 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 823 | 17553 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
-| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 921 | 17421 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
-| `fishaudio/drama-3` | `text-to-speech` | 526 | 6158 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2506 | 151258 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `jialinyyzz/humanizer` | `text-generation` | 1820 | 85612 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 843 | 17553 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
+| `fishaudio/drama-3` | `text-to-speech` | 551 | 6158 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `Qwen/Qwen-Image-2.1-Turbo` | `text-to-image` | 939 | 17421 | [Link](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) |
