@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-17)
 
-Generated at: `2026-10-17 17:46:02 UTC`
+Generated at: `2026-10-17 21:15:15 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-17 17:46:02 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `google/embeddinggemma-2` | `feature-extraction` | 2575 | 158490 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `jialinyyzz/humanizer` | `text-generation` | 1882 | 95870 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 798 | 0 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 891 | 36252 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
-| `fishaudio/drama-3` | `text-to-speech` | 605 | 8193 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2583 | 158490 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 882 | 0 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `jialinyyzz/humanizer` | `text-generation` | 1893 | 95870 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 895 | 36252 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
+| `fishaudio/drama-3` | `text-to-speech` | 616 | 8193 | [Link](https://huggingface.co/fishaudio/drama-3) |
