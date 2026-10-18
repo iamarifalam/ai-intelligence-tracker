@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T14:19:34.447808+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating t...",
+      "published": "2026-10-15T17:59:59Z",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "authors": [
+        "Zhixu Li",
+        "Keqian Tang",
+        "Litian Gong"
+      ]
+    },
+    {
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource ...",
+      "published": "2026-10-15T17:59:20Z",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "authors": [
+        "Andi Gu",
+        "Alek H. Kemeny",
+        "Susanne F. Yelin"
+      ]
+    },
+    {
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules...",
+      "published": "2026-10-15T17:59:11Z",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "authors": [
+        "Chenyuan Zhou",
+        "Yining Hong",
+        "Huang Huang"
+      ]
+    },
+    {
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA,...",
+      "published": "2026-10-15T17:59:02Z",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "authors": [
+        "Tianjiao Yu",
+        "Zhilin Ou",
+        "Yifan Shen"
+      ]
+    },
+    {
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantit...",
+      "published": "2026-10-15T17:58:45Z",
+      "url": "http://arxiv.org/abs/2610.22358v1",
+      "authors": [
+        "Jiachen Yao",
+        "Xiyuan Zhang",
+        "Annan Yu"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 1222,
+      "downloads": 10233,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 2633,
+      "downloads": 164339,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "likes": 946,
+      "downloads": 57935,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "likes": 1926,
+      "downloads": 103709,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/jialinyyzz/humanizer"
+    },
+    {
+      "id": "fishaudio/drama-3",
+      "likes": 658,
+      "downloads": 9620,
+      "pipeline_tag": "text-to-speech",
+      "url": "https://huggingface.co/fishaudio/drama-3"
+    }
+  ]
+}
