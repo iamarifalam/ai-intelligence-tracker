@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T17:51:18.416600+00:00",
+  "generated_at": "2026-10-18T21:16:48.227946+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 1261,
+      "likes": 1306,
       "downloads": 10233,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
-      "id": "google/embeddinggemma-2",
-      "likes": 2644,
-      "downloads": 164339,
-      "pipeline_tag": "feature-extraction",
-      "url": "https://huggingface.co/google/embeddinggemma-2"
-    },
-    {
       "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-      "likes": 976,
+      "likes": 1002,
       "downloads": 57935,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
     },
     {
+      "id": "google/embeddinggemma-2",
+      "likes": 2656,
+      "downloads": 164339,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
       "id": "jialinyyzz/humanizer",
-      "likes": 1931,
+      "likes": 1939,
       "downloads": 103709,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/jialinyyzz/humanizer"
     },
     {
       "id": "fishaudio/drama-3",
-      "likes": 674,
+      "likes": 684,
       "downloads": 9620,
       "pipeline_tag": "text-to-speech",
       "url": "https://huggingface.co/fishaudio/drama-3"

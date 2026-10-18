@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-18)
 
-Generated at: `2026-10-18 17:51:18 UTC`
+Generated at: `2026-10-18 21:16:48 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-18 17:51:18 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1261 | 10233 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `google/embeddinggemma-2` | `feature-extraction` | 2644 | 164339 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 976 | 57935 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
-| `jialinyyzz/humanizer` | `text-generation` | 1931 | 103709 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `fishaudio/drama-3` | `text-to-speech` | 674 | 9620 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1306 | 10233 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 1002 | 57935 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2656 | 164339 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `jialinyyzz/humanizer` | `text-generation` | 1939 | 103709 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
+| `fishaudio/drama-3` | `text-to-speech` | 684 | 9620 | [Link](https://huggingface.co/fishaudio/drama-3) |
