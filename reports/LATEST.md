@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-18)
+# Daily Research Summary (2026-10-19)
 
-Generated at: `2026-10-18 21:16:48 UTC`
+Generated at: `2026-10-19 08:31:33 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)
-- Authors: Zhixu Li, Keqian Tang, Litian Gong
-- Published: `2026-10-15T17:59:59Z`
-- Summary: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating t...
+### 1. [Rethinking the design space of Vanilla Pixel Diffusion Transformers](http://arxiv.org/abs/2610.23854v1)
+- Authors: Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava
+- Published: `2026-10-16T17:59:30Z`
+- Summary: Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the com...
 
-### 2. [Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)
-- Authors: Andi Gu, Alek H. Kemeny, Susanne F. Yelin
-- Published: `2026-10-15T17:59:20Z`
-- Summary: Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource ...
+### 2. [Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1)
+- Authors: Dongyoon Hahm, Woogyeol Jin, Dennis Wei
+- Published: `2026-10-16T17:58:08Z`
+- Summary: Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. W...
 
-### 3. [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)
-- Authors: Chenyuan Zhou, Yining Hong, Huang Huang
-- Published: `2026-10-15T17:59:11Z`
-- Summary: Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules...
+### 3. [AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1)
+- Authors: Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov
+- Published: `2026-10-16T17:57:55Z`
+- Summary: Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case stu...
 
-### 4. [CoDA: Co-Evolution of Data Engines and Action Policies](http://arxiv.org/abs/2610.22362v1)
-- Authors: Tianjiao Yu, Zhilin Ou, Yifan Shen
-- Published: `2026-10-15T17:59:02Z`
-- Summary: Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA,...
+### 4. [DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](http://arxiv.org/abs/2610.23839v1)
+- Authors: Jianyuan Zhong, Chenwei Wu, Zhaochen Yu
+- Published: `2026-10-16T17:56:35Z`
+- Summary: Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about ...
 
-### 5. [PathFM: Fast Generative Forecasting of Multivariate Trajectories](http://arxiv.org/abs/2610.22358v1)
-- Authors: Jiachen Yao, Xiyuan Zhang, Annan Yu
-- Published: `2026-10-15T17:58:45Z`
-- Summary: Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantit...
+### 5. [Task-aligned spectral inductive biases in parameterized quantum circuits](http://arxiv.org/abs/2610.23834v1)
+- Authors: Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange
+- Published: `2026-10-16T17:53:19Z`
+- Summary: Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between sa...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1306 | 10233 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 1002 | 57935 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
-| `google/embeddinggemma-2` | `feature-extraction` | 2656 | 164339 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `jialinyyzz/humanizer` | `text-generation` | 1939 | 103709 | [Link](https://huggingface.co/jialinyyzz/humanizer) |
-| `fishaudio/drama-3` | `text-to-speech` | 684 | 9620 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1487 | 10233 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `openbmb/MiniCPM-V-4.7-35B-A3B` | `image-text-to-text` | 1025 | 57935 | [Link](https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2678 | 164339 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `fishaudio/drama-3` | `text-to-speech` | 719 | 9620 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 847 | 338036 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |

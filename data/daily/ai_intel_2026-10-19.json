@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T08:31:33.148646+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+      "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the com...",
+      "published": "2026-10-16T17:59:30Z",
+      "url": "http://arxiv.org/abs/2610.23854v1",
+      "authors": [
+        "Soumik Mukhopadhyay",
+        "Long Mai",
+        "Abhinav Shrivastava"
+      ]
+    },
+    {
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "summary": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. W...",
+      "published": "2026-10-16T17:58:08Z",
+      "url": "http://arxiv.org/abs/2610.23847v1",
+      "authors": [
+        "Dongyoon Hahm",
+        "Woogyeol Jin",
+        "Dennis Wei"
+      ]
+    },
+    {
+      "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+      "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case stu...",
+      "published": "2026-10-16T17:57:55Z",
+      "url": "http://arxiv.org/abs/2610.23845v1",
+      "authors": [
+        "Shicheng Liu",
+        "Krista Opsahl-Ong",
+        "Andrew Drozdov"
+      ]
+    },
+    {
+      "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+      "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definition of valuable and testable research hypotheses: evidence-grounded claims about ...",
+      "published": "2026-10-16T17:56:35Z",
+      "url": "http://arxiv.org/abs/2610.23839v1",
+      "authors": [
+        "Jianyuan Zhong",
+        "Chenwei Wu",
+        "Zhaochen Yu"
+      ]
+    },
+    {
+      "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+      "summary": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between sa...",
+      "published": "2026-10-16T17:53:19Z",
+      "url": "http://arxiv.org/abs/2610.23834v1",
+      "authors": [
+        "Felix Frohnert",
+        "Adri\u00e1n P\u00e9rez-Salinas",
+        "Sebastian Lange"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 1487,
+      "downloads": 10233,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "likes": 1025,
+      "downloads": 57935,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
+    },
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 2678,
+      "downloads": 164339,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
+    },
+    {
+      "id": "fishaudio/drama-3",
+      "likes": 719,
+      "downloads": 9620,
+      "pipeline_tag": "text-to-speech",
+      "url": "https://huggingface.co/fishaudio/drama-3"
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "likes": 847,
+      "downloads": 338036,
+      "pipeline_tag": "image-to-image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    }
+  ]
+}
