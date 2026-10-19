@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T08:31:33.148646+00:00",
+  "generated_at": "2026-10-19T17:20:28.527668+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,38 +63,38 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 1487,
-      "downloads": 10233,
+      "likes": 1624,
+      "downloads": 17924,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "openbmb/MiniCPM-V-4.7-35B-A3B",
-      "likes": 1025,
-      "downloads": 57935,
+      "likes": 1042,
+      "downloads": 76410,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B"
     },
     {
-      "id": "google/embeddinggemma-2",
-      "likes": 2678,
-      "downloads": 164339,
-      "pipeline_tag": "feature-extraction",
-      "url": "https://huggingface.co/google/embeddinggemma-2"
-    },
-    {
       "id": "fishaudio/drama-3",
-      "likes": 719,
-      "downloads": 9620,
+      "likes": 747,
+      "downloads": 11795,
       "pipeline_tag": "text-to-speech",
       "url": "https://huggingface.co/fishaudio/drama-3"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 847,
-      "downloads": 338036,
+      "likes": 915,
+      "downloads": 393062,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    },
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 2709,
+      "downloads": 167750,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
     }
   ]
 }
