@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-20)
 
-Generated at: `2026-10-20 15:33:33 UTC`
+Generated at: `2026-10-20 22:07:57 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-20 15:33:33 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1873 | 27737 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1049 | 439528 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| `fishaudio/drama-3` | `text-to-speech` | 807 | 13495 | [Link](https://huggingface.co/fishaudio/drama-3) |
-| `google/embeddinggemma-2` | `feature-extraction` | 2750 | 172474 | [Link](https://huggingface.co/google/embeddinggemma-2) |
-| `meta-models/Muse-Spark-Open-816B-A42B` | `image-text-to-text` | 596 | 2592 | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1939 | 27737 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1080 | 439528 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `fishaudio/drama-3` | `text-to-speech` | 833 | 13495 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `meta-models/Muse-Spark-Open-816B-A42B` | `image-text-to-text` | 607 | 2592 | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
+| `google/embeddinggemma-2` | `feature-extraction` | 2762 | 172474 | [Link](https://huggingface.co/google/embeddinggemma-2) |

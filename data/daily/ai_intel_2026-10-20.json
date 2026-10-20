@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T15:33:33.158593+00:00",
+  "generated_at": "2026-10-20T22:07:57.469936+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,38 +63,38 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 1873,
+      "likes": 1939,
       "downloads": 27737,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1049,
+      "likes": 1080,
       "downloads": 439528,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
     },
     {
       "id": "fishaudio/drama-3",
-      "likes": 807,
+      "likes": 833,
       "downloads": 13495,
       "pipeline_tag": "text-to-speech",
       "url": "https://huggingface.co/fishaudio/drama-3"
     },
     {
-      "id": "google/embeddinggemma-2",
-      "likes": 2750,
-      "downloads": 172474,
-      "pipeline_tag": "feature-extraction",
-      "url": "https://huggingface.co/google/embeddinggemma-2"
-    },
-    {
       "id": "meta-models/Muse-Spark-Open-816B-A42B",
-      "likes": 596,
+      "likes": 607,
       "downloads": 2592,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B"
+    },
+    {
+      "id": "google/embeddinggemma-2",
+      "likes": 2762,
+      "downloads": 172474,
+      "pipeline_tag": "feature-extraction",
+      "url": "https://huggingface.co/google/embeddinggemma-2"
     }
   ]
 }
