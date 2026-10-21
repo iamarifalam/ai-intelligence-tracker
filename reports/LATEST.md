@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-20)
+# Daily Research Summary (2026-10-21)
 
-Generated at: `2026-10-20 22:07:57 UTC`
+Generated at: `2026-10-21 08:18:15 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)
-- Authors: Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas
-- Published: `2026-10-19T17:59:59Z`
-- Summary: Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained...
+### 1. [Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)
+- Authors: Noam Rotstein, Yoad Tewel, Chen Tessler
+- Published: `2026-10-20T17:59:56Z`
+- Summary: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it canno...
 
-### 2. [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)
-- Authors: Yu Zhou, Cheng-Fu Yang, Rui Sun
-- Published: `2026-10-19T17:59:58Z`
-- Summary: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base...
+### 2. [GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)
+- Authors: Yazhuo Liu, Kunqing Ding, Xiaoguo Gong
+- Published: `2026-10-20T17:59:40Z`
+- Summary: Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for inve...
 
-### 3. [Can It Actually Work? Synthesizing Functional CAD Mechanisms](http://arxiv.org/abs/2610.26861v1)
-- Authors: Wenqian Zhang, Yangyi Huang, Zigeng Xu
-- Published: `2026-10-19T17:59:58Z`
-- Summary: While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified requests to construct and iteratively revise mechanisms that sat...
+### 3. [Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)
+- Authors: Yuxuan Kuang, Jiashun Wang, Yixuan Sun
+- Published: `2026-10-20T17:59:32Z`
+- Summary: Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbit...
 
-### 4. [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](http://arxiv.org/abs/2610.26856v1)
-- Authors: Shiao Xie, Siyu Chen, Jianwei Lv
-- Published: `2026-10-19T17:59:56Z`
-- Summary: Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections fro...
+### 4. [UniWALM: Unified World Action Language Model for Embodied Robot Control](http://arxiv.org/abs/2610.28626v1)
+- Authors: Rahul Sajnani, Diego Romeres, Mingyuan Zhang
+- Published: `2026-10-20T17:59:04Z`
+- Summary: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal...
 
-### 5. [CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](http://arxiv.org/abs/2610.26852v1)
-- Authors: Zehao Wang, Jianpeng Yao, Yuping Wang
-- Published: `2026-10-19T17:59:49Z`
-- Summary: Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusio...
+### 5. [Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](http://arxiv.org/abs/2610.28624v1)
+- Authors: Jad Yammine, Malek Wahidi, Abrar Anwar
+- Published: `2026-10-20T17:58:32Z`
+- Summary: Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining recurring aisle blockages can require reviewing video from m...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 1939 | 27737 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1080 | 439528 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| `fishaudio/drama-3` | `text-to-speech` | 833 | 13495 | [Link](https://huggingface.co/fishaudio/drama-3) |
-| `meta-models/Muse-Spark-Open-816B-A42B` | `image-text-to-text` | 607 | 2592 | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
-| `google/embeddinggemma-2` | `feature-extraction` | 2762 | 172474 | [Link](https://huggingface.co/google/embeddinggemma-2) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2036 | 27737 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1114 | 439528 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `fishaudio/drama-3` | `text-to-speech` | 850 | 13495 | [Link](https://huggingface.co/fishaudio/drama-3) |
+| `meta-models/Muse-Spark-Open-816B-A42B` | `image-text-to-text` | 614 | 2592 | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
+| `black-forest-labs/flux-3-image-klein` | `image-to-image` | 574 | 78897 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein) |
