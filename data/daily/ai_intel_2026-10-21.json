@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:18:15.210401+00:00",
+  "generated_at": "2026-10-21T15:50:10.598935+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,36 +63,36 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 2036,
-      "downloads": 27737,
+      "likes": 2103,
+      "downloads": 42122,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1114,
-      "downloads": 439528,
+      "likes": 1149,
+      "downloads": 490447,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
     },
     {
       "id": "fishaudio/drama-3",
-      "likes": 850,
-      "downloads": 13495,
+      "likes": 871,
+      "downloads": 15274,
       "pipeline_tag": "text-to-speech",
       "url": "https://huggingface.co/fishaudio/drama-3"
     },
     {
       "id": "meta-models/Muse-Spark-Open-816B-A42B",
-      "likes": 614,
-      "downloads": 2592,
+      "likes": 625,
+      "downloads": 2891,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein",
-      "likes": 574,
-      "downloads": 78897,
+      "likes": 589,
+      "downloads": 92604,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein"
     }
