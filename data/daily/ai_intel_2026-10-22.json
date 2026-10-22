@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T08:20:11.819713+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too s...",
+      "published": "2026-10-21T17:59:14Z",
+      "url": "http://arxiv.org/abs/2610.30132v1",
+      "authors": [
+        "Zhennan Wan",
+        "Jianfei Chen"
+      ]
+    },
+    {
+      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+      "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computation...",
+      "published": "2026-10-21T17:58:06Z",
+      "url": "http://arxiv.org/abs/2610.30128v1",
+      "authors": [
+        "Zhanshuo Cao",
+        "Jiakai Tang",
+        "Yuqi Zhou"
+      ]
+    },
+    {
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface frictio...",
+      "published": "2026-10-21T17:57:59Z",
+      "url": "http://arxiv.org/abs/2610.30125v1",
+      "authors": [
+        "Yunhao Luo",
+        "Wentao He",
+        "Yinpei Dai"
+      ]
+    },
+    {
+      "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+      "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among ot...",
+      "published": "2026-10-21T17:57:19Z",
+      "url": "http://arxiv.org/abs/2610.30122v1",
+      "authors": [
+        "Ashkan Soleymani",
+        "Gabriele Farina"
+      ]
+    },
+    {
+      "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+      "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending afte...",
+      "published": "2026-10-21T17:56:37Z",
+      "url": "http://arxiv.org/abs/2610.30119v1",
+      "authors": [
+        "Imon Banerjee",
+        "Pierre Alquier"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 2229,
+      "downloads": 42122,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "likes": 1222,
+      "downloads": 490447,
+      "pipeline_tag": "image-to-image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    },
+    {
+      "id": "meta-models/Muse-Spark-Open-816B-A42B",
+      "likes": 644,
+      "downloads": 2891,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B"
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein",
+      "likes": 614,
+      "downloads": 92604,
+      "pipeline_tag": "image-to-image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein"
+    },
+    {
+      "id": "fishaudio/drama-3",
+      "likes": 897,
+      "downloads": 15274,
+      "pipeline_tag": "text-to-speech",
+      "url": "https://huggingface.co/fishaudio/drama-3"
+    }
+  ]
+}

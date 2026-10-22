@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-21)
+# Daily Research Summary (2026-10-22)
 
-Generated at: `2026-10-21 22:07:48 UTC`
+Generated at: `2026-10-22 08:20:12 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)
-- Authors: Noam Rotstein, Yoad Tewel, Chen Tessler
-- Published: `2026-10-20T17:59:56Z`
-- Summary: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it canno...
+### 1. [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)
+- Authors: Zhennan Wan, Jianfei Chen
+- Published: `2026-10-21T17:59:14Z`
+- Summary: Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too s...
 
-### 2. [GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)
-- Authors: Yazhuo Liu, Kunqing Ding, Xiaoguo Gong
-- Published: `2026-10-20T17:59:40Z`
-- Summary: Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for inve...
+### 2. [Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](http://arxiv.org/abs/2610.30128v1)
+- Authors: Zhanshuo Cao, Jiakai Tang, Yuqi Zhou
+- Published: `2026-10-21T17:58:06Z`
+- Summary: Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computation...
 
-### 3. [Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)
-- Authors: Yuxuan Kuang, Jiashun Wang, Yixuan Sun
-- Published: `2026-10-20T17:59:32Z`
-- Summary: Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-off. Goal-reaching reinforcement learning generalizes to arbit...
+### 3. [PhysiCalWorld: In-Context Physics Calibration for World Models](http://arxiv.org/abs/2610.30125v1)
+- Authors: Yunhao Luo, Wentao He, Yinpei Dai
+- Published: `2026-10-21T17:57:59Z`
+- Summary: Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface frictio...
 
-### 4. [UniWALM: Unified World Action Language Model for Embodied Robot Control](http://arxiv.org/abs/2610.28626v1)
-- Authors: Rahul Sajnani, Diego Romeres, Mingyuan Zhang
-- Published: `2026-10-20T17:59:04Z`
-- Summary: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared representation, where each modality is both a conditioning signal...
+### 4. [A Quasipolynomial Algorithm for $\ell_\infty$ Contractions](http://arxiv.org/abs/2610.30122v1)
+- Authors: Ashkan Soleymani, Gabriele Farina
+- Published: `2026-10-21T17:57:19Z`
+- Summary: We give an algorithm for computing an $\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\ell_\infty$ norm in time $\log(1/\eps)^{O(\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among ot...
 
-### 5. [Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](http://arxiv.org/abs/2610.28624v1)
-- Authors: Jad Yammine, Malek Wahidi, Abrar Anwar
-- Published: `2026-10-20T17:58:32Z`
-- Summary: Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining recurring aisle blockages can require reviewing video from m...
+### 5. [Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence](http://arxiv.org/abs/2610.30119v1)
+- Authors: Imon Banerjee, Pierre Alquier
+- Published: `2026-10-21T17:56:37Z`
+- Summary: We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending afte...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2148 | 42122 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1182 | 490447 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| `meta-models/Muse-Spark-Open-816B-A42B` | `image-text-to-text` | 635 | 2891 | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
-| `fishaudio/drama-3` | `text-to-speech` | 885 | 15274 | [Link](https://huggingface.co/fishaudio/drama-3) |
-| `black-forest-labs/flux-3-image-klein` | `image-to-image` | 597 | 92604 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2229 | 42122 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1222 | 490447 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `meta-models/Muse-Spark-Open-816B-A42B` | `image-text-to-text` | 644 | 2891 | [Link](https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B) |
+| `black-forest-labs/flux-3-image-klein` | `image-to-image` | 614 | 92604 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein) |
+| `fishaudio/drama-3` | `text-to-speech` | 897 | 15274 | [Link](https://huggingface.co/fishaudio/drama-3) |
