@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T08:16:35.670162+00:00",
+  "generated_at": "2026-10-23T15:38:41.240734+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,36 +63,36 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 2434,
-      "downloads": 51911,
+      "likes": 2512,
+      "downloads": 57715,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1328,
-      "downloads": 512524,
+      "likes": 1372,
+      "downloads": 534837,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
     },
     {
       "id": "RecursiveSI/flint",
-      "likes": 592,
-      "downloads": 420,
+      "likes": 638,
+      "downloads": 1904,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/RecursiveSI/flint"
     },
     {
       "id": "OpenMOSS-Team/MOSS-Image-SFT",
-      "likes": 604,
-      "downloads": 6890,
+      "likes": 626,
+      "downloads": 7658,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT"
     },
     {
       "id": "OpenMOSS-Team/MOSS-Image-Base",
-      "likes": 502,
-      "downloads": 5013,
+      "likes": 512,
+      "downloads": 5618,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base"
     }
