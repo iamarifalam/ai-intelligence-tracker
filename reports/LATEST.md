@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-22)
+# Daily Research Summary (2026-10-23)
 
-Generated at: `2026-10-22 22:07:48 UTC`
+Generated at: `2026-10-23 08:16:35 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)
-- Authors: Zhennan Wan, Jianfei Chen
-- Published: `2026-10-21T17:59:14Z`
-- Summary: Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too s...
+### 1. [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)
+- Authors: Yunfei Xie, Howard H. Qian, Shiyi Lan
+- Published: `2026-10-22T17:59:51Z`
+- Summary: Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and langua...
 
-### 2. [Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation](http://arxiv.org/abs/2610.30128v1)
-- Authors: Zhanshuo Cao, Jiakai Tang, Yuqi Zhou
-- Published: `2026-10-21T17:58:06Z`
-- Summary: Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computation...
+### 2. [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)
+- Authors: Mahdi Salmani, Adel Javanmard, Devansh Gupta
+- Published: `2026-10-22T17:59:48Z`
+- Summary: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so r...
 
-### 3. [PhysiCalWorld: In-Context Physics Calibration for World Models](http://arxiv.org/abs/2610.30125v1)
-- Authors: Yunhao Luo, Wentao He, Yinpei Dai
-- Published: `2026-10-21T17:57:59Z`
-- Summary: Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface frictio...
+### 3. [Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)
+- Authors: Xin He, Huan Lao, Xiliang Lu
+- Published: `2026-10-22T17:59:29Z`
+- Summary: Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approxi...
 
-### 4. [A Quasipolynomial Algorithm for $\ell_\infty$ Contractions](http://arxiv.org/abs/2610.30122v1)
-- Authors: Ashkan Soleymani, Gabriele Farina
-- Published: `2026-10-21T17:57:19Z`
-- Summary: We give an algorithm for computing an $\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\ell_\infty$ norm in time $\log(1/\eps)^{O(\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among ot...
+### 4. [Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)
+- Authors: Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani
+- Published: `2026-10-22T17:59:22Z`
+- Summary: We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by th...
 
-### 5. [Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence](http://arxiv.org/abs/2610.30119v1)
-- Authors: Imon Banerjee, Pierre Alquier
-- Published: `2026-10-21T17:56:37Z`
-- Summary: We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending afte...
+### 5. [SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](http://arxiv.org/abs/2610.31659v1)
+- Authors: Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe
+- Published: `2026-10-22T17:59:03Z`
+- Summary: Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before rel...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2346 | 51911 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1290 | 512524 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| `OpenMOSS-Team/MOSS-Image-SFT` | `text-to-image` | 571 | 6890 | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) |
-| `RecursiveSI/flint` | `text-generation` | 515 | 420 | [Link](https://huggingface.co/RecursiveSI/flint) |
-| `OpenMOSS-Team/MOSS-Image-Base` | `text-to-image` | 484 | 5013 | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2434 | 51911 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1328 | 512524 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `RecursiveSI/flint` | `text-generation` | 592 | 420 | [Link](https://huggingface.co/RecursiveSI/flint) |
+| `OpenMOSS-Team/MOSS-Image-SFT` | `text-to-image` | 604 | 6890 | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT) |
+| `OpenMOSS-Team/MOSS-Image-Base` | `text-to-image` | 502 | 5013 | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) |
