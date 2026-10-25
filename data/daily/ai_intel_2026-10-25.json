@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:08:15.731918+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and langua...",
+      "published": "2026-10-22T17:59:51Z",
+      "url": "http://arxiv.org/abs/2610.31670v1",
+      "authors": [
+        "Yunfei Xie",
+        "Howard H. Qian",
+        "Shiyi Lan"
+      ]
+    },
+    {
+      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+      "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so r...",
+      "published": "2026-10-22T17:59:48Z",
+      "url": "http://arxiv.org/abs/2610.31667v1",
+      "authors": [
+        "Mahdi Salmani",
+        "Adel Javanmard",
+        "Devansh Gupta"
+      ]
+    },
+    {
+      "title": "Phase Transition from Random Features to Fully Trainable Networks",
+      "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approxi...",
+      "published": "2026-10-22T17:59:29Z",
+      "url": "http://arxiv.org/abs/2610.31663v1",
+      "authors": [
+        "Xin He",
+        "Huan Lao",
+        "Xiliang Lu"
+      ]
+    },
+    {
+      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+      "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by th...",
+      "published": "2026-10-22T17:59:22Z",
+      "url": "http://arxiv.org/abs/2610.31662v1",
+      "authors": [
+        "Isaac Gibbs",
+        "Elise L. Han",
+        "Ryan J. Tibshirani"
+      ]
+    },
+    {
+      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+      "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before rel...",
+      "published": "2026-10-22T17:59:03Z",
+      "url": "http://arxiv.org/abs/2610.31659v1",
+      "authors": [
+        "Sy-Tuyen Ho",
+        "Anirudh Satheesh",
+        "Soham Chawathe"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 2845,
+      "downloads": 73215,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "RecursiveSI/flint",
+      "likes": 793,
+      "downloads": 4795,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/RecursiveSI/flint"
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "likes": 1527,
+      "downloads": 590742,
+      "pipeline_tag": "image-to-image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    },
+    {
+      "id": "XHToken/Spark-X2.6-4B",
+      "likes": 462,
+      "downloads": 2537,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 9217,
+      "downloads": 2087721,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+  ]
+}
