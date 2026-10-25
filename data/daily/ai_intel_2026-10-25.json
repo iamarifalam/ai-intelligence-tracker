@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T14:50:47.476699+00:00",
+  "generated_at": "2026-10-25T18:10:28.270851+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 2904,
+      "likes": 2938,
       "downloads": 85275,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "RecursiveSI/flint",
-      "likes": 818,
+      "likes": 835,
       "downloads": 6444,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/RecursiveSI/flint"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1567,
+      "likes": 1580,
       "downloads": 660874,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
     },
     {
       "id": "XHToken/Spark-X2.6-4B",
-      "likes": 481,
+      "likes": 488,
       "downloads": 3488,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 9256,
+      "likes": 9295,
       "downloads": 2107108,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
