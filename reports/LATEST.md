@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-25)
 
-Generated at: `2026-10-25 18:10:28 UTC`
+Generated at: `2026-10-25 21:27:54 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-25 18:10:28 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2938 | 85275 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `RecursiveSI/flint` | `text-generation` | 835 | 6444 | [Link](https://huggingface.co/RecursiveSI/flint) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1580 | 660874 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| `XHToken/Spark-X2.6-4B` | `text-generation` | 488 | 3488 | [Link](https://huggingface.co/XHToken/Spark-X2.6-4B) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 9295 | 2107108 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2963 | 85275 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `RecursiveSI/flint` | `text-generation` | 848 | 6444 | [Link](https://huggingface.co/RecursiveSI/flint) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1593 | 660874 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `XHToken/Spark-X2.6-4B` | `text-generation` | 491 | 3488 | [Link](https://huggingface.co/XHToken/Spark-X2.6-4B) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 9320 | 2107108 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
