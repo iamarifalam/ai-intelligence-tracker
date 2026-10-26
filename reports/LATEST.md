@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-10-25)
+# Daily Research Summary (2026-10-26)
 
-Generated at: `2026-10-25 21:27:54 UTC`
+Generated at: `2026-10-26 08:33:55 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)
-- Authors: Yunfei Xie, Howard H. Qian, Shiyi Lan
-- Published: `2026-10-22T17:59:51Z`
-- Summary: Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and langua...
+### 1. [The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)
+- Authors: James E. Dobson
+- Published: `2026-10-23T17:59:56Z`
+- Summary: This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive language from prior conversations between generative models and hu...
 
-### 2. [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)
-- Authors: Mahdi Salmani, Adel Javanmard, Devansh Gupta
-- Published: `2026-10-22T17:59:48Z`
-- Summary: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so r...
+### 2. [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)
+- Authors: Yuhan Liu, Lianhui Qin, Shenji Wan
+- Published: `2026-10-23T17:59:21Z`
+- Summary: Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors o...
 
-### 3. [Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)
-- Authors: Xin He, Huan Lao, Xiliang Lu
-- Published: `2026-10-22T17:59:29Z`
-- Summary: Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approxi...
+### 3. [RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)
+- Authors: Xi Chen, Fengqi Hu, Zeyu Shen
+- Published: `2026-10-23T17:57:22Z`
+- Summary: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principles, yet two major barriers limit their broader potential: limi...
 
-### 4. [Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)
-- Authors: Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani
-- Published: `2026-10-22T17:59:22Z`
-- Summary: We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by th...
+### 4. [DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)
+- Authors: Amber Xie, Jiawei Fu, Xiaofeng Guo
+- Published: `2026-10-23T17:56:28Z`
+- Summary: Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstr...
 
-### 5. [SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](http://arxiv.org/abs/2610.31659v1)
-- Authors: Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe
-- Published: `2026-10-22T17:59:03Z`
-- Summary: Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before rel...
+### 5. [Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](http://arxiv.org/abs/2610.32964v1)
+- Authors: Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev
+- Published: `2026-10-23T17:53:30Z`
+- Summary: Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk reproducing anomalous content. Flownomaly instead casts the p...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 2963 | 85275 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `RecursiveSI/flint` | `text-generation` | 848 | 6444 | [Link](https://huggingface.co/RecursiveSI/flint) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1593 | 660874 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
-| `XHToken/Spark-X2.6-4B` | `text-generation` | 491 | 3488 | [Link](https://huggingface.co/XHToken/Spark-X2.6-4B) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 9320 | 2107108 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 3050 | 85275 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `RecursiveSI/flint` | `text-generation` | 878 | 6444 | [Link](https://huggingface.co/RecursiveSI/flint) |
+| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1630 | 660874 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `XHToken/Spark-X2.6-4B` | `text-generation` | 542 | 3488 | [Link](https://huggingface.co/XHToken/Spark-X2.6-4B) |
+| `Nanbeige/Nanbeige4.3-33B` | `text-generation` | 470 | 0 | [Link](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) |
