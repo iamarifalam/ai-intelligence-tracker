@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T08:40:58.771747+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+      "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose ...",
+      "published": "2026-10-26T17:59:44Z",
+      "url": "http://arxiv.org/abs/2610.35868v1",
+      "authors": [
+        "Chao Wan",
+        "Paul J\u00fcnger",
+        "Beixi Du"
+      ]
+    },
+    {
+      "title": "Center-of-Mass Interpretation of Evolution Strategies",
+      "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate of a smoothed gradient. We present a geometrical interpretati...",
+      "published": "2026-10-26T17:59:33Z",
+      "url": "http://arxiv.org/abs/2610.35865v1",
+      "authors": [
+        "Akshat Gupta"
+      ]
+    },
+    {
+      "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+      "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating autonomous research systems and discovering ideas in language mo...",
+      "published": "2026-10-26T17:59:33Z",
+      "url": "http://arxiv.org/abs/2610.35866v1",
+      "authors": [
+        "Xi Chen",
+        "Chongjian Ge",
+        "Yiran Xu"
+      ]
+    },
+    {
+      "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+      "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone. Therefore, we present FLORE, a framework for learning force-...",
+      "published": "2026-10-26T17:59:11Z",
+      "url": "http://arxiv.org/abs/2610.35862v1",
+      "authors": [
+        "Sihang Li",
+        "Xiaofeng Guo",
+        "Jinkun Cao"
+      ]
+    },
+    {
+      "title": "On the stability of learning",
+      "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be sparse, local, and only intermittently available at any given syn...",
+      "published": "2026-10-26T17:58:14Z",
+      "url": "http://arxiv.org/abs/2610.35856v1",
+      "authors": [
+        "John J. Vastola"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 3263,
+      "downloads": 95889,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "RecursiveSI/flint",
+      "likes": 937,
+      "downloads": 8470,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/RecursiveSI/flint"
+    },
+    {
+      "id": "Nanbeige/Nanbeige4.3-33B",
+      "likes": 617,
+      "downloads": 2787,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+    },
+    {
+      "id": "XHToken/Spark-X2.6-4B",
+      "likes": 725,
+      "downloads": 4726,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "likes": 1721,
+      "downloads": 700652,
+      "pipeline_tag": "image-to-image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    }
+  ]
+}
