@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T16:12:56.627436+00:00",
+  "generated_at": "2026-10-27T22:51:21.554345+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -59,35 +59,35 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 3322,
+      "likes": 3365,
       "downloads": 105667,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "RecursiveSI/flint",
-      "likes": 952,
+      "likes": 967,
       "downloads": 10574,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/RecursiveSI/flint"
     },
     {
       "id": "Nanbeige/Nanbeige4.3-33B",
-      "likes": 643,
+      "likes": 664,
       "downloads": 4785,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
     },
     {
       "id": "XHToken/Spark-X2.6-4B",
-      "likes": 756,
+      "likes": 782,
       "downloads": 6191,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
     },
     {
       "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1815,
+      "likes": 1850,
       "downloads": 750694,
       "pipeline_tag": "image-to-image",
       "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
