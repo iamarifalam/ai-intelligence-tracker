@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T09:20:49.084066+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatia...",
+      "published": "2026-10-27T17:59:59Z",
+      "url": "http://arxiv.org/abs/2610.37668v1",
+      "authors": [
+        "Prakhar Kaushik",
+        "Soumava Paul",
+        "Alan Yuille"
+      ]
+    },
+    {
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience...",
+      "published": "2026-10-27T17:59:52Z",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "authors": [
+        "Chaehyun Kim",
+        "Chi-Pin Huang",
+        "Jisoo Kim"
+      ]
+    },
+    {
+      "title": "When Should We Intervene at Test Time?",
+      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accura...",
+      "published": "2026-10-27T17:58:53Z",
+      "url": "http://arxiv.org/abs/2610.37658v1",
+      "authors": [
+        "Jiahao Zhang",
+        "Xinling Wen",
+        "Liangliang Li"
+      ]
+    },
+    {
+      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason o...",
+      "published": "2026-10-27T17:58:52Z",
+      "url": "http://arxiv.org/abs/2610.37657v1",
+      "authors": [
+        "Igor Shilov",
+        "Xiaoxue Yang",
+        "Alexander Panfilov"
+      ]
+    },
+    {
+      "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each...",
+      "published": "2026-10-27T17:58:48Z",
+      "url": "http://arxiv.org/abs/2610.37656v1",
+      "authors": [
+        "Aakash Sarkar",
+        "Ananya Mukherjee",
+        "Motoshige Sato"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "RecursiveSI/flint",
+      "likes": 1098,
+      "downloads": 10574,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/RecursiveSI/flint"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 3457,
+      "downloads": 105667,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "Nanbeige/Nanbeige4.3-33B",
+      "likes": 686,
+      "downloads": 4785,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+    },
+    {
+      "id": "XHToken/Spark-X2.6-4B",
+      "likes": 823,
+      "downloads": 6191,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+    },
+    {
+      "id": "black-forest-labs/flux-3-image-klein-comfy",
+      "likes": 1895,
+      "downloads": 750694,
+      "pipeline_tag": "image-to-image",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+    }
+  ]
+}
