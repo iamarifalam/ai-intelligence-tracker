@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T16:59:41.243022+00:00",
+  "generated_at": "2026-10-28T22:57:27.501448+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -62,39 +62,39 @@
   ],
   "models": [
     {
-      "id": "RecursiveSI/flint",
-      "likes": 1141,
-      "downloads": 14047,
-      "pipeline_tag": "text-generation",
-      "url": "https://huggingface.co/RecursiveSI/flint"
-    },
-    {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 3499,
+      "likes": 3536,
       "downloads": 116770,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
+      "id": "RecursiveSI/flint",
+      "likes": 1152,
+      "downloads": 14047,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/RecursiveSI/flint"
+    },
+    {
       "id": "Nanbeige/Nanbeige4.3-33B",
-      "likes": 707,
+      "likes": 719,
       "downloads": 7412,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
     },
     {
       "id": "XHToken/Spark-X2.6-4B",
-      "likes": 841,
+      "likes": 851,
       "downloads": 8222,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
     },
     {
-      "id": "black-forest-labs/flux-3-image-klein-comfy",
-      "likes": 1931,
-      "downloads": 798943,
-      "pipeline_tag": "image-to-image",
-      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy"
+      "id": "MiniMaxAI/MiniMax-M3.1-Flash",
+      "likes": 450,
+      "downloads": 13247,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash"
     }
   ]
 }

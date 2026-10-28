@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-28)
 
-Generated at: `2026-10-28 16:59:41 UTC`
+Generated at: `2026-10-28 22:57:27 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-28 16:59:41 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `RecursiveSI/flint` | `text-generation` | 1141 | 14047 | [Link](https://huggingface.co/RecursiveSI/flint) |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 3499 | 116770 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `Nanbeige/Nanbeige4.3-33B` | `text-generation` | 707 | 7412 | [Link](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) |
-| `XHToken/Spark-X2.6-4B` | `text-generation` | 841 | 8222 | [Link](https://huggingface.co/XHToken/Spark-X2.6-4B) |
-| `black-forest-labs/flux-3-image-klein-comfy` | `image-to-image` | 1931 | 798943 | [Link](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 3536 | 116770 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `RecursiveSI/flint` | `text-generation` | 1152 | 14047 | [Link](https://huggingface.co/RecursiveSI/flint) |
+| `Nanbeige/Nanbeige4.3-33B` | `text-generation` | 719 | 7412 | [Link](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) |
+| `XHToken/Spark-X2.6-4B` | `text-generation` | 851 | 8222 | [Link](https://huggingface.co/XHToken/Spark-X2.6-4B) |
+| `MiniMaxAI/MiniMax-M3.1-Flash` | `image-text-to-text` | 450 | 13247 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash) |
