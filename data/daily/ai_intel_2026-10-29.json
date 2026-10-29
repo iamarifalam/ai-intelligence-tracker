@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T09:26:07.382237+00:00",
+  "generated_at": "2026-10-29T17:18:54.467129+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,36 +63,36 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 3665,
-      "downloads": 116770,
+      "likes": 3722,
+      "downloads": 131062,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "Nanbeige/Nanbeige4.3-33B",
-      "likes": 746,
-      "downloads": 7412,
+      "likes": 759,
+      "downloads": 9655,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
     },
     {
       "id": "RecursiveSI/flint",
-      "likes": 1217,
-      "downloads": 14047,
+      "likes": 1232,
+      "downloads": 16598,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/RecursiveSI/flint"
     },
     {
       "id": "XHToken/Spark-X2.6-4B",
-      "likes": 882,
-      "downloads": 8222,
+      "likes": 896,
+      "downloads": 10163,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/XHToken/Spark-X2.6-4B"
     },
     {
       "id": "tencent/Hy-SimulMT-30B-A3B-FP8",
-      "likes": 448,
-      "downloads": 165,
+      "likes": 457,
+      "downloads": 396,
       "pipeline_tag": "translation",
       "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8"
     }
