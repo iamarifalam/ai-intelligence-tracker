@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T09:39:32.933649+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Elucidating the Design Space of LM Data Attribution",
+      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To dia...",
+      "published": "2026-10-29T17:59:53Z",
+      "url": "http://arxiv.org/abs/2610.40655v1",
+      "authors": [
+        "Steven Yu",
+        "Sheng-Yu Wang",
+        "Kimia Hamidieh"
+      ]
+    },
+    {
+      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data w...",
+      "published": "2026-10-29T17:59:49Z",
+      "url": "http://arxiv.org/abs/2610.40654v1",
+      "authors": [
+        "Moshe Shenfeld",
+        "Eliad Tsfadia",
+        "Katrina Ligett"
+      ]
+    },
+    {
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanatio...",
+      "published": "2026-10-29T17:59:29Z",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "authors": [
+        "Nicolas Dufour",
+        "Elouan Gard\u00e8s",
+        "Amil Dravid"
+      ]
+    },
+    {
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency struct...",
+      "published": "2026-10-29T17:59:21Z",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "authors": [
+        "Jiongfan Yang",
+        "Weichen Fan",
+        "Haiwen Diao"
+      ]
+    },
+    {
+      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the em...",
+      "published": "2026-10-29T17:59:01Z",
+      "url": "http://arxiv.org/abs/2610.40644v1",
+      "authors": [
+        "Aron Brenner",
+        "Saurabh Amin"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 3915,
+      "downloads": 131062,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "Nanbeige/Nanbeige4.3-33B",
+      "likes": 784,
+      "downloads": 9655,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+    },
+    {
+      "id": "LiquidAI/LFM3-1.7B",
+      "likes": 509,
+      "downloads": 15885,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+    },
+    {
+      "id": "RecursiveSI/flint",
+      "likes": 1249,
+      "downloads": 16598,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/RecursiveSI/flint"
+    },
+    {
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "likes": 488,
+      "downloads": 1578937,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+    }
+  ]
+}
