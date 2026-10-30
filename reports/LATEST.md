@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-10-30)
 
-Generated at: `2026-10-30 09:39:33 UTC`
+Generated at: `2026-10-30 16:56:38 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-10-30 09:39:33 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 3915 | 131062 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `Nanbeige/Nanbeige4.3-33B` | `text-generation` | 784 | 9655 | [Link](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) |
-| `LiquidAI/LFM3-1.7B` | `text-generation` | 509 | 15885 | [Link](https://huggingface.co/LiquidAI/LFM3-1.7B) |
-| `RecursiveSI/flint` | `text-generation` | 1249 | 16598 | [Link](https://huggingface.co/RecursiveSI/flint) |
-| `ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF` | `text-generation` | 488 | 1578937 | [Link](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 3970 | 145869 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `Nanbeige/Nanbeige4.3-33B` | `text-generation` | 792 | 12178 | [Link](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) |
+| `LiquidAI/LFM3-1.7B` | `text-generation` | 536 | 23694 | [Link](https://huggingface.co/LiquidAI/LFM3-1.7B) |
+| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 471 | 15980 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
+| `ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF` | `text-generation` | 498 | 1747945 | [Link](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF) |

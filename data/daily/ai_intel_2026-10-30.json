@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T09:39:32.933649+00:00",
+  "generated_at": "2026-10-30T16:56:38.194042+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -62,36 +62,36 @@
   "models": [
     {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 3915,
-      "downloads": 131062,
+      "likes": 3970,
+      "downloads": 145869,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "Nanbeige/Nanbeige4.3-33B",
-      "likes": 784,
-      "downloads": 9655,
+      "likes": 792,
+      "downloads": 12178,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
     },
     {
       "id": "LiquidAI/LFM3-1.7B",
-      "likes": 509,
-      "downloads": 15885,
+      "likes": 536,
+      "downloads": 23694,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
     },
     {
-      "id": "RecursiveSI/flint",
-      "likes": 1249,
-      "downloads": 16598,
-      "pipeline_tag": "text-generation",
-      "url": "https://huggingface.co/RecursiveSI/flint"
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "likes": 471,
+      "downloads": 15980,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "likes": 488,
-      "downloads": 1578937,
+      "likes": 498,
+      "downloads": 1747945,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
     }
