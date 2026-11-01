@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-11-01T10:07:40.112810+00:00",
+  "generated_at": "2026-11-01T17:00:01.642460+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,36 +61,36 @@
   ],
   "models": [
     {
-      "id": "Nanbeige/Nanbeige4.3-33B",
-      "likes": 942,
-      "downloads": 15795,
-      "pipeline_tag": "text-generation",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
-    },
-    {
       "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 4150,
+      "likes": 4197,
       "downloads": 170353,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
     },
     {
       "id": "LiquidAI/LFM3-1.7B",
-      "likes": 647,
+      "likes": 669,
       "downloads": 37568,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
     },
     {
+      "id": "Nanbeige/Nanbeige4.3-33B",
+      "likes": 962,
+      "downloads": 15795,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+    },
+    {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-      "likes": 561,
+      "likes": 578,
       "downloads": 29364,
       "pipeline_tag": "automatic-speech-recognition",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
     },
     {
       "id": "mistralai/Mistral-Large-4-1T-A52B",
-      "likes": 1414,
+      "likes": 1428,
       "downloads": 4576,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
