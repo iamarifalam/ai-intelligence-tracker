@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-11-01)
+# Daily Research Summary (2026-11-02)
 
-Generated at: `2026-11-01 22:35:54 UTC`
+Generated at: `2026-11-02 10:36:21 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)
-- Authors: Steven Yu, Sheng-Yu Wang, Kimia Hamidieh
-- Published: `2026-10-29T17:59:53Z`
-- Summary: Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To dia...
+### 1. [Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)
+- Authors: Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee
+- Published: `2026-10-30T17:59:43Z`
+- Summary: Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs oft...
 
-### 2. [Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)
-- Authors: Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett
-- Published: `2026-10-29T17:59:49Z`
-- Summary: An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data w...
+### 2. [Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1)
+- Authors: Bobo Li, Jiajia Song, Hao Fei
+- Published: `2026-10-30T17:59:38Z`
+- Summary: Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectiv...
 
-### 3. [Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)
-- Authors: Nicolas Dufour, Elouan Gardès, Amil Dravid
-- Published: `2026-10-29T17:59:29Z`
-- Summary: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanatio...
+### 3. [Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)
+- Authors: Ales Kubicek, Andrea Caciolai, Liangzu Peng
+- Published: `2026-10-30T17:59:34Z`
+- Summary: Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse ...
 
-### 4. [Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)
-- Authors: Jiongfan Yang, Weichen Fan, Haiwen Diao
-- Published: `2026-10-29T17:59:21Z`
-- Summary: Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency struct...
+### 4. [Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)
+- Authors: Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui
+- Published: `2026-10-30T17:59:25Z`
+- Summary: Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-a...
 
-### 5. [Adaptive Scenario Generation for KL-DRO Around a Learned Density Model](http://arxiv.org/abs/2610.40644v1)
-- Authors: Aron Brenner, Saurabh Amin
-- Published: `2026-10-29T17:59:01Z`
-- Summary: Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the em...
+### 5. [RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](http://arxiv.org/abs/2610.42141v1)
+- Authors: Shengguang Wu, Suning Huang, Cherie Ho
+- Published: `2026-10-30T17:58:48Z`
+- Summary: Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or bench...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 4283 | 170353 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `LiquidAI/LFM3-1.7B` | `text-generation` | 691 | 37568 | [Link](https://huggingface.co/LiquidAI/LFM3-1.7B) |
-| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 595 | 29364 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
-| `Nanbeige/Nanbeige4.3-33B` | `text-generation` | 968 | 15795 | [Link](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) |
-| `mistralai/Mistral-Large-4-1T-A52B` | `image-text-to-text` | 1448 | 4576 | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 4466 | 177009 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `LiquidAI/LFM3-1.7B` | `text-generation` | 762 | 42384 | [Link](https://huggingface.co/LiquidAI/LFM3-1.7B) |
+| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 633 | 32439 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
+| `mistralai/Mistral-Large-4-1T-A52B` | `image-text-to-text` | 1470 | 5500 | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
+| `baidu/Unlimited-OCR-2` | `image-text-to-text` | 541 | 147588 | [Link](https://huggingface.co/baidu/Unlimited-OCR-2) |

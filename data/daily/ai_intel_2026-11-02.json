@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T10:36:21.331288+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs oft...",
+      "published": "2026-10-30T17:59:43Z",
+      "url": "http://arxiv.org/abs/2610.42149v1",
+      "authors": [
+        "Byungwoo Jeon",
+        "Yoonwoo Jeong",
+        "Hyunseok Lee"
+      ]
+    },
+    {
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectiv...",
+      "published": "2026-10-30T17:59:38Z",
+      "url": "http://arxiv.org/abs/2610.42148v1",
+      "authors": [
+        "Bobo Li",
+        "Jiajia Song",
+        "Hao Fei"
+      ]
+    },
+    {
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse ...",
+      "published": "2026-10-30T17:59:34Z",
+      "url": "http://arxiv.org/abs/2610.42147v1",
+      "authors": [
+        "Ales Kubicek",
+        "Andrea Caciolai",
+        "Liangzu Peng"
+      ]
+    },
+    {
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-a...",
+      "published": "2026-10-30T17:59:25Z",
+      "url": "http://arxiv.org/abs/2610.42146v1",
+      "authors": [
+        "Gaoyue Zhou",
+        "Yvonne Wu",
+        "Zichen Jeff Cui"
+      ]
+    },
+    {
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or bench...",
+      "published": "2026-10-30T17:58:48Z",
+      "url": "http://arxiv.org/abs/2610.42141v1",
+      "authors": [
+        "Shengguang Wu",
+        "Suning Huang",
+        "Cherie Ho"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 4466,
+      "downloads": 177009,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "LiquidAI/LFM3-1.7B",
+      "likes": 762,
+      "downloads": 42384,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "likes": 633,
+      "downloads": 32439,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+    },
+    {
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "likes": 1470,
+      "downloads": 5500,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    },
+    {
+      "id": "baidu/Unlimited-OCR-2",
+      "likes": 541,
+      "downloads": 147588,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR-2"
+    }
+  ]
+}
