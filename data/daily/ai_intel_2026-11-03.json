@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T10:29:13.481540+00:00",
+  "generated_at": "2026-11-03T18:14:47.117842+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "LiquidAI/LFM3-1.7B",
-      "likes": 1279,
+      "likes": 1379,
       "downloads": 47817,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
     },
     {
-      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "likes": 4771,
-      "downloads": 187260,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-    },
-    {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-      "likes": 705,
+      "likes": 720,
       "downloads": 38942,
       "pipeline_tag": "automatic-speech-recognition",
       "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
     },
     {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 4829,
+      "downloads": 187260,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
       "id": "mistralai/Mistral-Large-4-1T-A52B",
-      "likes": 1517,
+      "likes": 1532,
       "downloads": 6556,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
     },
     {
       "id": "speridlabs/idol",
-      "likes": 456,
+      "likes": 490,
       "downloads": 10742,
       "pipeline_tag": "image-to-3d",
       "url": "https://huggingface.co/speridlabs/idol"
