@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T10:29:13.481540+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+      "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargetin...",
+      "published": "2026-11-02T18:59:32Z",
+      "url": "http://arxiv.org/abs/2611.03647v1",
+      "authors": [
+        "Jason Jingzhou Liu",
+        "Tony Tao",
+        "Deepak Pathak"
+      ]
+    },
+    {
+      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+      "summary": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these components are often developed independently, creating mismatches that limit the capabi...",
+      "published": "2026-11-02T18:59:32Z",
+      "url": "http://arxiv.org/abs/2611.03648v1",
+      "authors": [
+        "Tony Tao",
+        "Jason Jingzhou Liu",
+        "Ruslan Salakhutdinov"
+      ]
+    },
+    {
+      "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+      "summary": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style question answering. Despite these advances, purely neural LLMs continue to struggle wi...",
+      "published": "2026-11-02T18:58:21Z",
+      "url": "http://arxiv.org/abs/2611.03641v1",
+      "authors": [
+        "Paulius Skaisgiris",
+        "Thomas Pammer",
+        "Veronika Semmelrock"
+      ]
+    },
+    {
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments...",
+      "published": "2026-11-02T18:57:36Z",
+      "url": "http://arxiv.org/abs/2611.03634v1",
+      "authors": [
+        "Zhaoyang Wang",
+        "Qianhui Wu",
+        "Boyu Gou"
+      ]
+    },
+    {
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+      "summary": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advantage persists after fine-tuning. In this paper, we study the downstream behavior...",
+      "published": "2026-11-02T18:56:43Z",
+      "url": "http://arxiv.org/abs/2611.03633v1",
+      "authors": [
+        "Catherine Li",
+        "Jingchu Gai",
+        "Andrej Risteski"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "LiquidAI/LFM3-1.7B",
+      "likes": 1279,
+      "downloads": 47817,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 4771,
+      "downloads": 187260,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "likes": 705,
+      "downloads": 38942,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+    },
+    {
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "likes": 1517,
+      "downloads": 6556,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    },
+    {
+      "id": "speridlabs/idol",
+      "likes": 456,
+      "downloads": 10742,
+      "pipeline_tag": "image-to-3d",
+      "url": "https://huggingface.co/speridlabs/idol"
+    }
+  ]
+}
