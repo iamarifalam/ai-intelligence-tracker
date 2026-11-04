@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T18:28:24.682332+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but thei...",
+      "published": "2026-11-03T18:59:56Z",
+      "url": "http://arxiv.org/abs/2611.05377v1",
+      "authors": [
+        "Jisoo Kim",
+        "Chaehyun Kim",
+        "Junsu Kim"
+      ]
+    },
+    {
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they a...",
+      "published": "2026-11-03T18:59:52Z",
+      "url": "http://arxiv.org/abs/2611.05376v1",
+      "authors": [
+        "Hao Fei"
+      ]
+    },
+    {
+      "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates on-policy sampling, LLM-based rating of the samples together with a teacher's g...",
+      "published": "2026-11-03T18:59:15Z",
+      "url": "http://arxiv.org/abs/2611.05373v1",
+      "authors": [
+        "Austin Tsai",
+        "Saurav Nanda",
+        "Ganapathy Parthasarathy"
+      ]
+    },
+    {
+      "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+      "summary": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Precise IK remains laborious: redundancy and singularities complicate the inverse map...",
+      "published": "2026-11-03T18:59:14Z",
+      "url": "http://arxiv.org/abs/2611.05372v1",
+      "authors": [
+        "Yuhan Liu",
+        "Xinqi Liu",
+        "Zixuan Dong"
+      ]
+    },
+    {
+      "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+      "summary": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuition, resulting in data that contributes little to overall policy performance. Rec...",
+      "published": "2026-11-03T18:57:35Z",
+      "url": "http://arxiv.org/abs/2611.05368v1",
+      "authors": [
+        "Shivin Dass",
+        "Kevin Nguyen",
+        "Rohan Yelandur"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "likes": 1458,
+      "downloads": 44939,
+      "pipeline_tag": "automatic-speech-recognition",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+    },
+    {
+      "id": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "likes": 5250,
+      "downloads": 221621,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+    },
+    {
+      "id": "LiquidAI/LFM3-1.7B",
+      "likes": 1470,
+      "downloads": 54959,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+    },
+    {
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "likes": 1583,
+      "downloads": 8200,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    },
+    {
+      "id": "speridlabs/idol",
+      "likes": 587,
+      "downloads": 14613,
+      "pipeline_tag": "image-to-3d",
+      "url": "https://huggingface.co/speridlabs/idol"
+    }
+  ]
+}
