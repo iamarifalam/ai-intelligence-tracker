@@ -1,6 +1,6 @@
-# Daily Research Summary (2026-11-04)
+# Daily Research Summary (2026-11-05)
 
-Generated at: `2026-11-04 18:28:24 UTC`
+Generated at: `2026-11-05 00:10:55 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-04 18:28:24 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 1458 | 44939 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
-| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 5250 | 221621 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
-| `LiquidAI/LFM3-1.7B` | `text-generation` | 1470 | 54959 | [Link](https://huggingface.co/LiquidAI/LFM3-1.7B) |
-| `mistralai/Mistral-Large-4-1T-A52B` | `image-text-to-text` | 1583 | 8200 | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
-| `speridlabs/idol` | `image-to-3d` | 587 | 14613 | [Link](https://huggingface.co/speridlabs/idol) |
+| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 1485 | 44939 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
+| `deepseek-ai/DeepSeek-V4.1-Flash-1017` | `image-text-to-text` | 5266 | 221621 | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) |
+| `speridlabs/idol` | `image-to-3d` | 617 | 14613 | [Link](https://huggingface.co/speridlabs/idol) |
+| `LiquidAI/LFM3-1.7B` | `text-generation` | 1485 | 54959 | [Link](https://huggingface.co/LiquidAI/LFM3-1.7B) |
+| `mistralai/Mistral-Large-4-1T-A52B` | `image-text-to-text` | 1589 | 8200 | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
