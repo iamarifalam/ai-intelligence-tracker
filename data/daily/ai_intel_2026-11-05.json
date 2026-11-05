@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T10:24:03.090519+00:00",
+  "generated_at": "2026-11-05T18:31:33.283528+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,38 +63,38 @@
   "models": [
     {
       "id": "moonshotai/Kimi-K3.1-Pro",
-      "likes": 689,
+      "likes": 851,
       "downloads": 11658,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
     },
     {
       "id": "speridlabs/idol",
-      "likes": 661,
+      "likes": 722,
       "downloads": 17180,
       "pipeline_tag": "image-to-3d",
       "url": "https://huggingface.co/speridlabs/idol"
     },
     {
-      "id": "mistralai/Mistral-Large-4-1T-A52B",
-      "likes": 1597,
-      "downloads": 9592,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
-    },
-    {
       "id": "Pika-Labs/Pika-H3-Flex",
-      "likes": 439,
+      "likes": 459,
       "downloads": 863,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex"
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-      "likes": 3035,
-      "downloads": 57297,
-      "pipeline_tag": "automatic-speech-recognition",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+      "id": "mistralai/Mistral-Large-4-1T-A52B",
+      "likes": 1607,
+      "downloads": 9592,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 10697,
+      "downloads": 2561845,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
     }
   ]
 }

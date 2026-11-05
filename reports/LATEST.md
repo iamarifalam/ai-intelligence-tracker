@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-11-05)
 
-Generated at: `2026-11-05 10:24:03 UTC`
+Generated at: `2026-11-05 18:31:33 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-05 10:24:03 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 689 | 11658 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `speridlabs/idol` | `image-to-3d` | 661 | 17180 | [Link](https://huggingface.co/speridlabs/idol) |
-| `mistralai/Mistral-Large-4-1T-A52B` | `image-text-to-text` | 1597 | 9592 | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
-| `Pika-Labs/Pika-H3-Flex` | `image-to-video` | 439 | 863 | [Link](https://huggingface.co/Pika-Labs/Pika-H3-Flex) |
-| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 3035 | 57297 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 851 | 11658 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `speridlabs/idol` | `image-to-3d` | 722 | 17180 | [Link](https://huggingface.co/speridlabs/idol) |
+| `Pika-Labs/Pika-H3-Flex` | `image-to-video` | 459 | 863 | [Link](https://huggingface.co/Pika-Labs/Pika-H3-Flex) |
+| `mistralai/Mistral-Large-4-1T-A52B` | `image-text-to-text` | 1607 | 9592 | [Link](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 10697 | 2561845 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
