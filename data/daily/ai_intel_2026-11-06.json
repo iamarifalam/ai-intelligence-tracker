@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T17:48:40.300924+00:00",
+  "generated_at": "2026-11-06T23:39:27.873928+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,35 +61,35 @@
   "models": [
     {
       "id": "moonshotai/Kimi-K3.1-Pro",
-      "likes": 1421,
+      "likes": 1485,
       "downloads": 18432,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
     },
     {
       "id": "speridlabs/idol",
-      "likes": 899,
+      "likes": 933,
       "downloads": 19139,
       "pipeline_tag": "image-to-3d",
       "url": "https://huggingface.co/speridlabs/idol"
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
-      "likes": 767,
+      "likes": 787,
       "downloads": 190243,
       "pipeline_tag": "N/A",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 10826,
+      "likes": 10858,
       "downloads": 2607491,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
     },
     {
       "id": "burner22/numbat",
-      "likes": 366,
+      "likes": 371,
       "downloads": 9066,
       "pipeline_tag": "N/A",
       "url": "https://huggingface.co/burner22/numbat"
