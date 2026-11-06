@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-11-05)
+# Daily Research Summary (2026-11-06)
 
-Generated at: `2026-11-05 23:56:36 UTC`
+Generated at: `2026-11-06 10:26:02 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)
-- Authors: Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel
-- Published: `2026-11-04T18:58:23Z`
-- Summary: Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt var...
+### 1. [User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)
+- Authors: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen
+- Published: `2026-11-05T18:59:42Z`
+- Summary: User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we ar...
 
-### 2. [FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)
-- Authors: Nicolas Tricard, Linzheng Wang, Jason Chen
-- Published: `2026-11-04T18:57:47Z`
-- Summary: Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimators and which aspects of their predictions can be trusted. FlowReconBench evaluat...
+### 2. [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)
+- Authors: Qile Jiang, George Em Karniadakis
+- Published: `2026-11-05T18:59:29Z`
+- Summary: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for eac...
 
-### 3. [BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)
-- Authors: Fei Lin, Tengchao Zhang, Ziyang Gong
-- Published: `2026-11-04T18:57:17Z`
-- Summary: Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Langu...
+### 3. [Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)
+- Authors: Taiming Lu, Sachin Konan, Zhuang Liu
+- Published: `2026-11-05T18:58:17Z`
+- Summary: AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World f...
 
-### 4. [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1)
-- Authors: Bingran You, Wenjun Ke, Ria Rosenauer
-- Published: `2026-11-04T18:56:22Z`
-- Summary: AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce Fron...
+### 4. [XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)
+- Authors: Linrong Cai, Taiming Lu, Haozhe Chen
+- Published: `2026-11-05T18:55:54Z`
+- Summary: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. ...
 
-### 5. [Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1)
-- Authors: Siyuan Hu, Abulikemu Abuduweili, Yue Meng
-- Published: `2026-11-04T18:55:33Z`
-- Summary: Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no co...
+### 5. [Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)
+- Authors: Linqian Wu, Diaoxuan He
+- Published: `2026-11-05T18:55:31Z`
+- Summary: Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and no...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 916 | 11658 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `speridlabs/idol` | `image-to-3d` | 769 | 17180 | [Link](https://huggingface.co/speridlabs/idol) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 10725 | 2561845 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
-| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 700 | 157157 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
-| `Pika-Labs/Pika-H3-Flex` | `image-to-video` | 473 | 863 | [Link](https://huggingface.co/Pika-Labs/Pika-H3-Flex) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1317 | 18432 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `speridlabs/idol` | `image-to-3d` | 844 | 19139 | [Link](https://huggingface.co/speridlabs/idol) |
+| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 735 | 190243 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 10779 | 2607491 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 3065 | 61049 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
