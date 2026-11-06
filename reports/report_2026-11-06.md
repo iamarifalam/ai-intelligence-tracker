@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-11-06)
 
-Generated at: `2026-11-06 10:26:02 UTC`
+Generated at: `2026-11-06 17:48:40 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-06 10:26:02 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1317 | 18432 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `speridlabs/idol` | `image-to-3d` | 844 | 19139 | [Link](https://huggingface.co/speridlabs/idol) |
-| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 735 | 190243 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 10779 | 2607491 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
-| `nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B` | `automatic-speech-recognition` | 3065 | 61049 | [Link](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1421 | 18432 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `speridlabs/idol` | `image-to-3d` | 899 | 19139 | [Link](https://huggingface.co/speridlabs/idol) |
+| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 767 | 190243 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 10826 | 2607491 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `burner22/numbat` | `N/A` | 366 | 9066 | [Link](https://huggingface.co/burner22/numbat) |

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T10:26:02.142299+00:00",
+  "generated_at": "2026-11-06T17:48:40.300924+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,38 +61,38 @@
   "models": [
     {
       "id": "moonshotai/Kimi-K3.1-Pro",
-      "likes": 1317,
+      "likes": 1421,
       "downloads": 18432,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
     },
     {
       "id": "speridlabs/idol",
-      "likes": 844,
+      "likes": 899,
       "downloads": 19139,
       "pipeline_tag": "image-to-3d",
       "url": "https://huggingface.co/speridlabs/idol"
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
-      "likes": 735,
+      "likes": 767,
       "downloads": 190243,
       "pipeline_tag": "N/A",
       "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 10779,
+      "likes": 10826,
       "downloads": 2607491,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-      "likes": 3065,
-      "downloads": 61049,
-      "pipeline_tag": "automatic-speech-recognition",
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
+      "id": "burner22/numbat",
+      "likes": 366,
+      "downloads": 9066,
+      "pipeline_tag": "N/A",
+      "url": "https://huggingface.co/burner22/numbat"
     }
   ]
 }
