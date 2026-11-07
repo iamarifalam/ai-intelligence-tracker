@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-11-07)
 
-Generated at: `2026-11-07 09:39:23 UTC`
+Generated at: `2026-11-07 16:44:58 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-07 09:39:23 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1576 | 18432 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `speridlabs/idol` | `image-to-3d` | 990 | 19139 | [Link](https://huggingface.co/speridlabs/idol) |
-| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 812 | 190243 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 10902 | 2643778 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
-| `ricursiveAI/Ripple-65B-Preview` | `N/A` | 347 | 2013 | [Link](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) |
+| `speridlabs/idol` | `image-to-3d` | 1053 | 20689 | [Link](https://huggingface.co/speridlabs/idol) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1605 | 22571 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 850 | 221506 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 10937 | 2643778 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `ricursiveAI/Ripple-65B-Preview` | `N/A` | 361 | 3803 | [Link](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) |
