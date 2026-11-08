@@ -1,6 +1,6 @@
-# Daily Research Summary (2026-11-07)
+# Daily Research Summary (2026-11-08)
 
-Generated at: `2026-11-07 22:29:46 UTC`
+Generated at: `2026-11-08 09:53:36 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-07 22:29:46 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `speridlabs/idol` | `image-to-3d` | 1103 | 20689 | [Link](https://huggingface.co/speridlabs/idol) |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1627 | 22571 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 870 | 221506 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
-| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 454 | 1369 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 10980 | 2643778 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `speridlabs/idol` | `image-to-3d` | 1235 | 22854 | [Link](https://huggingface.co/speridlabs/idol) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1677 | 25569 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 635 | 7088 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 889 | 254053 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 11045 | 2661026 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
