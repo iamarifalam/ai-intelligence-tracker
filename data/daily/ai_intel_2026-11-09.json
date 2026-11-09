@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T10:56:46.389783+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "On Agentic Manipulation Policies",
+      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We system...",
+      "published": "2026-11-06T18:59:34Z",
+      "url": "http://arxiv.org/abs/2611.09892v1",
+      "authors": [
+        "Chen Chen",
+        "Omid Bagherieh",
+        "Naveen Nikamanth Appiah Balaji"
+      ]
+    },
+    {
+      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem insta...",
+      "published": "2026-11-06T18:58:50Z",
+      "url": "http://arxiv.org/abs/2611.09891v1",
+      "authors": [
+        "Peter Belcak",
+        "Greg Heinrich",
+        "Saurav Muralidharan"
+      ]
+    },
+    {
+      "title": "On the (non-)closedness of the set of ReLU networks",
+      "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(\u03a9)$, for a bounded connected open set $\u03a9\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this spac...",
+      "published": "2026-11-06T18:58:06Z",
+      "url": "http://arxiv.org/abs/2611.09887v1",
+      "authors": [
+        "Eloi Martinet",
+        "Leon Bungert"
+      ]
+    },
+    {
+      "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+      "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, wit...",
+      "published": "2026-11-06T18:56:41Z",
+      "url": "http://arxiv.org/abs/2611.09882v1",
+      "authors": [
+        "Aadya Agrawal",
+        "Ho Kei Cheng",
+        "Alexander Schwing"
+      ]
+    },
+    {
+      "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+      "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $\u03bb$ multiplies derivatives of order $k$ by $\u03bb^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is dilation-invariant if and only if it factors through the scal...",
+      "published": "2026-11-06T18:54:03Z",
+      "url": "http://arxiv.org/abs/2611.09878v1",
+      "authors": [
+        "Tanush Shaska"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "speridlabs/idol",
+      "likes": 1476,
+      "downloads": 24747,
+      "pipeline_tag": "image-to-3d",
+      "url": "https://huggingface.co/speridlabs/idol"
+    },
+    {
+      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "likes": 957,
+      "downloads": 11755,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    },
+    {
+      "id": "moonshotai/Kimi-K3.1-Pro",
+      "likes": 1760,
+      "downloads": 27926,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+    },
+    {
+      "id": "ricursiveAI/Ripple-65B-Preview",
+      "likes": 423,
+      "downloads": 5835,
+      "pipeline_tag": "N/A",
+      "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 11169,
+      "downloads": 2720096,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+  ]
+}

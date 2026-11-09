@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-11-08)
+# Daily Research Summary (2026-11-09)
 
-Generated at: `2026-11-08 22:40:08 UTC`
+Generated at: `2026-11-09 10:56:46 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)
-- Authors: Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen
-- Published: `2026-11-05T18:59:42Z`
-- Summary: User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we ar...
+### 1. [On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)
+- Authors: Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji
+- Published: `2026-11-06T18:59:34Z`
+- Summary: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We system...
 
-### 2. [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)
-- Authors: Qile Jiang, George Em Karniadakis
-- Published: `2026-11-05T18:59:29Z`
-- Summary: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for eac...
+### 2. [CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](http://arxiv.org/abs/2611.09891v1)
+- Authors: Peter Belcak, Greg Heinrich, Saurav Muralidharan
+- Published: `2026-11-06T18:58:50Z`
+- Summary: Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned through, the application of its solution to a new problem insta...
 
-### 3. [Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)
-- Authors: Taiming Lu, Sachin Konan, Zhuang Liu
-- Published: `2026-11-05T18:58:17Z`
-- Summary: AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World f...
+### 3. [On the (non-)closedness of the set of ReLU networks](http://arxiv.org/abs/2611.09887v1)
+- Authors: Eloi Martinet, Leon Bungert
+- Published: `2026-11-06T18:58:06Z`
+- Summary: We prove that the set $\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\in\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\subset\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this spac...
 
-### 4. [XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)
-- Authors: Linrong Cai, Taiming Lu, Haozhe Chen
-- Published: `2026-11-05T18:55:54Z`
-- Summary: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. ...
+### 4. [FlowMoP: Stochastic Multi-Person Motion Prediction](http://arxiv.org/abs/2611.09882v1)
+- Authors: Aadya Agrawal, Ho Kei Cheng, Alexander Schwing
+- Published: `2026-11-06T18:56:41Z`
+- Summary: Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, wit...
 
-### 5. [Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)
-- Authors: Linqian Wu, Diaoxuan He
-- Published: `2026-11-05T18:55:31Z`
-- Summary: Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and no...
+### 5. [Graded convolutional networks: scale invariance without the scale and robustness to unknown blur](http://arxiv.org/abs/2611.09878v1)
+- Authors: Tanush Shaska
+- Published: `2026-11-06T18:54:03Z`
+- Summary: The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is dilation-invariant if and only if it factors through the scal...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `speridlabs/idol` | `image-to-3d` | 1363 | 22854 | [Link](https://huggingface.co/speridlabs/idol) |
-| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 825 | 7088 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1725 | 25569 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 11122 | 2661026 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
-| `ccore/Qwen3.5-4B-3D-Coder` | `N/A` | 916 | 254053 | [Link](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder) |
+| `speridlabs/idol` | `image-to-3d` | 1476 | 24747 | [Link](https://huggingface.co/speridlabs/idol) |
+| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 957 | 11755 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1760 | 27926 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `ricursiveAI/Ripple-65B-Preview` | `N/A` | 423 | 5835 | [Link](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 11169 | 2720096 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
