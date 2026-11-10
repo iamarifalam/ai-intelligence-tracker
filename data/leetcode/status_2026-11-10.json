@@ -1,0 +1,8 @@
+{
+  "verified_at": "2026-11-10T10:48:45.646194+00:00",
+  "status": "all_passed",
+  "suites": [
+    "kadane",
+    "min_heap_k_way_merge"
+  ]
+}
