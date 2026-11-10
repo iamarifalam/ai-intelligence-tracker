@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-10T10:48:45.363842+00:00",
+  "generated_at": "2026-11-10T18:28:40.948377+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,35 +61,35 @@
   "models": [
     {
       "id": "speridlabs/idol",
-      "likes": 1727,
-      "downloads": 24747,
+      "likes": 1806,
+      "downloads": 26470,
       "pipeline_tag": "image-to-3d",
       "url": "https://huggingface.co/speridlabs/idol"
     },
     {
       "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "likes": 1107,
-      "downloads": 11755,
+      "likes": 1154,
+      "downloads": 14378,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
     },
     {
       "id": "moonshotai/Kimi-K3.1-Pro",
-      "likes": 1823,
-      "downloads": 27926,
+      "likes": 1848,
+      "downloads": 30721,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
     },
     {
       "id": "ricursiveAI/Ripple-65B-Preview",
-      "likes": 467,
-      "downloads": 5835,
+      "likes": 472,
+      "downloads": 6480,
       "pipeline_tag": "N/A",
       "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 11304,
+      "likes": 11348,
       "downloads": 2791606,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
