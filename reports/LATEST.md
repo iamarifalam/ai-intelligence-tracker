@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-11-10)
+# Daily Research Summary (2026-11-11)
 
-Generated at: `2026-11-10 23:54:39 UTC`
+Generated at: `2026-11-11 10:24:06 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)
-- Authors: Zhaoying Pan, Yipei Wang, Shenyu Lu
-- Published: `2026-11-09T18:59:40Z`
-- Summary: Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always...
+### 1. [Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)
+- Authors: Emre Kutlusan, Yongmin Li
+- Published: `2026-11-10T18:59:54Z`
+- Summary: Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-sp...
 
-### 2. [Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)
-- Authors: Majdi Hassan, Marta Skreta, Dominique Beaini
-- Published: `2026-11-09T18:59:13Z`
-- Summary: Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration steps are inexpensive, observing meaningful events or transitions can require milli...
+### 2. [Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)
+- Authors: Sheethal Bhat, Bogdan Georgescu, Awais Mansoor
+- Published: `2026-11-10T18:59:17Z`
+- Summary: DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardize...
 
-### 3. [Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)
-- Authors: Sreejeet Maity, Aritra Mitra
-- Published: `2026-11-09T18:58:41Z`
-- Summary: Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent interacting with an unknown environment (modeled as a Markov Decision Process) tra...
+### 3. [TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)
+- Authors: Alex Shtoff
+- Published: `2026-11-10T18:58:52Z`
+- Summary: We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs an...
 
-### 4. [HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](http://arxiv.org/abs/2611.12872v1)
-- Authors: Haozhen Zhang, Bohan Liu, Jianzhu Bao
-- Published: `2026-11-09T18:57:00Z`
-- Summary: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined r...
+### 4. [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)
+- Authors: Zijian Zhang, Rizhen Hu, Jiangweizhi Peng
+- Published: `2026-11-10T18:58:46Z`
+- Summary: Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training,...
 
-### 5. [Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection](http://arxiv.org/abs/2611.12871v1)
-- Authors: Amey Pasarkar, Adji Bousso Dieng
-- Published: `2026-11-09T18:56:15Z`
-- Summary: Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance from a fitted distribution, making them sensitive to neighborhood scale, partitioni...
+### 5. [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)
+- Authors: Ziang Liu, James J. Kim, Yijia Dai
+- Published: `2026-11-10T18:58:43Z`
+- Summary: LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 1191 | 14378 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| `speridlabs/idol` | `image-to-3d` | 1868 | 26470 | [Link](https://huggingface.co/speridlabs/idol) |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1867 | 30721 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
-| `ricursiveAI/Ripple-65B-Preview` | `N/A` | 486 | 6480 | [Link](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 11376 | 2791606 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 1297 | 14378 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| `speridlabs/idol` | `image-to-3d` | 1915 | 26470 | [Link](https://huggingface.co/speridlabs/idol) |
+| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1894 | 30721 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 563 | 667 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
+| `ricursiveAI/Ripple-65B-Preview` | `N/A` | 492 | 6480 | [Link](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) |
