@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-12T18:42:40.361594+00:00",
+  "generated_at": "2026-11-12T23:58:12.827197+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -60,35 +60,35 @@
   "models": [
     {
       "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "likes": 4665,
+      "likes": 4719,
       "downloads": 18933,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Image",
-      "likes": 840,
+      "likes": 866,
       "downloads": 306718,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
     },
     {
       "id": "NousResearch/Arete-27B",
-      "likes": 471,
+      "likes": 484,
       "downloads": 4669,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/NousResearch/Arete-27B"
     },
     {
       "id": "speridlabs/idol",
-      "likes": 2216,
+      "likes": 2230,
       "downloads": 29904,
       "pipeline_tag": "image-to-3d",
       "url": "https://huggingface.co/speridlabs/idol"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 11598,
+      "likes": 11628,
       "downloads": 2782513,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
