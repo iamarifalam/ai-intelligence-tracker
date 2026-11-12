@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T01:19:15.007690+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-sp...",
+      "published": "2026-11-10T18:59:54Z",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "authors": [
+        "Emre Kutlusan",
+        "Yongmin Li"
+      ]
+    },
+    {
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardize...",
+      "published": "2026-11-10T18:59:17Z",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "authors": [
+        "Sheethal Bhat",
+        "Bogdan Georgescu",
+        "Awais Mansoor"
+      ]
+    },
+    {
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs an...",
+      "published": "2026-11-10T18:58:52Z",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "authors": [
+        "Alex Shtoff"
+      ]
+    },
+    {
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training,...",
+      "published": "2026-11-10T18:58:46Z",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "authors": [
+        "Zijian Zhang",
+        "Rizhen Hu",
+        "Jiangweizhi Peng"
+      ]
+    },
+    {
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but...",
+      "published": "2026-11-10T18:58:43Z",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "authors": [
+        "Ziang Liu",
+        "James J. Kim",
+        "Yijia Dai"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "likes": 3247,
+      "downloads": 16693,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "likes": 718,
+      "downloads": 142989,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    {
+      "id": "speridlabs/idol",
+      "likes": 2144,
+      "downloads": 28250,
+      "pipeline_tag": "image-to-3d",
+      "url": "https://huggingface.co/speridlabs/idol"
+    },
+    {
+      "id": "NousResearch/Arete-27B",
+      "likes": 438,
+      "downloads": 4023,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 11516,
+      "downloads": 2848771,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    }
+  ]
+}

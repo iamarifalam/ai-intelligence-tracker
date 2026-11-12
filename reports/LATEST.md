@@ -1,6 +1,6 @@
-# Daily Research Summary (2026-11-11)
+# Daily Research Summary (2026-11-12)
 
-Generated at: `2026-11-11 18:23:48 UTC`
+Generated at: `2026-11-12 01:19:15 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-11 18:23:48 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 2176 | 16693 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| `speridlabs/idol` | `image-to-3d` | 1961 | 28250 | [Link](https://huggingface.co/speridlabs/idol) |
-| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 652 | 142989 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
-| `ricursiveAI/Ripple-65B-Preview` | `N/A` | 506 | 7112 | [Link](https://huggingface.co/ricursiveAI/Ripple-65B-Preview) |
-| `moonshotai/Kimi-K3.1-Pro` | `image-text-to-text` | 1913 | 33617 | [Link](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) |
+| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 3247 | 16693 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 718 | 142989 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
+| `speridlabs/idol` | `image-to-3d` | 2144 | 28250 | [Link](https://huggingface.co/speridlabs/idol) |
+| `NousResearch/Arete-27B` | `text-generation` | 438 | 4023 | [Link](https://huggingface.co/NousResearch/Arete-27B) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 11516 | 2848771 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
