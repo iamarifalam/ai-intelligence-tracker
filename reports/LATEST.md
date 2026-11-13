@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-11-12)
+# Daily Research Summary (2026-11-13)
 
-Generated at: `2026-11-12 23:58:12 UTC`
+Generated at: `2026-11-13 10:36:15 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)
-- Authors: Emre Kutlusan, Yongmin Li
-- Published: `2026-11-10T18:59:54Z`
-- Summary: Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-sp...
+### 1. [Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)
+- Authors: Ellis Brown, Chris Hoang, Shengyi Qian
+- Published: `2026-11-12T18:59:54Z`
+- Summary: How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choic...
 
-### 2. [Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)
-- Authors: Sheethal Bhat, Bogdan Georgescu, Awais Mansoor
-- Published: `2026-11-10T18:59:17Z`
-- Summary: DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardize...
+### 2. [ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)
+- Authors: Jie Wang, Tong Zhu, JiaHao Kuang
+- Published: `2026-11-12T18:59:52Z`
+- Summary: Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public rep...
 
-### 3. [TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)
-- Authors: Alex Shtoff
-- Published: `2026-11-10T18:58:52Z`
-- Summary: We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs an...
+### 3. [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)
+- Authors: Zeynep Yıldız, Satchit Chatterji, Ercan Atam
+- Published: `2026-11-12T18:59:37Z`
+- Summary: Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule complian...
 
-### 4. [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)
-- Authors: Zijian Zhang, Rizhen Hu, Jiangweizhi Peng
-- Published: `2026-11-10T18:58:46Z`
-- Summary: Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training,...
+### 4. [AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)
+- Authors: Ethan Lin, Akanksha Sarkar, Ziang Liu
+- Published: `2026-11-12T18:59:06Z`
+- Summary: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, le...
 
-### 5. [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)
-- Authors: Ziang Liu, James J. Kim, Yijia Dai
-- Published: `2026-11-10T18:58:43Z`
-- Summary: LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but...
+### 5. [Learning When Diffusion Language Models Should Regenerate](http://arxiv.org/abs/2611.17320v1)
+- Authors: Minhae Oh, Jeonghye Kim, Jinwoo Koo
+- Published: `2026-11-12T18:58:50Z`
+- Summary: Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 4719 | 18933 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 866 | 306718 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
-| `NousResearch/Arete-27B` | `text-generation` | 484 | 4669 | [Link](https://huggingface.co/NousResearch/Arete-27B) |
-| `speridlabs/idol` | `image-to-3d` | 2230 | 29904 | [Link](https://huggingface.co/speridlabs/idol) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 11628 | 2782513 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 4831 | 21586 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 935 | 437039 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
+| `NousResearch/Arete-27B` | `text-generation` | 508 | 5545 | [Link](https://huggingface.co/NousResearch/Arete-27B) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 11676 | 2778909 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `speridlabs/idol` | `image-to-3d` | 2256 | 31367 | [Link](https://huggingface.co/speridlabs/idol) |
