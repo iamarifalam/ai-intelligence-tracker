@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T00:12:19.111017+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Unbundling Multimodal Vision Encoding",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choic...",
+      "published": "2026-11-12T18:59:54Z",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "authors": [
+        "Ellis Brown",
+        "Chris Hoang",
+        "Shengyi Qian"
+      ]
+    },
+    {
+      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public rep...",
+      "published": "2026-11-12T18:59:52Z",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "authors": [
+        "Jie Wang",
+        "Tong Zhu",
+        "JiaHao Kuang"
+      ]
+    },
+    {
+      "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize financial performance but typically does not enforce rule complian...",
+      "published": "2026-11-12T18:59:37Z",
+      "url": "http://arxiv.org/abs/2611.17329v1",
+      "authors": [
+        "Zeynep Y\u0131ld\u0131z",
+        "Satchit Chatterji",
+        "Ercan Atam"
+      ]
+    },
+    {
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, le...",
+      "published": "2026-11-12T18:59:06Z",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "authors": [
+        "Ethan Lin",
+        "Akanksha Sarkar",
+        "Ziang Liu"
+      ]
+    },
+    {
+      "title": "Learning When Diffusion Language Models Should Regenerate",
+      "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking...",
+      "published": "2026-11-12T18:58:50Z",
+      "url": "http://arxiv.org/abs/2611.17320v1",
+      "authors": [
+        "Minhae Oh",
+        "Jeonghye Kim",
+        "Jinwoo Koo"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "likes": 5843,
+      "downloads": 21586,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "likes": 1013,
+      "downloads": 437039,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    {
+      "id": "NousResearch/Arete-27B",
+      "likes": 546,
+      "downloads": 5545,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/NousResearch/Arete-27B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 11778,
+      "downloads": 2778909,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 19868,
+      "downloads": 6960395,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    }
+  ]
+}
