@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T17:34:22.831066+00:00",
+  "generated_at": "2026-11-15T23:19:03.728915+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-      "likes": 7480,
+      "likes": 7520,
       "downloads": 27037,
       "pipeline_tag": "text-generation",
       "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
     },
     {
       "id": "MiniMaxAI/MiniMax-H3-Image",
-      "likes": 1163,
+      "likes": 1179,
       "downloads": 571067,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
     },
     {
       "id": "Qwen/Qwen3.8-27B",
-      "likes": 20082,
+      "likes": 20114,
       "downloads": 6547772,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
     },
     {
       "id": "Lightricks/LTX-2.5",
-      "likes": 12017,
+      "likes": 12056,
       "downloads": 2754355,
       "pipeline_tag": "image-to-video",
       "url": "https://huggingface.co/Lightricks/LTX-2.5"
     },
     {
       "id": "Comfy-Org/MiniMax-H3-Image",
-      "likes": 407,
+      "likes": 410,
       "downloads": 1973388,
       "pipeline_tag": "text-to-image",
       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
