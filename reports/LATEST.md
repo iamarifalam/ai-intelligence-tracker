@@ -1,6 +1,6 @@
-# Daily Research Summary (2026-11-14)
+# Daily Research Summary (2026-11-15)
 
-Generated at: `2026-11-14 22:52:43 UTC`
+Generated at: `2026-11-15 10:26:09 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-14 22:52:43 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 7347 | 24470 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
-| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 1113 | 517948 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 20003 | 6757964 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 11920 | 2777667 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
-| `DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF` | `image-text-to-text` | 3118 | 1657783 | [Link](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) |
+| `xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic` | `text-generation` | 7435 | 27037 | [Link](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) |
+| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 1139 | 571067 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
+| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 20048 | 6547772 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 11969 | 2754355 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF` | `image-text-to-text` | 3137 | 1708637 | [Link](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF) |
