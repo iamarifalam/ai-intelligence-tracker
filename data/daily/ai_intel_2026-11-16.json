@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T10:41:22.958025+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+      "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identification System (AIS) is commonly used for this purpose, despite ...",
+      "published": "2026-11-13T18:59:43Z",
+      "url": "http://arxiv.org/abs/2611.18563v1",
+      "authors": [
+        "Daniel Grimm",
+        "Kyra Jongman",
+        "Renato Cordeiro Ferreira"
+      ]
+    },
+    {
+      "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+      "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attempted speech into text by relying on language priors to achiev...",
+      "published": "2026-11-13T18:59:02Z",
+      "url": "http://arxiv.org/abs/2611.18561v1",
+      "authors": [
+        "Jonathan D. McCart",
+        "Pranav I. Deevi",
+        "Mehdi Azabou"
+      ]
+    },
+    {
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+      "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fable 5.2, whereas open-weight models remain substantially less c...",
+      "published": "2026-11-13T18:59:02Z",
+      "url": "http://arxiv.org/abs/2611.18562v1",
+      "authors": [
+        "Jiaming Tang",
+        "Zhuoyang Zhang",
+        "Junxian Guo"
+      ]
+    },
+    {
+      "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+      "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., invariance to augmentation within a certain range or recoverabil...",
+      "published": "2026-11-13T18:58:54Z",
+      "url": "http://arxiv.org/abs/2611.18559v1",
+      "authors": [
+        "Genki Kinoshita",
+        "Ko Nishino"
+      ]
+    },
+    {
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+      "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability ha...",
+      "published": "2026-11-13T18:58:08Z",
+      "url": "http://arxiv.org/abs/2611.18553v1",
+      "authors": [
+        "Aayush Marasini",
+        "Barsat Khadka",
+        "Nick Rahimi"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "likes": 7619,
+      "downloads": 27037,
+      "pipeline_tag": "text-generation",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "likes": 1238,
+      "downloads": 571067,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 20172,
+      "downloads": 6763402,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 12127,
+      "downloads": 2789021,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "id": "Comfy-Org/MiniMax-H3-Image",
+      "likes": 434,
+      "downloads": 1973388,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image"
+    }
+  ]
+}
