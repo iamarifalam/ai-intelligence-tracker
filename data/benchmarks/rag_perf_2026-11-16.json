@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-16T10:41:23.079980+00:00",
+  "timestamp": "2026-11-16T20:48:49.346827+00:00",
   "metrics": {
     "num_docs": 200,
     "num_queries": 50,
     "top_k": 5,
-    "avg_latency_ms": 0.187,
-    "p95_latency_ms": 0.212,
+    "avg_latency_ms": 0.192,
+    "p95_latency_ms": 0.218,
     "hit_rate_pct": 100.0,
-    "total_time_ms": 9.43
+    "total_time_ms": 9.69
   }
 }
