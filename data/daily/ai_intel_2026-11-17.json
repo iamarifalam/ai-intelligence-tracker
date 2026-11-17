@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T22:46:45.689789+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Latent Lattice Language Models",
+      "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a m...",
+      "published": "2026-11-16T18:59:38Z",
+      "url": "http://arxiv.org/abs/2611.21608v1",
+      "authors": [
+        "Shivam Duggal",
+        "Zongze Wu",
+        "William T. Freeman"
+      ]
+    },
+    {
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess ea...",
+      "published": "2026-11-16T18:59:04Z",
+      "url": "http://arxiv.org/abs/2611.21605v1",
+      "authors": [
+        "Huawei Lin",
+        "Jinting Liu",
+        "Tongyan Wang"
+      ]
+    },
+    {
+      "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+      "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eas...",
+      "published": "2026-11-16T18:58:55Z",
+      "url": "http://arxiv.org/abs/2611.21602v1",
+      "authors": [
+        "Ilia Azizi",
+        "Frederick Iat-Hin Tam",
+        "Marc-Olivier Boldi"
+      ]
+    },
+    {
+      "title": "How VLMs Plan What's Next",
+      "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts...",
+      "published": "2026-11-16T18:58:30Z",
+      "url": "http://arxiv.org/abs/2611.21600v1",
+      "authors": [
+        "Rohit Gandikota",
+        "Arnab Sen Sharma",
+        "Adam Belfki"
+      ]
+    },
+    {
+      "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+      "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural network controllers. Hyperlyve learns and formally certifies continuous piecewise-af...",
+      "published": "2026-11-16T18:58:29Z",
+      "url": "http://arxiv.org/abs/2611.21599v1",
+      "authors": [
+        "Brian Yarbrough",
+        "Jesse Wayment",
+        "Jingbo Wang"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "likes": 1445,
+      "downloads": 727110,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    },
+    {
+      "id": "Qwen/Qwen3.8-27B",
+      "likes": 20414,
+      "downloads": 6942530,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 12398,
+      "downloads": 2828071,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "id": "higurashi-ai/Haru-4B",
+      "likes": 496,
+      "downloads": 4445,
+      "pipeline_tag": "audio-to-audio",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+    },
+    {
+      "id": "thinkingmachines/Inkling-2-Small",
+      "likes": 438,
+      "downloads": 18359,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+    }
+  ]
+}
