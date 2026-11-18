@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T22:28:38.578156+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitti...",
+      "published": "2026-11-17T18:59:37Z",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "authors": [
+        "Giannis Daras",
+        "Marios Papachristou",
+        "Adam Klivans"
+      ]
+    },
+    {
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent...",
+      "published": "2026-11-17T18:59:27Z",
+      "url": "http://arxiv.org/abs/2611.23228v1",
+      "authors": [
+        "Rui Ning",
+        "Om Chabra",
+        "Hari Balakrishnan"
+      ]
+    },
+    {
+      "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F...",
+      "published": "2026-11-17T18:58:40Z",
+      "url": "http://arxiv.org/abs/2611.23225v1",
+      "authors": [
+        "Xingyang Yu"
+      ]
+    },
+    {
+      "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative requirements. Consequently, any desirable approximate solution must (nearly) satis...",
+      "published": "2026-11-17T18:57:16Z",
+      "url": "http://arxiv.org/abs/2611.23221v1",
+      "authors": [
+        "Zhaosong Lu",
+        "Yifeng Xiao"
+      ]
+    },
+    {
+      "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how...",
+      "published": "2026-11-17T18:57:10Z",
+      "url": "http://arxiv.org/abs/2611.23219v1",
+      "authors": [
+        "Shobhita Sundaram",
+        "Cansu Sancaktar",
+        "Phillip Isola"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "higurashi-ai/Haru-4B",
+      "likes": 660,
+      "downloads": 5314,
+      "pipeline_tag": "audio-to-audio",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 12545,
+      "downloads": 2871190,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "likes": 389,
+      "downloads": 377,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+    },
+    {
+      "id": "thinkingmachines/Inkling-2-Small",
+      "likes": 490,
+      "downloads": 30082,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small"
+    },
+    {
+      "id": "MiniMaxAI/MiniMax-H3-Image",
+      "likes": 1576,
+      "downloads": 759661,
+      "pipeline_tag": "text-to-image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+    }
+  ]
+}
