@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T10:40:43.945266+00:00",
+  "generated_at": "2026-11-21T17:52:35.190910+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,38 +61,38 @@
   "models": [
     {
       "id": "thinkingmachines/Inkling-2-Mini",
-      "likes": 1133,
+      "likes": 1743,
       "downloads": 7944,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
     },
     {
-      "id": "higurashi-ai/Haru-4B",
-      "likes": 5717,
-      "downloads": 8120,
-      "pipeline_tag": "audio-to-audio",
-      "url": "https://huggingface.co/higurashi-ai/Haru-4B"
-    },
-    {
-      "id": "harness-hub/Qwen3.8-27B-pi-adapted",
-      "likes": 842,
-      "downloads": 2383,
+      "id": "unsloth/Inkling-2-Mini-GGUF",
+      "likes": 502,
+      "downloads": 238152,
       "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
-    },
-    {
-      "id": "Sentinel7/h3",
-      "likes": 583,
-      "downloads": 0,
-      "pipeline_tag": "N/A",
-      "url": "https://huggingface.co/Sentinel7/h3"
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
     },
     {
       "id": "tencent/Hy4-flash",
-      "likes": 558,
+      "likes": 510,
       "downloads": 5588,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/tencent/Hy4-flash"
+    },
+    {
+      "id": "Lightricks/LTX-2.5",
+      "likes": 12896,
+      "downloads": 3000544,
+      "pipeline_tag": "image-to-video",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5"
+    },
+    {
+      "id": "inworld/voice-isolator",
+      "likes": 473,
+      "downloads": 0,
+      "pipeline_tag": "audio-to-audio",
+      "url": "https://huggingface.co/inworld/voice-isolator"
     }
   ]
 }

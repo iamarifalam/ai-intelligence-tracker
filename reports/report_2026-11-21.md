@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-11-21)
 
-Generated at: `2026-11-21 10:40:44 UTC`
+Generated at: `2026-11-21 17:52:35 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-21 10:40:44 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 1133 | 7944 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
-| `higurashi-ai/Haru-4B` | `audio-to-audio` | 5717 | 8120 | [Link](https://huggingface.co/higurashi-ai/Haru-4B) |
-| `harness-hub/Qwen3.8-27B-pi-adapted` | `image-text-to-text` | 842 | 2383 | [Link](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) |
-| `Sentinel7/h3` | `N/A` | 583 | 0 | [Link](https://huggingface.co/Sentinel7/h3) |
-| `tencent/Hy4-flash` | `image-text-to-text` | 558 | 5588 | [Link](https://huggingface.co/tencent/Hy4-flash) |
+| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 1743 | 7944 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
+| `unsloth/Inkling-2-Mini-GGUF` | `image-text-to-text` | 502 | 238152 | [Link](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
+| `tencent/Hy4-flash` | `image-text-to-text` | 510 | 5588 | [Link](https://huggingface.co/tencent/Hy4-flash) |
+| `Lightricks/LTX-2.5` | `image-to-video` | 12896 | 3000544 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
+| `inworld/voice-isolator` | `audio-to-audio` | 473 | 0 | [Link](https://huggingface.co/inworld/voice-isolator) |
