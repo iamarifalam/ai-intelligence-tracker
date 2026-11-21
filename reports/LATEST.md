@@ -1,6 +1,6 @@
-# Daily Research Summary (2026-11-20)
+# Daily Research Summary (2026-11-21)
 
-Generated at: `2026-11-20 19:01:15 UTC`
+Generated at: `2026-11-21 10:40:44 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-20 19:01:15 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `higurashi-ai/Haru-4B` | `audio-to-audio` | 4723 | 7323 | [Link](https://huggingface.co/higurashi-ai/Haru-4B) |
-| `harness-hub/Qwen3.8-27B-pi-adapted` | `image-text-to-text` | 840 | 1874 | [Link](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) |
-| `Qwen/Qwen3.8-27B` | `image-text-to-text` | 20773 | 6454419 | [Link](https://huggingface.co/Qwen/Qwen3.8-27B) |
-| `Lightricks/LTX-2.5` | `image-to-video` | 12845 | 2964523 | [Link](https://huggingface.co/Lightricks/LTX-2.5) |
-| `MiniMaxAI/MiniMax-H3-Image` | `text-to-image` | 1685 | 876986 | [Link](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) |
+| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 1133 | 7944 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
+| `higurashi-ai/Haru-4B` | `audio-to-audio` | 5717 | 8120 | [Link](https://huggingface.co/higurashi-ai/Haru-4B) |
+| `harness-hub/Qwen3.8-27B-pi-adapted` | `image-text-to-text` | 842 | 2383 | [Link](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) |
+| `Sentinel7/h3` | `N/A` | 583 | 0 | [Link](https://huggingface.co/Sentinel7/h3) |
+| `tencent/Hy4-flash` | `image-text-to-text` | 558 | 5588 | [Link](https://huggingface.co/tencent/Hy4-flash) |
