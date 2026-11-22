@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-22T10:45:41.158293+00:00",
+  "generated_at": "2026-11-22T18:14:37.192134+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -61,35 +61,35 @@
   "models": [
     {
       "id": "thinkingmachines/Inkling-2-Mini",
-      "likes": 3653,
+      "likes": 4549,
       "downloads": 23543,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
     },
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
-      "likes": 732,
+      "likes": 818,
       "downloads": 805993,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
     },
     {
       "id": "inworld/voice-isolator",
-      "likes": 557,
+      "likes": 597,
       "downloads": 0,
       "pipeline_tag": "audio-to-audio",
       "url": "https://huggingface.co/inworld/voice-isolator"
     },
     {
       "id": "tencent/Hy4-flash",
-      "likes": 569,
+      "likes": 596,
       "downloads": 6617,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/tencent/Hy4-flash"
     },
     {
       "id": "apple/FastFrames-L",
-      "likes": 504,
+      "likes": 520,
       "downloads": 0,
       "pipeline_tag": "text-to-video",
       "url": "https://huggingface.co/apple/FastFrames-L"
