@@ -1,44 +1,97 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T13:18:56.142809+00:00",
-  "papers_count": 0,
+  "generated_at": "2026-11-24T23:46:15.362593+00:00",
+  "papers_count": 5,
   "models_count": 5,
-  "papers": [],
+  "papers": [
+    {
+      "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+      "summary": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models, focusing on preserving both scene understandin...",
+      "published": "2026-11-23T18:59:52Z",
+      "url": "http://arxiv.org/abs/2611.31240v1",
+      "authors": [
+        "Seongchan Kim",
+        "Soowon Son",
+        "Sangoh Kim"
+      ]
+    },
+    {
+      "title": "Let Vision-Language Models Generate Images through Their Representations",
+      "summary": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to build on already learned multimodal knowle...",
+      "published": "2026-11-23T18:59:32Z",
+      "url": "http://arxiv.org/abs/2611.31237v1",
+      "authors": [
+        "JB Kim",
+        "Byungwoo Jeon",
+        "Kyungmin Lee"
+      ]
+    },
+    {
+      "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+      "summary": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails when wrong matches, or hard negatives, outrank the correct one, and the gap is the...",
+      "published": "2026-11-23T18:59:13Z",
+      "url": "http://arxiv.org/abs/2611.31233v1",
+      "authors": [
+        "Hani Alomari",
+        "Md Atabuzzaman",
+        "Chris Thomas"
+      ]
+    },
+    {
+      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+      "summary": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does conf...",
+      "published": "2026-11-23T18:58:52Z",
+      "url": "http://arxiv.org/abs/2611.31228v1",
+      "authors": [
+        "Daniel Theron"
+      ]
+    },
+    {
+      "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation Modelling",
+      "summary": "Understanding how genetic perturbations affect cellular behaviour is essential for studying gene function and regulatory mechanisms. Large-scale CRISPR screens measure these effects across thousands of genes, but cover relatively few cellular contexts. Predicting perturbation res...",
+      "published": "2026-11-23T18:58:32Z",
+      "url": "http://arxiv.org/abs/2611.31227v1",
+      "authors": [
+        "Abhishek Sharma",
+        "Aleksej Zelezniak"
+      ]
+    }
+  ],
   "models": [
     {
       "id": "thinkingmachines/Inkling-2-Mini",
-      "likes": 5642,
+      "likes": 5777,
       "downloads": 69042,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
     },
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
-      "likes": 1185,
+      "likes": 1249,
       "downloads": 1913407,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
     },
     {
       "id": "inworld/voice-isolator",
-      "likes": 772,
+      "likes": 814,
       "downloads": 12733,
       "pipeline_tag": "audio-to-audio",
       "url": "https://huggingface.co/inworld/voice-isolator"
     },
     {
-      "id": "tencent/Hy4-flash",
-      "likes": 665,
-      "downloads": 9167,
-      "pipeline_tag": "image-text-to-text",
-      "url": "https://huggingface.co/tencent/Hy4-flash"
-    },
-    {
       "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "likes": 701,
+      "likes": 751,
       "downloads": 573775,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF"
+    },
+    {
+      "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "likes": 1069,
+      "downloads": 3529,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
     }
   ]
 }
