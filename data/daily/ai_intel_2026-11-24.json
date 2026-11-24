@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T01:59:54.134627+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "Optimal Linear Regression Without a Variance",
+      "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $\u03b1$-moment $\u03bd$ for some unknown $\u03b1\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a bla...",
+      "published": "2026-11-20T18:58:45Z",
+      "url": "http://arxiv.org/abs/2611.27983v1",
+      "authors": [
+        "Artin Tajdini",
+        "Jasper C. H. Lee",
+        "Jonathan Scarlett"
+      ]
+    },
+    {
+      "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+      "summary": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. We benchmark three model families, namely linear regression, vanilla recurrent n...",
+      "published": "2026-11-20T18:57:15Z",
+      "url": "http://arxiv.org/abs/2611.27978v1",
+      "authors": [
+        "Hari Sitaula",
+        "Joseph Opitz"
+      ]
+    },
+    {
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "summary": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear G...",
+      "published": "2026-11-20T18:51:29Z",
+      "url": "http://arxiv.org/abs/2611.27973v1",
+      "authors": [
+        "Chang Nie",
+        "Chaoyou Fu",
+        "Songlin Liu"
+      ]
+    },
+    {
+      "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+      "summary": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and adolescents perform cognitive tasks. However, comparing features derived from th...",
+      "published": "2026-11-20T18:51:08Z",
+      "url": "http://arxiv.org/abs/2611.27970v1",
+      "authors": [
+        "Javier Sanchis",
+        "\u00c1lvaro Navarro",
+        "Jorge Garc\u00eda-Carrasco"
+      ]
+    },
+    {
+      "title": "Non-penetrating World Models",
+      "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the ope...",
+      "published": "2026-11-20T18:44:57Z",
+      "url": "http://arxiv.org/abs/2611.27963v1",
+      "authors": [
+        "Yuhang Dai",
+        "Yinwei Wu",
+        "Ziyue Lin"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "likes": 5500,
+      "downloads": 41888,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+    },
+    {
+      "id": "unsloth/Inkling-2-Mini-GGUF",
+      "likes": 1118,
+      "downloads": 1292888,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
+    },
+    {
+      "id": "inworld/voice-isolator",
+      "likes": 737,
+      "downloads": 0,
+      "pipeline_tag": "audio-to-audio",
+      "url": "https://huggingface.co/inworld/voice-isolator"
+    },
+    {
+      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "likes": 655,
+      "downloads": 329497,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF"
+    },
+    {
+      "id": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "likes": 1038,
+      "downloads": 3132,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted"
+    }
+  ]
+}

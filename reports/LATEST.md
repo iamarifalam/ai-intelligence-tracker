@@ -1,40 +1,40 @@
-# Daily Research Summary (2026-11-22)
+# Daily Research Summary (2026-11-24)
 
-Generated at: `2026-11-22 23:59:41 UTC`
+Generated at: `2026-11-24 01:59:54 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
-### 1. [RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)
-- Authors: Tuna Han Salih Meral, Kaan Oktay, Alec Helbling
-- Published: `2026-11-19T18:59:53Z`
-- Summary: Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natura...
+### 1. [Optimal Linear Regression Without a Variance](http://arxiv.org/abs/2611.27983v1)
+- Authors: Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett
+- Published: `2026-11-20T18:58:45Z`
+- Summary: We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a bla...
 
-### 2. [PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1)
-- Authors: Weihao Cheng
-- Published: `2026-11-19T18:59:34Z`
-- Summary: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play ga...
+### 2. [A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning](http://arxiv.org/abs/2611.27978v1)
+- Authors: Hari Sitaula, Joseph Opitz
+- Published: `2026-11-20T18:57:15Z`
+- Summary: This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. We benchmark three model families, namely linear regression, vanilla recurrent n...
 
-### 3. [TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)
-- Authors: Jinbin Luo, Xiaozhe Yao, Shang Yang
-- Published: `2026-11-19T18:58:31Z`
-- Summary: Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with ...
+### 3. [MemOnce: A Scalable Memory Architecture for Large Language Models](http://arxiv.org/abs/2611.27973v1)
+- Authors: Chang Nie, Chaoyou Fu, Songlin Liu
+- Published: `2026-11-20T18:51:29Z`
+- Summary: Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standard Transformers accumulate layer-wise, token-level KV caches, incurring linear G...
 
-### 4. [One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](http://arxiv.org/abs/2611.26617v1)
-- Authors: Yuxin Jiang, Wenqiang Sun, Jiaqi Li
-- Published: `2026-11-19T18:58:14Z`
-- Summary: Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics largely from scratch. We ask whether a pretrained video generator can instead p...
+### 4. [On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals](http://arxiv.org/abs/2611.27970v1)
+- Authors: Javier Sanchis, Álvaro Navarro, Jorge García-Carrasco
+- Published: `2026-11-20T18:51:08Z`
+- Summary: Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and adolescents perform cognitive tasks. However, comparing features derived from th...
 
-### 5. [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1)
-- Authors: Yiyang Du, Yuxuan Kuang, Qitao Zhao
-- Published: `2026-11-19T18:57:25Z`
-- Summary: Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, existing benchmarks report only episode-level success rates, which show neither how...
+### 5. [Non-penetrating World Models](http://arxiv.org/abs/2611.27963v1)
+- Authors: Yuhang Dai, Yinwei Wu, Ziyue Lin
+- Published: `2026-11-20T18:44:57Z`
+- Summary: We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the ope...
 
 ## Trending Models (Hugging Face)
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 4953 | 23543 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
-| `unsloth/Inkling-2-Mini-GGUF` | `image-text-to-text` | 874 | 805993 | [Link](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
-| `inworld/voice-isolator` | `audio-to-audio` | 633 | 0 | [Link](https://huggingface.co/inworld/voice-isolator) |
-| `tencent/Hy4-flash` | `image-text-to-text` | 620 | 6617 | [Link](https://huggingface.co/tencent/Hy4-flash) |
-| `harness-hub/Qwen3.8-27B-pi-adapted` | `image-text-to-text` | 991 | 2831 | [Link](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) |
+| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 5500 | 41888 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
+| `unsloth/Inkling-2-Mini-GGUF` | `image-text-to-text` | 1118 | 1292888 | [Link](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
+| `inworld/voice-isolator` | `audio-to-audio` | 737 | 0 | [Link](https://huggingface.co/inworld/voice-isolator) |
+| `AtomicChat/Inkling-2-Mini-Uncensored-GGUF` | `image-text-to-text` | 655 | 329497 | [Link](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) |
+| `harness-hub/Qwen3.8-27B-pi-adapted` | `image-text-to-text` | 1038 | 3132 | [Link](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted) |
