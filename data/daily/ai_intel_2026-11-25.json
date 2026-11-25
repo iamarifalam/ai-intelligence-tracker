@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T12:10:59.585759+00:00",
+  "papers_count": 5,
+  "models_count": 5,
+  "papers": [
+    {
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessa...",
+      "published": "2026-11-24T18:59:58Z",
+      "url": "http://arxiv.org/abs/2611.33158v1",
+      "authors": [
+        "Xiang Fan",
+        "Yuheng Wang",
+        "Jiayuan Yan"
+      ]
+    },
+    {
+      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCa...",
+      "published": "2026-11-24T18:59:08Z",
+      "url": "http://arxiv.org/abs/2611.33153v1",
+      "authors": [
+        "Binfei Ji",
+        "Zhiwen Cao",
+        "Anqi Yang"
+      ]
+    },
+    {
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data....",
+      "published": "2026-11-24T18:59:04Z",
+      "url": "http://arxiv.org/abs/2611.33151v1",
+      "authors": [
+        "Yuwei Yang",
+        "Xiaoxiao Sun",
+        "Alejandro Lozano"
+      ]
+    },
+    {
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "summary": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the str...",
+      "published": "2026-11-24T18:58:53Z",
+      "url": "http://arxiv.org/abs/2611.33148v1",
+      "authors": [
+        "Dawid J. Kopiczko",
+        "Tijmen Blankevoort",
+        "Yuki M. Asano"
+      ]
+    },
+    {
+      "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+      "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-time control. This motivates efficient proxies for future imagin...",
+      "published": "2026-11-24T18:56:04Z",
+      "url": "http://arxiv.org/abs/2611.33141v1",
+      "authors": [
+        "Vansh Kapoor",
+        "Max Sobol Mark",
+        "Sreyas Venkataraman"
+      ]
+    }
+  ],
+  "models": [
+    {
+      "id": "thinkingmachines/Inkling-2-Mini",
+      "likes": 5884,
+      "downloads": 96527,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
+    },
+    {
+      "id": "unsloth/Inkling-2-Mini-GGUF",
+      "likes": 1305,
+      "downloads": 2445633,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
+    },
+    {
+      "id": "inworld/voice-isolator",
+      "likes": 848,
+      "downloads": 15244,
+      "pipeline_tag": "audio-to-audio",
+      "url": "https://huggingface.co/inworld/voice-isolator"
+    },
+    {
+      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "likes": 790,
+      "downloads": 762491,
+      "pipeline_tag": "image-text-to-text",
+      "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF"
+    },
+    {
+      "id": "SulphurAI/Sulphur-3",
+      "likes": 968,
+      "downloads": 189735,
+      "pipeline_tag": "N/A",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-3"
+    }
+  ]
+}
