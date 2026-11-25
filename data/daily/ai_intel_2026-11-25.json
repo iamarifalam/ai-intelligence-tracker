@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T12:10:59.585759+00:00",
+  "generated_at": "2026-11-25T23:28:22.224227+00:00",
   "papers_count": 5,
   "models_count": 5,
   "papers": [
@@ -63,35 +63,35 @@
   "models": [
     {
       "id": "thinkingmachines/Inkling-2-Mini",
-      "likes": 5884,
+      "likes": 6019,
       "downloads": 96527,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
     },
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
-      "likes": 1305,
+      "likes": 1367,
       "downloads": 2445633,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF"
     },
     {
       "id": "inworld/voice-isolator",
-      "likes": 848,
+      "likes": 893,
       "downloads": 15244,
       "pipeline_tag": "audio-to-audio",
       "url": "https://huggingface.co/inworld/voice-isolator"
     },
     {
       "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "likes": 790,
+      "likes": 838,
       "downloads": 762491,
       "pipeline_tag": "image-text-to-text",
       "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF"
     },
     {
       "id": "SulphurAI/Sulphur-3",
-      "likes": 968,
+      "likes": 1067,
       "downloads": 189735,
       "pipeline_tag": "N/A",
       "url": "https://huggingface.co/SulphurAI/Sulphur-3"

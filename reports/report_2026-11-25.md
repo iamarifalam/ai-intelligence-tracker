@@ -1,6 +1,6 @@
 # Daily Research Summary (2026-11-25)
 
-Generated at: `2026-11-25 12:10:59 UTC`
+Generated at: `2026-11-25 23:28:22 UTC`
 
 ## arXiv Papers (cs.AI, cs.CL, cs.LG)
 
@@ -33,8 +33,8 @@ Generated at: `2026-11-25 12:10:59 UTC`
 
 | Model ID | Pipeline | Likes | Downloads | Source |
 | :--- | :--- | :--- | :--- | :--- |
-| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 5884 | 96527 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
-| `unsloth/Inkling-2-Mini-GGUF` | `image-text-to-text` | 1305 | 2445633 | [Link](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
-| `inworld/voice-isolator` | `audio-to-audio` | 848 | 15244 | [Link](https://huggingface.co/inworld/voice-isolator) |
-| `AtomicChat/Inkling-2-Mini-Uncensored-GGUF` | `image-text-to-text` | 790 | 762491 | [Link](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) |
-| `SulphurAI/Sulphur-3` | `N/A` | 968 | 189735 | [Link](https://huggingface.co/SulphurAI/Sulphur-3) |
+| `thinkingmachines/Inkling-2-Mini` | `image-text-to-text` | 6019 | 96527 | [Link](https://huggingface.co/thinkingmachines/Inkling-2-Mini) |
+| `unsloth/Inkling-2-Mini-GGUF` | `image-text-to-text` | 1367 | 2445633 | [Link](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF) |
+| `inworld/voice-isolator` | `audio-to-audio` | 893 | 15244 | [Link](https://huggingface.co/inworld/voice-isolator) |
+| `AtomicChat/Inkling-2-Mini-Uncensored-GGUF` | `image-text-to-text` | 838 | 762491 | [Link](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF) |
+| `SulphurAI/Sulphur-3` | `N/A` | 1067 | 189735 | [Link](https://huggingface.co/SulphurAI/Sulphur-3) |
